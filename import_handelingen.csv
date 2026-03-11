@@ -1,0 +1,1333 @@
+han_vrij1,ele_vrij1,han_tekst,han_prijs,han_cyclus,han_startjaar,han_stopjaar,han_type,han_fonds,han_kostensoort
+H-ZEM-00001,E-ZEM-00001,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 1,1500.00,10,2035,0,O,,Invest
+H-ZEM-00002,E-ZEM-00001,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 1,180.11,40,2025,0,H,,DUMAVA
+H-ZEM-00003,E-ZEM-00001,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 1,69.10,20,2045,0,H,,Invest
+H-ZEM-00004,E-ZEM-00002,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 2,1500.00,10,2035,0,O,,Invest
+H-ZEM-00005,E-ZEM-00002,Vervangen dakbedekking bitumen ongeballast + bij  isoleren Dakvlak 2,180.11,40,2025,0,H,,DUMAVA
+H-ZEM-00006,E-ZEM-00002,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 2,69.10,20,2045,0,H,,Invest
+H-ZEM-00007,E-ZEM-00003,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 3,1500.00,10,2035,0,O,,Invest
+H-ZEM-00008,E-ZEM-00003,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 3,180.11,40,2025,0,H,,DUMAVA
+H-ZEM-00009,E-ZEM-00003,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 3,69.10,20,2045,0,H,,Invest
+H-ZEM-00010,E-ZEM-00004,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 4,4500.00,10,2035,0,O,,Invest
+H-ZEM-00011,E-ZEM-00004,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 4,180.11,40,2025,0,H,,DUMAVA
+H-ZEM-00012,E-ZEM-00004,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 4,69.10,20,2045,0,H,,Invest
+H-ZEM-00013,E-ZEM-00005,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 5,5500.00,10,2035,0,O,,Invest
+H-ZEM-00014,E-ZEM-00005,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 5,180.11,40,2025,0,H,,DUMAVA
+H-ZEM-00015,E-ZEM-00005,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 5,69.10,20,2045,0,H,,Invest
+H-ZEM-00016,E-ZEM-00006,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 6,1500.00,10,2035,0,O,,Invest
+H-ZEM-00017,E-ZEM-00006,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 6,180.11,40,2025,0,H,,DUMAVA
+H-ZEM-00018,E-ZEM-00006,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 6,69.10,20,2045,0,H,,Invest
+H-ZEM-00019,E-ZEM-00007,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 7,1500.00,10,2035,0,O,,Invest
+H-ZEM-00020,E-ZEM-00007,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 7,180.11,40,2025,0,H,,DUMAVA
+H-ZEM-00021,E-ZEM-00007,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 7,69.10,20,2045,0,H,,Invest
+H-ZEM-00022,E-ZEM-00008,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 8,3500.00,10,2035,0,O,,Invest
+H-ZEM-00023,E-ZEM-00008,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 8,180.11,40,2025,0,H,,DUMAVA
+H-ZEM-00024,E-ZEM-00008,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 8,69.10,20,2045,0,H,,Invest
+H-ZEM-00025,E-ZEM-00009,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 9,7500.00,10,2035,0,O,,Invest
+H-ZEM-00026,E-ZEM-00009,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 9,180.11,40,2025,0,H,,DUMAVA
+H-ZEM-00027,E-ZEM-00009,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 9,69.10,20,2045,0,H,,Invest
+H-ZEM-00028,E-ZEM-00010,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 10,3500.00,10,2035,0,O,,Invest
+H-ZEM-00029,E-ZEM-00010,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 10,180.11,40,2025,0,H,,DUMAVA
+H-ZEM-00030,E-ZEM-00010,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 10,69.10,20,2045,0,H,,Invest
+H-ZEM-00031,E-ZEM-00011,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 12,3500.00,10,2035,0,O,,Invest
+H-ZEM-00032,E-ZEM-00011,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 12,180.11,40,2025,0,H,,DUMAVA
+H-ZEM-00033,E-ZEM-00011,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 12,69.10,20,2045,0,H,,Invest
+H-ZEM-00034,E-ZEM-00012,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 12,7500.00,10,2035,0,O,,Invest
+H-ZEM-00035,E-ZEM-00012,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 12,180.11,40,2025,0,H,,DUMAVA
+H-ZEM-00036,E-ZEM-00012,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 12,69.10,20,2045,0,H,,Invest
+H-ZEM-00037,E-ZEM-00013,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 1,1500.00,10,2036,0,O,,Invest
+H-ZEM-00038,E-ZEM-00013,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 1,180.11,40,2046,0,H,,Invest
+H-ZEM-00039,E-ZEM-00013,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 1,69.10,20,2026,0,H,,Invest
+H-ZEM-00040,E-ZEM-00014,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 2,1500.00,10,2036,0,O,,Invest
+H-ZEM-00041,E-ZEM-00014,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 2,180.11,40,2046,0,H,,Invest
+H-ZEM-00042,E-ZEM-00014,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 2,69.10,20,2026,0,H,,Invest
+H-ZEM-00043,E-ZEM-00015,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 3,2500.00,10,2036,0,O,,Invest
+H-ZEM-00044,E-ZEM-00015,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 3,180.11,40,2046,0,H,,Invest
+H-ZEM-00045,E-ZEM-00015,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 3,69.10,20,2026,0,H,,Invest
+H-ZEM-00046,E-ZEM-00016,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 4,5500.00,10,2036,0,O,,Invest
+H-ZEM-00047,E-ZEM-00016,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 4,180.11,40,2046,0,H,,Invest
+H-ZEM-00048,E-ZEM-00016,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 4,69.10,20,2026,0,H,,Invest
+H-ZEM-00049,E-ZEM-00017,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 2,3500.00,10,2030,0,O,,Invest
+H-ZEM-00050,E-ZEM-00017,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 2,180.11,40,2060,0,H,,Invest
+H-ZEM-00051,E-ZEM-00017,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 2,69.10,20,2040,0,H,,Invest
+H-ZEM-00052,E-ZEM-00018,Inspecteren en plaatselijk herstellen Dakafwerking antraciet pannen Dakvlak 1,13.24,10,2030,0,H,,Invest
+H-ZEM-00053,E-ZEM-00019,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 4,2500.00,10,2030,0,O,,Invest
+H-ZEM-00054,E-ZEM-00019,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 4,180.11,40,2060,0,H,,Invest
+H-ZEM-00055,E-ZEM-00019,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 4,69.10,20,2040,0,H,,Invest
+H-ZEM-00056,E-ZEM-00020,Inspecteren en plaatselijk herstellen Dakafwerking antraciet pannen Dakvlak 3,13.24,10,2030,0,H,,Invest
+H-ZEM-00057,E-ZEM-00021,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 6,5500.00,10,2030,0,O,,Invest
+H-ZEM-00058,E-ZEM-00021,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 6,180.11,40,2060,0,H,,Invest
+H-ZEM-00059,E-ZEM-00021,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 6,69.10,20,2040,0,H,,Invest
+H-ZEM-00060,E-ZEM-00022,Inspecteren en plaatselijk herstellen Dakafwerking antraciet pannen Dakvlak 5,13.24,10,2030,0,H,,Invest
+H-ZEM-00061,E-ZEM-00023,Inspecteren en plaatselijk herstellen Dakafwerking antraciet pannen Dakvlak 7,13.24,10,2030,0,H,,Invest
+H-ZEM-00062,E-ZEM-00024,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 1,5500.00,10,2034,0,O,,Invest
+H-ZEM-00063,E-ZEM-00024,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 1,180.11,40,2064,0,H,,Invest
+H-ZEM-00064,E-ZEM-00024,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 1,69.10,20,2044,0,H,,Invest
+H-ZEM-00065,E-ZEM-00025,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 4,3500.00,10,2034,0,O,,Invest
+H-ZEM-00066,E-ZEM-00025,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 4,180.11,40,2064,0,H,,Invest
+H-ZEM-00067,E-ZEM-00025,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 4,69.10,20,2044,0,H,,Invest
+H-ZEM-00068,E-ZEM-00026,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 2,2500.00,10,2034,0,O,,Invest
+H-ZEM-00069,E-ZEM-00026,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 2,180.11,40,2064,0,H,,Invest
+H-ZEM-00070,E-ZEM-00026,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 2,69.10,20,2044,0,H,,Invest
+H-ZEM-00071,E-ZEM-00027,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 5,5500.00,10,2034,0,O,,Invest
+H-ZEM-00072,E-ZEM-00027,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 5,180.11,40,2064,0,H,,Invest
+H-ZEM-00073,E-ZEM-00027,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 5,69.10,20,2044,0,H,,Invest
+H-ZEM-00074,E-ZEM-00028,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 3,5500.00,10,2034,0,O,,Invest
+H-ZEM-00075,E-ZEM-00028,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 3,180.11,40,2064,0,H,,Invest
+H-ZEM-00076,E-ZEM-00028,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 3,69.10,20,2044,0,H,,Invest
+H-ZEM-00077,E-ZEM-00029,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 3,1500.00,10,2044,0,O,,Invest
+H-ZEM-00078,E-ZEM-00029,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 3,180.11,40,2035,0,H,,Invest
+H-ZEM-00079,E-ZEM-00029,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 3,69.10,20,2055,0,H,,Invest
+H-ZEM-00080,E-ZEM-00030,"Vervangen Dakafwerking aluminium, golfplaten Dakvlak 4",210.23,40,2035,0,H,,Invest
+H-ZEM-00081,E-ZEM-00031,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 5,1500.00,10,2044,0,O,,Invest
+H-ZEM-00082,E-ZEM-00031,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 5,180.11,40,2035,0,H,,Invest
+H-ZEM-00083,E-ZEM-00031,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 5,69.10,20,2055,0,H,,Invest
+H-ZEM-00084,E-ZEM-00032,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 6,2500.00,10,2044,0,O,,Invest
+H-ZEM-00085,E-ZEM-00032,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 6,180.11,40,2035,0,H,,Invest
+H-ZEM-00086,E-ZEM-00032,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 6,69.10,20,2055,0,H,,Invest
+H-ZEM-00087,E-ZEM-00033,"Vervangen Dakafwerking aluminium, golfplaten Dakvlak 1",210.23,40,2035,0,H,,Invest
+H-ZEM-00088,E-ZEM-00034,"Vervangen Dakafwerking aluminium, golfplaten Dakvlak 2",210.23,40,2035,0,H,,Invest
+H-ZEM-00089,E-ZEM-00035,Vervangen automatische schuifdeur 1e verd. PG,10180.53,12,2030,0,H,,Invest
+H-ZEM-00090,E-ZEM-00036,Vervangen automatische draaideur Binnendeur noodunit,4361.00,12,2036,0,H,,Invest
+H-ZEM-00091,E-ZEM-00037,Vervangen automatische draaideur Binnendeur tuin/terras,4361.00,12,2025,0,H,,Invest
+H-ZEM-00092,E-ZEM-00038,Vervangen automatische draaideur Buitendeur tuin,4361.00,12,2025,0,H,,Invest
+H-ZEM-00093,E-ZEM-00039,Vervangen automatische draaideur M/S keuken naast lift,4361.00,12,2031,0,H,,Invest
+H-ZEM-00094,E-ZEM-00040,Vervangen automatische draaideur Binnendeur aanleunwo.,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00095,E-ZEM-00041,Vervangen automatische draaideur Binnendeur aanleunwo. naast lift,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00096,E-ZEM-00042,Vervangen automatische schuifdeur Binnendeur entree,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00097,E-ZEM-00043,Vervangen automatische schuifdeur Binnendeur gang naar kantoren,10180.53,12,2035,0,H,,Invest
+H-ZEM-00098,E-ZEM-00044,Vervangen automatische schuifdeur Binnendeur restaurant,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00099,E-ZEM-00045,Vervangen automatische schuifdeur Buitendeur achter,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00100,E-ZEM-00046,Vervangen automatische schuifdeur Buitendeur entree,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00101,E-ZEM-00047,Vervangen automatische schuifdeur Binnendeur entree,10180.53,12,2031,0,H,,Invest
+H-ZEM-00102,E-ZEM-00048,Vervangen automatische schuifdeur Buitendeur entree,10180.53,12,2031,0,H,,Invest
+H-ZEM-00104,E-ZEM-00050,Vervangen automatische draaideur Entree gesloten afdeling,4361.00,12,2027,0,H,,Invest
+H-ZEM-00106,E-ZEM-00052,Vervangen automatische draaideur Gesloten afdeling,4361.00,12,2029,0,H,,Invest
+H-ZEM-00107,E-ZEM-00053,Vervangen automatische draaideur Personeelsuitgang,4361.00,12,2026,0,H,,Invest
+H-ZEM-00110,E-ZEM-00056,Vervangen automatische schuifdeur Binnendeur,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00111,E-ZEM-00057,Vervangen automatische schuifdeur Buitendeur entree,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00112,E-ZEM-00058,"Vervangen automatische schuifdeur Gesloten afdeling, 1e vlaspit",10180.53,12,2028,0,H,,Invest
+H-ZEM-00113,E-ZEM-00059,"Vervangen automatische schuifdeur Gelsoten afdeling, BG vlasblom",10180.53,12,2028,0,H,,Invest
+H-ZEM-00114,E-ZEM-00060,Vervangen automatische schuifdeur Toegangs tuin t.p.v. noodt,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00115,E-ZEM-00061,"Vervangen automatische draaideur Buitendeur gesloten afdeling, UWD2",4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00116,E-ZEM-00062,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 3,4500.00,10,2035,0,O,,Invest
+H-ZEM-00117,E-ZEM-00062,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 3,180.11,40,2035,0,H,,Invest
+H-ZEM-00118,E-ZEM-00062,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 3,69.10,20,2055,0,H,,Invest
+H-ZEM-00119,E-ZEM-00063,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 4,69.10,20,2055,0,H,,Invest
+H-ZEM-00120,E-ZEM-00063,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 4,1500.00,10,2035,0,O,,Invest
+H-ZEM-00121,E-ZEM-00063,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 4,180.11,40,2035,0,H,,Invest
+H-ZEM-00122,E-ZEM-00064,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 9,8500.00,10,2032,0,O,,Invest
+H-ZEM-00123,E-ZEM-00064,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 9,180.11,40,2053,0,H,,Invest
+H-ZEM-00124,E-ZEM-00064,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 9,69.10,20,2033,0,H,,Invest
+H-ZEM-00125,E-ZEM-00065,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 10,1500.00,10,2032,0,O,,Invest
+H-ZEM-00126,E-ZEM-00065,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 10,180.11,40,2053,0,H,,Invest
+H-ZEM-00127,E-ZEM-00065,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 10,69.10,20,2033,0,H,,Invest
+H-ZEM-00128,E-ZEM-00066,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 14,4500.00,10,2032,0,O,,Invest
+H-ZEM-00129,E-ZEM-00066,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 14,180.11,40,2053,0,H,,Invest
+H-ZEM-00130,E-ZEM-00066,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 14,69.10,20,2033,0,H,,Invest
+H-ZEM-00131,E-ZEM-00067,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 12,7500.00,10,2032,0,O,,Invest
+H-ZEM-00132,E-ZEM-00067,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 12,180.11,40,2043,0,H,,Invest
+H-ZEM-00133,E-ZEM-00067,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 12,69.10,20,2063,0,H,,Invest
+H-ZEM-00134,E-ZEM-00068,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 13,1500.00,10,2032,0,O,,Invest
+H-ZEM-00135,E-ZEM-00068,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 13,180.11,40,2043,0,H,,Invest
+H-ZEM-00136,E-ZEM-00068,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 13,69.10,20,2063,0,H,,Invest
+H-ZEM-00137,E-ZEM-00069,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 5A,5500.00,10,2032,0,O,,Invest
+H-ZEM-00138,E-ZEM-00069,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 5A,180.11,40,2053,0,H,,Invest
+H-ZEM-00139,E-ZEM-00069,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 5A,69.10,20,2033,0,H,,Invest
+H-ZEM-00140,E-ZEM-00070,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 1,7500.00,10,2032,0,O,,Invest
+H-ZEM-00141,E-ZEM-00070,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 1,180.11,40,2052,0,H,,Invest
+H-ZEM-00142,E-ZEM-00070,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 1,69.10,20,2032,0,H,,Invest
+H-ZEM-00143,E-ZEM-00071,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 2,1500.00,10,2032,0,O,,Invest
+H-ZEM-00144,E-ZEM-00071,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 2,180.11,40,2052,0,H,,Invest
+H-ZEM-00145,E-ZEM-00071,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 2,69.10,20,2032,0,H,,Invest
+H-ZEM-00146,E-ZEM-00072,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 6,7500.00,10,2032,0,O,,Invest
+H-ZEM-00147,E-ZEM-00072,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 6,180.11,40,2052,0,H,,Invest
+H-ZEM-00148,E-ZEM-00072,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 6,69.10,20,2032,0,H,,Invest
+H-ZEM-00149,E-ZEM-00073,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 7,4500.00,10,2032,0,O,,Invest
+H-ZEM-00150,E-ZEM-00073,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 7,180.11,40,2052,0,H,,Invest
+H-ZEM-00151,E-ZEM-00073,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 7,69.10,20,2032,0,H,,Invest
+H-ZEM-00152,E-ZEM-00074,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 8,1500.00,10,2032,0,O,,Invest
+H-ZEM-00153,E-ZEM-00074,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 8,180.11,40,2052,0,H,,Invest
+H-ZEM-00154,E-ZEM-00074,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 8,69.10,20,2032,0,H,,Invest
+H-ZEM-00155,E-ZEM-00075,Vervangen automatische schuifdeur B1 Gesloten afd. De Berk,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00156,E-ZEM-00076,Vervangen automatische schuifdeur B2 Afd. Oliander,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00157,E-ZEM-00077,Vervangen automatische schuifdeur B2 Afd. Oliander,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00158,E-ZEM-00078,Vervangen automatische schuifdeur B2 Lift/trap/restaurant,10180.53,12,2028,0,H,,Invest
+H-ZEM-00159,E-ZEM-00079,Vervangen automatische schuifdeur B3 Griepvaccinatie,10180.53,12,2027,0,H,,Invest
+H-ZEM-00160,E-ZEM-00080,Vervangen automatische schuifdeur C1 Binnendeur goederen,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00161,E-ZEM-00081,Vervangen automatische schuifdeur C1 Buitendeur goederen,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00162,E-ZEM-00082,Vervangen automatische schuifdeur C1 ICT/gang,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00163,E-ZEM-00083,Vervangen automatische schuifdeur C1 Schoonegang keuken,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00164,E-ZEM-00084,Vervangen automatische draaideur C1 Spoelkeuken,4361.00,12,2030,0,H,,Invest
+H-ZEM-00165,E-ZEM-00085,Vervangen automatische schuifdeur C1 TD Ruimte,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00166,E-ZEM-00086,Vervangen automatische schuifdeur C2 Dommelzicht,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00167,E-ZEM-00087,Vervangen automatische schuifdeur C2 Restaurant JBZ,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00168,E-ZEM-00088,Vervangen automatische schuifdeur C2 Restaurant/Gesloten afd.,10180.53,12,2035,0,H,,Invest
+H-ZEM-00169,E-ZEM-00089,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 5B,69.10,20,2033,0,H,,Invest
+H-ZEM-00170,E-ZEM-00089,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 5B,4500.00,10,2032,0,O,,Invest
+H-ZEM-00171,E-ZEM-00089,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 5B,180.11,40,2053,0,H,,Invest
+H-ZEM-00172,E-ZEM-00090,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 11,1500.00,10,2032,0,O,,Invest
+H-ZEM-00173,E-ZEM-00090,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 11,180.11,40,2053,0,H,,Invest
+H-ZEM-00174,E-ZEM-00090,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 11,69.10,20,2033,0,H,,Invest
+H-ZEM-00175,E-ZEM-00091,Vervangen automatische schuifdeur E1 Gesloten afd. De Linde,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00176,E-ZEM-00092,Vervangen automatische schuifdeur E2 Gesloten afd. De Peel,10180.53,12,2026,0,H,,Invest
+H-ZEM-00177,E-ZEM-00093,Vervangen automatische schuifdeur Binnendeur 5e verd.,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00178,E-ZEM-00094,Vervangen automatische schuifdeur H1 Binnendeur Corridor,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00179,E-ZEM-00095,Vervangen automatische schuifdeur H1 Buitendeur Corridor,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00180,E-ZEM-00096,Vervangen automatische schuifdeur H1 Corridor/half receptie,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00181,E-ZEM-00097,Vervangen automatische schuifdeur H1 Receptie/liften,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00182,E-ZEM-00098,Vervangen automatische schuifdeur H1 Receptie/liften,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00183,E-ZEM-00099,Vervangen automatische schuifdeur H2 Restaurant/trap,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00184,E-ZEM-00100,Vervangen automatische schuifdeur B4 Oleander,10180.53,12,2028,0,H,,Invest
+H-ZEM-00185,E-ZEM-00101,Vervangen automatische draaideur S6 Opslag,4361.00,12,2039,0,H,,Invest
+H-ZEM-00186,E-ZEM-00102,Vervangen automatische schuifdeur P1 Gesloten afd. De Kempen,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00187,E-ZEM-00103,Vervangen automatische schuifdeur P2 Gesloten afd. Meierij,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00188,E-ZEM-00104,Vervangen automatische draaideur S2 HK10,4361.00,12,2030,0,H,,Invest
+H-ZEM-00189,E-ZEM-00105,Vervangen automatische draaideur S2 HK11,4361.00,12,2034,0,H,,Invest
+H-ZEM-00190,E-ZEM-00106,Vervangen automatische draaideur S2 HK12,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00191,E-ZEM-00107,Vervangen automatische draaideur S2 HK13,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00192,E-ZEM-00108,Vervangen automatische draaideur S2 HK14,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00193,E-ZEM-00109,Vervangen automatische draaideur S2 HK15,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00194,E-ZEM-00110,Vervangen automatische draaideur S2 HK17,4361.00,12,2031,0,H,,Invest
+H-ZEM-00195,E-ZEM-00111,Vervangen automatische draaideur S2 HK18,4361.00,12,2030,0,H,,Invest
+H-ZEM-00196,E-ZEM-00112,Vervangen automatische draaideur S2 HK19,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00197,E-ZEM-00113,Vervangen automatische draaideur S2 HK2,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00198,E-ZEM-00114,Vervangen automatische schuifdeur S2 HK20,10180.53,12,2030,0,H,,Invest
+H-ZEM-00199,E-ZEM-00115,Vervangen automatische draaideur S2 HK21,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00200,E-ZEM-00116,Vervangen automatische draaideur S2 HK3,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00201,E-ZEM-00117,Vervangen automatische draaideur S2 HK4,4361.00,12,2034,0,H,,Invest
+H-ZEM-00202,E-ZEM-00118,Vervangen automatische draaideur S2 HK5,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00203,E-ZEM-00119,Vervangen automatische draaideur S2 HK6,4361.00,12,2034,0,H,,Invest
+H-ZEM-00204,E-ZEM-00120,Vervangen automatische draaideur S2 HK7,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00205,E-ZEM-00121,Vervangen automatische draaideur S2 HK8,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00206,E-ZEM-00122,Vervangen automatische draaideur S2 HK9,4361.00,12,2032,0,H,,Invest
+H-ZEM-00207,E-ZEM-00123,Vervangen automatische draaideur S2 HK16,4361.00,12,2033,0,H,,Invest
+H-ZEM-00208,E-ZEM-00124,Vervangen automatische draaideur S2 Rookruimte,4361.00,12,2030,0,H,,Invest
+H-ZEM-00209,E-ZEM-00125,Vervangen automatische draaideur S3 HK10,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00210,E-ZEM-00126,Vervangen automatische draaideur S3 HK11,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00211,E-ZEM-00127,Vervangen automatische draaideur S3 HK12,4361.00,12,2035,0,H,,Invest
+H-ZEM-00212,E-ZEM-00128,Vervangen automatische draaideur S3 HK13,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00213,E-ZEM-00129,Vervangen automatische draaideur S3 HK14,4361.00,12,2032,0,H,,Invest
+H-ZEM-00214,E-ZEM-00130,Vervangen automatische draaideur S3 HK15,4361.00,12,2030,0,H,,Invest
+H-ZEM-00215,E-ZEM-00131,Vervangen automatische draaideur S3 HK16,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00216,E-ZEM-00132,Vervangen automatische draaideur S3 HK17,4361.00,12,2033,0,H,,Invest
+H-ZEM-00217,E-ZEM-00133,Vervangen automatische draaideur S3 HK18,4361.00,12,2030,0,H,,Invest
+H-ZEM-00218,E-ZEM-00134,Vervangen automatische draaideur S3 HK19,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00219,E-ZEM-00135,Vervangen automatische draaideur S3 HK2,4361.00,12,2030,0,H,,Invest
+H-ZEM-00220,E-ZEM-00136,Vervangen automatische draaideur S3 HK20,4361.00,12,2031,0,H,,Invest
+H-ZEM-00221,E-ZEM-00137,Vervangen automatische draaideur S3 HK21,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00222,E-ZEM-00138,Vervangen automatische draaideur S3 HK3,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00223,E-ZEM-00139,Vervangen automatische draaideur S3 HK4,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00224,E-ZEM-00140,Vervangen automatische draaideur S3 HK5,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00225,E-ZEM-00141,Vervangen automatische draaideur S3 HK6,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00226,E-ZEM-00142,Vervangen automatische draaideur S3 HK7,4361.00,12,2030,0,H,,Invest
+H-ZEM-00227,E-ZEM-00143,Vervangen automatische draaideur S3 HK8,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00228,E-ZEM-00144,Vervangen automatische draaideur S3 HK9,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00229,E-ZEM-00145,Vervangen automatische schuifdeur S3 Rookruimte,10180.53,12,2029,0,H,,Invest
+H-ZEM-00230,E-ZEM-00146,Vervangen automatische draaideur S3 HK1,4361.00,12,2029,0,H,,Invest
+H-ZEM-00231,E-ZEM-00147,Vervangen automatische draaideur S4 HK1,4361.00,12,2031,0,H,,Invest
+H-ZEM-00232,E-ZEM-00148,Vervangen automatische draaideur S4 HK10,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00233,E-ZEM-00149,Vervangen automatische draaideur S4 HK11,4361.00,12,2032,0,H,,Invest
+H-ZEM-00234,E-ZEM-00150,Vervangen automatische draaideur S4 HK12,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00235,E-ZEM-00151,Vervangen automatische draaideur S4 HK14,4361.00,12,2030,0,H,,Invest
+H-ZEM-00236,E-ZEM-00152,Vervangen automatische draaideur S4 HK15,4361.00,12,2031,0,H,,Invest
+H-ZEM-00237,E-ZEM-00153,Vervangen automatische draaideur S4 HK16,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00238,E-ZEM-00154,Vervangen automatische draaideur S4 HK17,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00239,E-ZEM-00155,Vervangen automatische draaideur S4 HK18,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00240,E-ZEM-00156,Vervangen automatische draaideur S4 HK19,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00241,E-ZEM-00157,Vervangen automatische draaideur S4 HK2,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00242,E-ZEM-00158,Vervangen automatische draaideur S4 HK20,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00243,E-ZEM-00159,Vervangen automatische draaideur S4 HK21,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00244,E-ZEM-00160,Vervangen automatische draaideur S4 HK3,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00245,E-ZEM-00161,Vervangen automatische draaideur S4 HK5,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00246,E-ZEM-00162,Vervangen automatische draaideur S4 HK6,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00247,E-ZEM-00163,Vervangen automatische draaideur S4 HK7,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00248,E-ZEM-00164,Vervangen automatische draaideur S4 HK8,4361.00,12,2034,0,H,,Invest
+H-ZEM-00249,E-ZEM-00165,Vervangen automatische draaideur S4 HK9,4361.00,12,2035,0,H,,Invest
+H-ZEM-00250,E-ZEM-00166,Vervangen automatische draaideur S4 HK13,4361.00,12,2031,0,H,,Invest
+H-ZEM-00251,E-ZEM-00167,Vervangen automatische draaideur S5 HK1,4361.00,12,2035,0,H,,Invest
+H-ZEM-00252,E-ZEM-00168,Vervangen automatische draaideurS5 HK10,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00253,E-ZEM-00169,Vervangen automatische draaideur S5 HK11,4361.00,12,2031,0,H,,Invest
+H-ZEM-00254,E-ZEM-00170,Vervangen automatische draaideur S5 HK12,4361.00,12,2034,0,H,,Invest
+H-ZEM-00255,E-ZEM-00171,Vervangen automatische draaideur S5 HK13,4361.00,12,2034,0,H,,Invest
+H-ZEM-00256,E-ZEM-00172,Vervangen automatische draaideur S5 HK14,4361.00,12,2034,0,H,,Invest
+H-ZEM-00257,E-ZEM-00173,Vervangen automatische draaideur S5 HK15,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00258,E-ZEM-00174,Vervangen automatische draaideur S5 HK16,4361.00,12,2033,0,H,,Invest
+H-ZEM-00259,E-ZEM-00175,Vervangen automatische draaideur S5 HK17,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00260,E-ZEM-00176,Vervangen automatische draaideur S5 HK18,4361.00,12,2031,0,H,,Invest
+H-ZEM-00261,E-ZEM-00177,Vervangen automatische draaideur S5 HK19,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00262,E-ZEM-00178,Vervangen automatische draaideur S5 HK2,4361.00,12,2035,0,H,,Invest
+H-ZEM-00263,E-ZEM-00179,Vervangen automatische draaideur S5 HK20,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00264,E-ZEM-00180,Vervangen automatische draaideur S5 HK21,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00265,E-ZEM-00181,Vervangen automatische draaideur S5 HK3,4361.00,12,2031,0,H,,Invest
+H-ZEM-00266,E-ZEM-00182,Vervangen automatische draaideur S5 HK4,4361.00,12,2034,0,H,,Invest
+H-ZEM-00267,E-ZEM-00183,Vervangen automatische draaideur S5 HK5,4361.00,12,2036,0,H,,Invest
+H-ZEM-00268,E-ZEM-00184,Vervangen automatische draaideur S5 HK6,4361.00,12,2033,0,H,,Invest
+H-ZEM-00269,E-ZEM-00185,Vervangen automatische draaideur S5 HK7,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00270,E-ZEM-00186,Vervangen automatische draaideur S5 HK8,4361.00,12,2031,0,H,,Invest
+H-ZEM-00271,E-ZEM-00187,Vervangen automatische draaideur S5 HK9,4361.00,12,2034,0,H,,Invest
+H-ZEM-00272,E-ZEM-00188,Vervangen automatische schuifdeur S3 Entree Egelantier,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00273,E-ZEM-00189,Vervangen automatische schuifdeur S2 Huiskamer,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00274,E-ZEM-00190,Vervangen automatische schuifdeur S3 Huiskamer,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00275,E-ZEM-00191,Vervangen automatische schuifdeur S4 Huiskamer,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00276,E-ZEM-00192,Vervangen automatische schuifdeur S5 Huiskamer,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00279,E-ZEM-00195,Vervangen automatische schuifdeur B1 Oleander,10180.53,12,2031,0,H,,Invest
+H-ZEM-00280,E-ZEM-00196,Reviseren Liftmachine,7500.00,30,2033,0,H,,Invest
+H-ZEM-00281,E-ZEM-00196,Reviseren Schacht en cabinedeuren,10000.00,10,2026,0,H,,Invest
+H-ZEM-00282,E-ZEM-00196,Vervangen Frequentieregeling,10944.23,20,2036,0,H,,Invest
+H-ZEM-00283,E-ZEM-00196,Vervangen staalkabels,7500.00,15,2029,0,H,,Invest
+H-ZEM-00284,E-ZEM-00196,Vervangen Besturing,36690.00,20,2026,0,H,,Achter OH
+H-ZEM-00285,E-ZEM-00197,Reviseren Liftmachine,7500.00,30,2033,0,H,,Invest
+H-ZEM-00286,E-ZEM-00197,Reviseren Schacht en cabinedeuren,10000.00,10,2026,0,H,,Invest
+H-ZEM-00287,E-ZEM-00197,Vervangen Frequentieregeling,10944.23,20,2026,0,H,,Invest
+H-ZEM-00288,E-ZEM-00197,Vervangen staalkabels,7500.00,15,2029,0,H,,Invest
+H-ZEM-00289,E-ZEM-00197,Vervangen Besturing,36690.00,20,2026,0,H,,Achter OH
+H-ZEM-00290,E-ZEM-00198,Reviseren Schacht en cabinedeuren,10100.00,10,2026,0,H,,Invest
+H-ZEM-00291,E-ZEM-00198,Revisie liftmotor,7500.00,25,2033,0,H,,Invest
+H-ZEM-00292,E-ZEM-00198,Vervangen Frequentieregeling,10944.23,20,2036,0,H,,Invest
+H-ZEM-00293,E-ZEM-00198,Vervangen staalkabels,7500.00,15,2029,0,H,,Invest
+H-ZEM-00294,E-ZEM-00198,Vervangen Besturing,39850.00,20,2026,0,H,,Achter OH
+H-ZEM-00295,E-ZEM-00199,Vervangen automatische schuifdeur Buitendeur scootmobielruimte,10180.53,12,2035,0,H,,Invest
+H-ZEM-00296,E-ZEM-00200,Vervangen automatische schuifdeur Buitendeur Zorgwinkel,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00297,E-ZEM-00201,Vervangen onderdelen elektrische poort,3500.00,5,2028,0,H,,Invest
+H-ZEM-00298,E-ZEM-00202,Vervangen automatische schuifdeur Locatie niet bekend - nader te bepalen,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00299,E-ZEM-00203,Vervangen Afzuiginstallatie (gassen),3132.23,20,2033,0,H,,Invest
+H-ZEM-00300,E-ZEM-00204,Vervangen Koelcelinstallatie,8244.95,20,2033,0,H,,Invest
+H-ZEM-00301,E-ZEM-00205,Vervangen warmtepomp,41858.37,15,2037,0,H,,Invest
+H-ZEM-00302,E-ZEM-00206,Vervangen warmtepomp,41858.37,15,2037,0,H,,Invest
+H-ZEM-00307,E-ZEM-00211,Vervangen Regeltechniek (RK03),46419.37,25,2026,0,H,,Invest
+H-ZEM-00308,E-ZEM-00211,Vervangen opnemers (RK03),6419.37,5,2031,0,H,,Invest
+H-ZEM-00309,E-ZEM-00212,Vervangen Ontgasser,2391.67,18,2040,0,H,,Invest
+H-ZEM-00310,E-ZEM-00213,Vervangen Circulatiepomp,2867.13,15,2027,0,H,,Invest
+H-ZEM-00311,E-ZEM-00214,Vervangen Regeltechniek (RK04),46419.37,25,2026,0,H,,Invest
+H-ZEM-00312,E-ZEM-00214,Vervangen opnemers (RK04),6419.37,5,2031,0,H,,Invest
+H-ZEM-00313,E-ZEM-00215,Vervangen Afzuigventilator,2396.96,20,2033,0,H,,Invest
+H-ZEM-00314,E-ZEM-00216,Vervangen Afzuigventilator,2396.96,20,2043,0,H,,Invest
+H-ZEM-00315,E-ZEM-00217,Vervangen Toevoerventilator,2396.96,20,2043,0,H,,Invest
+H-ZEM-00317,E-ZEM-00219,Vervangen Regeltechniek,46419.37,25,2031,0,H,,Invest
+H-ZEM-00318,E-ZEM-00219,Vervangen opnemers,6419.37,5,2036,0,H,,Invest
+H-ZEM-00319,E-ZEM-00220,Vervangen voorraadboilers indirect gestookt < 200 l,3079.41,20,2042,0,H,,Invest
+H-ZEM-00320,E-ZEM-00220,Vervangen voorraadboilers indirect gestookt 200-500 l,6861.12,20,2042,0,H,,Invest
+H-ZEM-00321,E-ZEM-00221,Vervangen voorraadboilers indirect gestookt < 200 l,3079.41,20,2042,0,H,,Invest
+H-ZEM-00322,E-ZEM-00221,Vervangen voorraadboilers indirect gestookt 200-500 l,6861.12,20,2042,0,H,,Invest
+H-ZEM-00323,E-ZEM-00222,Vervangen voorraadboilers gasgestookt huishoudboiler 80L,2606.68,20,2042,0,H,,Invest
+H-ZEM-00324,E-ZEM-00222,Vervangen voorraadboilers gasgestookt industrieboiler 200 - 350L,6861.12,20,2042,0,H,,Invest
+H-ZEM-00325,E-ZEM-00223,Reconditioneren LBK toe-/afvoer binnenopstelling [12.000 m3/h],32057.89,35,2045,0,H,,Invest
+H-ZEM-00326,E-ZEM-00224,Vervangen Buffervat 1000 ltr,5015.32,20,2032,0,H,,Invest
+H-ZEM-00327,E-ZEM-00225,Vervangen Buffervat 1000 ltr,5015.32,20,2032,0,H,,Invest
+H-ZEM-00328,E-ZEM-00226,Vervangen Expansievat 300 ltr,1329.34,7,2028,0,H,,Invest
+H-ZEM-00331,E-ZEM-00229,Vervangen Afzuigventilator,3132.23,20,2030,0,H,,Invest
+H-ZEM-00332,E-ZEM-00230,Vervangen Afzuigventilator,3132.23,20,2030,0,H,,Invest
+H-ZEM-00333,E-ZEM-00231,Reconditioneren LBK toe-/afvoer binnenopstelling [12.000 m3/h],32057.89,35,2046,0,H,,Invest
+H-ZEM-00334,E-ZEM-00232,Reconditioneren LBK toe-/afvoer binnenopstelling [12.000 m3/h],32057.89,35,2046,0,H,,Invest
+H-ZEM-00335,E-ZEM-00233,Vervangen Koelmachine 250 - 300 kW,76413.25,20,2044,0,H,,Invest
+H-ZEM-00336,E-ZEM-00234,Vervangen Koelmachine 250 - 300 kW,76413.25,20,2044,0,H,,Invest
+H-ZEM-00337,E-ZEM-00235,Vervangen Buffervat 500 ltr,3326.32,20,2032,0,H,,Invest
+H-ZEM-00338,E-ZEM-00236,Vervangen Buffervat,2330.16,20,2032,0,H,,Invest
+H-ZEM-00340,E-ZEM-00238,Vervangen hydrofoor,6493.17,15,2026,0,H,,Invest
+H-ZEM-00341,E-ZEM-00239,Vervangen Schakelkast hydrofoor,5428.45,20,2044,0,H,,Invest
+H-ZEM-00342,E-ZEM-00240,Vervangen Buffervat 1000 ltr,5015.32,20,2032,0,H,,Invest
+H-ZEM-00343,E-ZEM-00241,Vervangen Buffervat 1250 ltr,7974.16,20,2032,0,H,,Invest
+H-ZEM-00344,E-ZEM-00242,Vervangen Expansievat 140 ltr,1500.00,7,2028,0,H,,Invest
+H-ZEM-00345,E-ZEM-00243,Vervangen Expansievat 300 ltr,2070.00,7,2028,0,H,,Invest
+H-ZEM-00348,E-ZEM-00246,Vervangen warmtepomp 40 kW,22535.79,15,2039,0,H,,Invest
+H-ZEM-00349,E-ZEM-00247,Vervangen Regeltechniek,116419.37,25,2031,0,H,,Invest
+H-ZEM-00350,E-ZEM-00247,Vervangen opnemers,6419.37,5,2036,0,H,,Invest
+H-ZEM-00351,E-ZEM-00248,Vervangen Regeltechniek,46419.37,25,2026,0,H,,Invest
+H-ZEM-00352,E-ZEM-00248,Vervangen opnemers,6419.37,5,2031,0,H,,Invest
+H-ZEM-00353,E-ZEM-00249,Vervangen tegenstroomapparaat (TSA),15470.28,10,2032,0,H,,Invest
+H-ZEM-00354,E-ZEM-00250,Vervangen tegenstroomapparaat (TSA),15470.28,10,2032,0,H,,Invest
+H-ZEM-00355,E-ZEM-00251,Vervangen Droge koeler,15018.99,20,2044,0,H,,Invest
+H-ZEM-00356,E-ZEM-00252,Vervangen tegenstroomapparaat (TSA),15470.28,10,2033,0,H,,Invest
+H-ZEM-00384,E-ZEM-00277,Vervangen slagboom Buitendeur huisvest. parkeerplaats,3521.00,5,2028,0,H,,Invest
+H-ZEM-00385,E-ZEM-00278,Vervangen terrein; schuifpoort,15086.17,24,2048,0,H,,Invest
+H-ZEM-00386,E-ZEM-00278,Vervangen onderdelen elektrische poort,3521.00,5,2036,0,H,,Invest
+H-ZEM-00387,E-ZEM-00279,Reviseren Liftkooi,10090.00,10,2030,0,H,,Invest
+H-ZEM-00388,E-ZEM-00279,Reviseren Schacht en cabinedeuren,12718.00,10,2028,0,H,,Invest
+H-ZEM-00389,E-ZEM-00279,Vervangen Aandrijfmachine,32014.00,30,2037,0,H,,Invest
+H-ZEM-00390,E-ZEM-00279,Vervangen Besturing,76857.00,20,2041,0,H,,Invest
+H-ZEM-00391,E-ZEM-00279,Vervangen Deuraandrijving,24639.00,12,2032,0,H,,Invest
+H-ZEM-00392,E-ZEM-00279,Vervangen Deurloopwerken,16111.00,20,2036,0,H,,Invest
+H-ZEM-00393,E-ZEM-00279,Vervangen Frequentieregeling,14178.00,20,2034,0,H,,Invest
+H-ZEM-00394,E-ZEM-00280,Reviseren Schacht en cabinedeuren,9655.00,10,2031,0,H,,Invest
+H-ZEM-00395,E-ZEM-00280,Vervangen Besturing,38090.00,20,2047,0,H,,Invest
+H-ZEM-00396,E-ZEM-00280,Vervangen Deuraandrijving,21244.00,15,2036,0,H,,Invest
+H-ZEM-00397,E-ZEM-00280,Vervangen Frequentieregeling,18789.00,20,2033,0,H,,Invest
+H-ZEM-00398,E-ZEM-00281,Reviseren Schacht en cabinedeuren,4060.00,10,2030,0,H,,Invest
+H-ZEM-00399,E-ZEM-00281,Vervangen Besturing,35904.00,20,2045,0,H,,Invest
+H-ZEM-00400,E-ZEM-00281,Vervangen Deuraandrijving,21244.00,15,2036,0,H,,Invest
+H-ZEM-00401,E-ZEM-00281,Vervangen Frequentieregeling,6967.00,20,2032,0,H,,Invest
+H-ZEM-00404,E-ZEM-00282,Vervangen staalkabels,7500.00,15,2032,0,H,,Invest
+H-ZEM-00405,E-ZEM-00282,Vervangen Frequentieregeling,19000.00,20,2035,0,H,,Invest
+H-ZEM-00407,E-ZEM-00283,Revisie liftmotor,7500.00,25,2033,0,H,,Invest
+H-ZEM-00409,E-ZEM-00283,Vervangen staalkabels,7500.00,15,2032,0,H,,Invest
+H-ZEM-00410,E-ZEM-00283,Vervangen Frequentieregeling,19000.00,20,2035,0,H,,Invest
+H-ZEM-00411,E-ZEM-00284,Reviseren Schacht en cabinedeuren,11421.00,10,2027,0,H,,Invest
+H-ZEM-00412,E-ZEM-00284,Reviseren Schacht en cabinedeuren,14401.00,10,2030,0,H,,Invest
+H-ZEM-00413,E-ZEM-00284,Vervangen Aandrijfmachine,18631.00,30,2033,0,H,,Invest
+H-ZEM-00414,E-ZEM-00284,Vervangen Besturing,65507.00,20,2028,0,H,,Invest
+H-ZEM-00415,E-ZEM-00284,Vervangen Frequentieregeling,15200.00,20,2038,0,H,,Invest
+H-ZEM-00416,E-ZEM-00284,Vervangen staalkabels,10000.00,15,2029,0,H,,Invest
+H-ZEM-00417,E-ZEM-00285,Reconditioneren LBK toe-/afvoer binnenopstelling [12.000 m3/h],32057.89,35,2039,0,H,,Invest
+H-ZEM-00418,E-ZEM-00286,Reconditioneren LBK toe-/afvoer binnenopstelling [12.000 m3/h],32057.89,35,2047,0,H,,Invest
+H-ZEM-00419,E-ZEM-00287,Reviseren Schacht en cabinedeuren,9410.00,10,2035,0,H,,Invest
+H-ZEM-00421,E-ZEM-00287,Vervangen Besturing,36840.00,20,2032,0,H,,Invest
+H-ZEM-00423,E-ZEM-00287,Vervangen Frequentieregeling,7800.00,20,2028,0,H,,Invest
+H-ZEM-00424,E-ZEM-00287,Vervangen staalkabels,10800.00,15,2026,0,H,,Invest
+H-ZEM-00426,E-ZEM-00288,Reviseren Schacht en cabinedeuren,7900.00,10,2033,0,H,,Invest
+H-ZEM-00428,E-ZEM-00288,Vervangen Deuraandrijving,11000.00,10,2027,0,H,,Invest
+H-ZEM-00429,E-ZEM-00288,Vervangen Frequentieregeling,9920.00,20,2042,0,H,,Invest
+H-ZEM-00430,E-ZEM-00288,Vervangen staalkabels,10800.00,15,2033,0,H,,Invest
+H-ZEM-00431,E-ZEM-00289,Reviseren Schacht en cabinedeuren,9000.00,10,2027,0,H,,Invest
+H-ZEM-00432,E-ZEM-00289,Vervangen Besturing,38000.00,20,2037,0,H,,Invest
+H-ZEM-00433,E-ZEM-00289,Vervangen Frequentieregeling,23500.00,20,2027,0,H,,Invest
+H-ZEM-00434,E-ZEM-00289,Vervangen Liftmachine,10000.00,30,2047,0,H,,Invest
+H-ZEM-00435,E-ZEM-00289,Vervangen staalkabels,13480.00,15,2032,0,H,,Invest
+H-ZEM-00436,E-ZEM-00290,Vervangen Afzuigbox,2396.96,20,2033,0,H,,Invest
+H-ZEM-00437,E-ZEM-00291,Reconditioneren LBK toe-/afvoer binnenopstelling [14.000 m3/h],32057.89,35,2044,0,H,,Invest
+H-ZEM-00438,E-ZEM-00292,Reconditioneren LBK toe-/afvoer binnenopstelling [14.000 m3/h],32057.89,35,2044,0,H,,Invest
+H-ZEM-00439,E-ZEM-00293,Vervangen Buffervat 800 liter,4607.47,20,2032,0,H,,Invest
+H-ZEM-00440,E-ZEM-00294,Vervangen tegenstroomapparaat (TSA),7251.30,10,2032,0,H,,Invest
+H-ZEM-00441,E-ZEM-00295,Reviseren Liftmachine,4200.00,30,2031,0,H,,Invest
+H-ZEM-00442,E-ZEM-00295,Reviseren Schacht en cabinedeuren,6740.00,10,2034,0,H,,Invest
+H-ZEM-00443,E-ZEM-00295,Vervangen Besturing,40000.00,20,2033,0,H,,Invest
+H-ZEM-00445,E-ZEM-00295,Vervangen staalkabels,10000.00,15,2027,0,H,,Invest
+H-ZEM-00446,E-ZEM-00296,Reviseren Liftmachine,4200.00,30,2031,0,H,,Invest
+H-ZEM-00447,E-ZEM-00296,Reviseren Schacht en cabinedeuren,7840.00,10,2034,0,H,,Invest
+H-ZEM-00448,E-ZEM-00296,Vervangen Besturing,40000.00,20,2033,0,H,,Invest
+H-ZEM-00449,E-ZEM-00296,Vervangen Frequentieregeling,16290.00,20,2043,0,H,,Invest
+H-ZEM-00450,E-ZEM-00296,Vervangen staalkabels,10000.00,15,2027,0,H,,Invest
+H-ZEM-00451,E-ZEM-00297,Reviseren Schacht en cabinedeuren,4700.00,10,2026,0,H,,Invest
+H-ZEM-00452,E-ZEM-00297,Vervangen Besturing,41000.00,20,2026,0,H,,Invest
+H-ZEM-00453,E-ZEM-00297,Vervangen Frequentieregeling,16000.00,20,2026,0,H,,Invest
+H-ZEM-00454,E-ZEM-00297,Vervangen staalkabels,7200.00,15,2034,0,H,,Invest
+H-ZEM-00455,E-ZEM-00298,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2033,0,H,,Interieur
+H-ZEM-00456,E-ZEM-00298,Interieur bijwerken,474.88,20,2053,0,H,,Interieur
+H-ZEM-00457,E-ZEM-00299,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2033,0,H,,Interieur
+H-ZEM-00458,E-ZEM-00299,Interieur bijwerken,474.88,20,2053,0,H,,Interieur
+H-ZEM-00459,E-ZEM-00300,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2035,0,H,,Interieur
+H-ZEM-00460,E-ZEM-00300,Interieur bijwerken,474.88,20,2055,0,H,,Interieur
+H-ZEM-00461,E-ZEM-00301,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2053,0,H,,Interieur
+H-ZEM-00462,E-ZEM-00301,Interieur bijwerken,474.88,20,2033,0,H,,Interieur
+H-ZEM-00463,E-ZEM-00302,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2047,0,H,,Interieur
+H-ZEM-00464,E-ZEM-00302,Interieur bijwerken,474.88,20,2027,0,H,,Interieur
+H-ZEM-00465,E-ZEM-00303,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2053,0,H,,Interieur
+H-ZEM-00466,E-ZEM-00303,Interieur bijwerken,474.88,20,2033,0,H,,Interieur
+H-ZEM-00467,E-ZEM-00304,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2052,0,H,,Interieur
+H-ZEM-00468,E-ZEM-00304,Interieur bijwerken,474.88,20,2032,0,H,,Interieur
+H-ZEM-00469,E-ZEM-00305,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2052,0,H,,Interieur
+H-ZEM-00470,E-ZEM-00305,Interieur bijwerken,474.88,20,2032,0,H,,Interieur
+H-ZEM-00491,E-ZEM-00326,Reviseren Schacht en cabinedeuren,14449.00,10,2026,0,H,,Invest
+H-ZEM-00492,E-ZEM-00326,Vervangen Besturing,46300.00,20,2035,0,H,,Invest
+H-ZEM-00493,E-ZEM-00326,Vervangen Frequentieregeling,24340.00,20,2026,0,H,,Invest
+H-ZEM-00494,E-ZEM-00326,Vervangen Liftmachine,19560.00,30,2031,0,H,,Invest
+H-ZEM-00495,E-ZEM-00326,Vervangen staalkabels,7700.00,15,2029,0,H,,Invest
+H-ZEM-00496,E-ZEM-00327,Vervangen brandmeldinstallatie (compleet),28.08,18,2034,0,H,,Invest
+H-ZEM-00497,E-ZEM-00328,Vervangen Koelcelinstallatie,8574.75,20,2042,0,H,,Invest
+H-ZEM-00498,E-ZEM-00329,Reconditioneren LBK toe-/afvoer binnenopstelling [12.000 m3/h],32057.89,35,2038,0,H,,Invest
+H-ZEM-00499,E-ZEM-00330,Vervangen Regeltechniek,46419.37,25,2026,0,H,,Invest
+H-ZEM-00500,E-ZEM-00330,Vervangen opnemers,6419.37,5,2031,0,H,,Invest
+H-ZEM-00501,E-ZEM-00331,Vervangen Ketel elektrisch HR 40 - 65 KW,5342.95,15,2037,0,H,,Invest
+H-ZEM-00502,E-ZEM-00332,Vervangen Ketel elektrisch 300 - 400 KW,44139.14,15,2037,0,H,,Invest
+H-ZEM-00504,E-ZEM-00334,Inspecteren en plaatselijk herstellen terreinverharding klinkers,74.42,5,2028,0,H,,Invest
+H-ZEM-00505,E-ZEM-00335,Inspecteren en plaatselijk herstellen terreinverharding klinkers,74.42,5,2029,0,H,,Invest
+H-ZEM-00506,E-ZEM-00336,Inspecteren en plaatselijk herstellen terreinverharding asfalt,8000.00,5,2029,0,O,,Invest
+H-ZEM-00511,E-ZEM-00341,Inspecteren en plaatselijk herstellen terreinverharding klinkers,74.42,5,2030,0,H,,Invest
+H-ZEM-00512,E-ZEM-00342,Inspecteren en plaatselijk herstellen terreinverharding asfalt,8000.00,5,2030,0,O,,Invest
+H-ZEM-00513,E-ZEM-00343,Inspecteren en plaatselijk herstellen terreinverharding klinkers,74.42,5,2025,0,H,,Invest
+H-ZEM-00514,E-ZEM-00344,Inspecteren en plaatselijk herstellen terreinverharding klinkers,74.42,5,2026,0,H,,Invest
+H-ZEM-00515,E-ZEM-00345,Inspecteren en plaatselijk herstellen terreinverharding klinkers,74.42,5,2030,0,H,,Invest
+H-ZEM-00516,E-ZEM-00346,Inspecteren en plaatselijk herstellen terreinverharding klinkers,74.42,5,2027,0,H,,Invest
+H-ZEM-00517,E-ZEM-00347,Inspecteren en plaatselijk herstellen terreinverharding asfalt,8000.00,5,2027,0,O,,Invest
+H-ZEM-00518,E-ZEM-00348,Vervangen brandmeldcentrale,10000.00,12,2037,0,H,,Invest
+H-ZEM-00519,E-ZEM-00348,Vervangen brandmeldinstallatie,61899.00,18,2037,0,H,,Invest
+H-ZEM-00520,E-ZEM-00348,Vervangen pagers,20097.00,12,2033,0,H,,Invest
+H-ZEM-00521,E-ZEM-00348,Vervangen veldapparatuur BMI,356.49,14,2028,0,H,,Invest
+H-ZEM-00524,E-ZEM-00349,Vervangen brandmeldinstallatie,400895.00,18,2026,0,H,,Invest
+H-ZEM-00525,E-ZEM-00349,Vervangen pagers,36227.00,12,2038,0,H,,Invest
+H-ZEM-00526,E-ZEM-00350,Vervangen brandmeldcentrale,10000.00,12,2031,0,H,,Invest
+H-ZEM-00527,E-ZEM-00350,Vervangen brandmeldinstallatie,284973.00,18,2034,0,H,,Invest
+H-ZEM-00528,E-ZEM-00350,Vervangen pagers,22413.00,12,2035,0,H,,Invest
+H-ZEM-00529,E-ZEM-00350,Vervangen veldapparatuur BMI,356.49,14,2028,0,H,,Invest
+H-ZEM-00530,E-ZEM-00351,Storingsonderhoud Afdeling Tijdelijke Zorg (exploitatie),41049.00,1,2026,0,H,,Expl
+H-ZEM-00531,E-ZEM-00351,Storingsonderhoud Bouwdelen Liduina (exploitatie),366006.29,1,2026,0,H,,Expl
+H-ZEM-00535,E-ZEM-00355,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1204.24,40,2035,0,H,,Interieur
+H-ZEM-00536,E-ZEM-00355,Interieur bijwerken,474.88,20,2055,0,H,,Interieur
+H-ZEM-00537,E-ZEM-00356,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2035,0,H,,Interieur
+H-ZEM-00538,E-ZEM-00356,Sanitair bijwerken,474.88,20,2055,0,H,,Interieur
+H-ZEM-00539,E-ZEM-00357,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2045,0,H,,Interieur
+H-ZEM-00540,E-ZEM-00357,Sanitair bijwerken,474.88,40,2028,0,H,,Interieur
+H-ZEM-00541,E-ZEM-00358,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2045,0,H,,Interieur
+H-ZEM-00542,E-ZEM-00358,Sanitair bijwerken,474.88,40,2025,0,H,,Invest
+H-ZEM-00543,E-ZEM-00358,Sanitair bijwerken,474.88,40,2026,0,H,,Interieur
+H-ZEM-00544,E-ZEM-00358,Sanitair bijwerken,474.88,40,2027,0,H,,Interieur
+H-ZEM-00548,E-ZEM-00362,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2060,0,H,,Interieur
+H-ZEM-00549,E-ZEM-00362,Sanitair bijwerken,474.88,20,2040,0,H,,Interieur
+H-ZEM-00550,E-ZEM-00363,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2060,0,H,,Interieur
+H-ZEM-00551,E-ZEM-00363,Interieur bijwerken,474.88,20,2040,0,H,,Interieur
+H-ZEM-00552,E-ZEM-00364,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2054,0,H,,Interieur
+H-ZEM-00553,E-ZEM-00364,Sanitair bijwerken,474.88,20,2034,0,H,,Interieur
+H-ZEM-00557,E-ZEM-00368,Vervangen Ketel gasgestookt HR 150 - 200 KW,19234.43,30,2042,0,H,,Invest
+H-ZEM-00558,E-ZEM-00369,Vervangen Koelmachine 130 - 150 kW,50557.71,20,2044,0,H,,Invest
+H-ZEM-00559,E-ZEM-00370,Vervangen Boiler direct gestookt industrieel < 250 liter,12098.63,15,2026,0,H,,Invest
+H-ZEM-00560,E-ZEM-00371,Vervangen Ketel gasgestookt HR 400 - 500 KW,55251.70,30,2041,0,H,,Invest
+H-ZEM-00561,E-ZEM-00372,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,H,,Invest
+H-ZEM-00562,E-ZEM-00372,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-00563,E-ZEM-00373,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,H,,Invest
+H-ZEM-00564,E-ZEM-00373,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-00565,E-ZEM-00374,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,H,,Invest
+H-ZEM-00566,E-ZEM-00374,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-00567,E-ZEM-00375,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,H,,Invest
+H-ZEM-00568,E-ZEM-00375,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-00569,E-ZEM-00376,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,H,,Invest
+H-ZEM-00570,E-ZEM-00376,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-00571,E-ZEM-00377,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,H,,Invest
+H-ZEM-00572,E-ZEM-00377,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-00573,E-ZEM-00378,Vervangen Condensor (Buitendeel),2859.86,15,2028,0,H,,Invest
+H-ZEM-00574,E-ZEM-00378,Vervangen Verdamper (Binnendeel),2649.57,15,2028,0,H,,Invest
+H-ZEM-00575,E-ZEM-00379,Vervangen Condensor (Buitendeel),3712.82,15,2028,0,H,,Invest
+H-ZEM-00576,E-ZEM-00379,Vervangen Verdamper (Binnendeel),2649.57,15,2028,0,H,,Invest
+H-ZEM-00577,E-ZEM-00380,Vervangen Condensor (Buitendeel),3712.82,15,2033,0,H,,Invest
+H-ZEM-00578,E-ZEM-00380,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,H,,Invest
+H-ZEM-00579,E-ZEM-00381,Vervangen Condensor (Buitendeel),3712.82,15,2033,0,H,,Invest
+H-ZEM-00580,E-ZEM-00381,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,H,,Invest
+H-ZEM-00581,E-ZEM-00382,Vervangen Condensor (Buitendeel),3712.82,15,2039,0,H,,Invest
+H-ZEM-00582,E-ZEM-00382,Vervangen Verdamper (Binnendeel),2649.57,15,2039,0,H,,Invest
+H-ZEM-00583,E-ZEM-00383,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,H,,Invest
+H-ZEM-00584,E-ZEM-00383,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-00585,E-ZEM-00384,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,H,,Invest
+H-ZEM-00586,E-ZEM-00384,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-00587,E-ZEM-00385,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,H,,Invest
+H-ZEM-00588,E-ZEM-00385,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-00589,E-ZEM-00386,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,H,,Invest
+H-ZEM-00590,E-ZEM-00386,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-00591,E-ZEM-00387,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2034,0,H,,Invest
+H-ZEM-00592,E-ZEM-00388,DUMAVA - Liduina (warmtepompen),960465.29,0,2026,0,H,,DUMAVA
+H-ZEM-00593,E-ZEM-00388,Isoleren verwarmingsleidingen en appendages,3480.00,0,2023,0,H,,EED
+H-ZEM-00594,E-ZEM-00389,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,20,2043,0,H,,Invest
+H-ZEM-00595,E-ZEM-00390,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2042,0,H,,Invest
+H-ZEM-00596,E-ZEM-00391,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2033,0,H,,Invest
+H-ZEM-00597,E-ZEM-00392,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2043,0,H,,Invest
+H-ZEM-00598,E-ZEM-00393,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2042,0,H,,Invest
+H-ZEM-00599,E-ZEM-00394,DUMAVA - Vlaswiek (Dak - Warmtepomp - PV),823676.03,0,2027,0,H,,DUMAVA
+H-ZEM-00600,E-ZEM-00394,Toepassen en inregelen systemen,8582.00,0,2025,0,H,,EED
+H-ZEM-00601,E-ZEM-00395,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2042,0,H,,Invest
+H-ZEM-00602,E-ZEM-00396,DUMAVA - De Beemden (Warmtepompen - Dak/gevel/vloer - PV),2179443.25,0,2025,0,H,,DUMAVA
+H-ZEM-00603,E-ZEM-00397,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2034,0,H,,Invest
+H-ZEM-00604,E-ZEM-00398,Vervangen verlichting naar LED,70797.00,0,2025,0,H,,EED
+H-ZEM-00605,E-ZEM-00399,DUMAVA - Wereldhuis (Dak/Gevel - PV),1964558.13,0,2024,0,H,,DUMAVA
+H-ZEM-00606,E-ZEM-00399,Isoleren verwarmingsleidingen en appendages,20824.00,0,2023,0,H,,EED
+H-ZEM-00607,E-ZEM-00400,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2036,0,H,,Invest
+H-ZEM-00608,E-ZEM-00401,DUMAVA - Simeonshof (Warmtepomp - Zonneboiler),261773.83,0,2024,0,H,,DUMAVA
+H-ZEM-00609,E-ZEM-00402,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2050,0,H,,Invest
+H-ZEM-00610,E-ZEM-00403,DUMAVA - Buitenhuis (Warmtepompen),248272.73,0,2026,0,H,,DUMAVA
+H-ZEM-00611,E-ZEM-00404,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2042,0,H,,Invest
+H-ZEM-00612,E-ZEM-00405,Vervangen automatische draaideur 1e gallerij 3-10,4361.00,12,2031,0,H,,Invest
+H-ZEM-00613,E-ZEM-00406,Vervangen automatische draaideur 1e gallerij 11-20,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00614,E-ZEM-00407,Vervangen automatische draaideur BG gallerij 11-20,4361.00,12,2033,0,H,,Invest
+H-ZEM-00615,E-ZEM-00408,Vervangen automatische draaideur BG gallerij 3-10,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00616,E-ZEM-00409,Vervangen automatische draaideur Buitendeur entree 11-20,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00617,E-ZEM-00410,Vervangen automatische draaideur Buitendeur gang aanleunwo.,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00618,E-ZEM-00411,Vervangen automatische draaideur Tussendeur gang aanleunwo.,4361.00,12,2026,0,H,,Achter OH
+H-ZEM-00619,E-ZEM-00412,Vervangen automatische schuifdeur Binnendeur entree buitenhuis,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00620,E-ZEM-00413,Vervangen automatische schuifdeur Brand scheiding tussendeur,10180.53,12,2030,0,H,,Invest
+H-ZEM-00621,E-ZEM-00414,Vervangen automatische schuifdeur Buitendeur binnenplaats,10180.53,12,2030,0,H,,Invest
+H-ZEM-00622,E-ZEM-00415,Vervangen automatische schuifdeur Buitendeur entree buitenhuis,10180.53,12,2026,0,H,,Achter OH
+H-ZEM-00623,E-ZEM-00416,Vervangen onderdelen elektrische poort,2325.19,5,2030,0,H,,Invest
+H-ZEM-00624,E-ZEM-00417,Jaarlijkse post Afwerkingspakket Interieur Rosagaerde,5.11,1,2026,0,H,,Interieur
+H-ZEM-00625,E-ZEM-00418,Jaarlijkse post Afwerkingspakket Interieur Venloene,5.11,1,2026,0,H,,Interieur
+H-ZEM-00626,E-ZEM-00419,Jaarlijkse post Afwerkingspakket Interieur Vita,6.11,1,2026,0,H,,Interieur
+H-ZEM-00627,E-ZEM-00420,Jaarlijkse post Afwerkingspakket Interieur Buitenhuis (huur),10.11,1,2026,0,H,,Interieur
+H-ZEM-00628,E-ZEM-00421,Jaarlijkse post Afwerkingspakket Interieur Antoniushof,5.11,1,2026,0,H,,Interieur
+H-ZEM-00629,E-ZEM-00422,Vervangen uitvalscherm elektrisch,1427.02,20,2033,0,H,,Invest
+H-ZEM-00630,E-ZEM-00422,Onderhoud uitvalscherm elektrisch,7500.00,5,2028,0,O,,Expl
+H-ZEM-00631,E-ZEM-00422,Vervangen zonweringsdoek uitvalscherm elektrisch,730.82,10,2043,0,H,,Invest
+H-ZEM-00632,E-ZEM-00423,"Onderhoud zonwering, screens elektrisch",10500.00,5,2028,0,O,,Expl
+H-ZEM-00633,E-ZEM-00423,"Vervangen doek zonwering, screens elektrisch",589.52,10,2033,0,H,,Invest
+H-ZEM-00634,E-ZEM-00423,"Vervangen zonwering, screens elektrisch",1269.45,20,2033,0,H,,Invest
+H-ZEM-00635,E-ZEM-00424,Inspecteren en plaatselijk herstellen detaillering dak,4500.00,10,2037,0,O,,Invest
+H-ZEM-00636,E-ZEM-00424,Vervangen dakbedekking bitumen geballast + bij isoleren,195.59,40,2027,0,H,,DUMAVA
+H-ZEM-00637,E-ZEM-00424,Aanbrengen nieuwe laag dakbedekking bitumen geballast,71.86,20,2047,0,H,,Invest
+H-ZEM-00638,E-ZEM-00425,Buitenschilderwerk totaal,42.48,6,2026,0,H,,Invest
+H-ZEM-00640,E-ZEM-00427,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00641,E-ZEM-00427,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00642,E-ZEM-00427,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00643,E-ZEM-00427,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00644,E-ZEM-00428,Vervangen Keukenblok (huiskamers),28704.14,25,2031,0,H,,Invest
+H-ZEM-00645,E-ZEM-00429,Vervangen pantryblokken,3451.62,25,2038,0,H,,Invest
+H-ZEM-00646,E-ZEM-00430,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 1),5342.95,15,2027,0,H,,DUMAVA
+H-ZEM-00647,E-ZEM-00431,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 2),5342.95,15,2027,0,H,,DUMAVA
+H-ZEM-00648,E-ZEM-00432,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 3),5342.95,15,2027,0,H,,DUMAVA
+H-ZEM-00649,E-ZEM-00433,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 4),5342.95,15,2027,0,H,,DUMAVA
+H-ZEM-00650,E-ZEM-00434,Vervangen Ketel gasgestookt HR 40 - 65 KW (Tapwaterketel 1),5342.95,15,2027,0,H,,Invest
+H-ZEM-00651,E-ZEM-00435,Vervangen Ketel gasgestookt HR 40 - 65 KW (Tapwaterketel 2),5342.95,15,2027,0,H,,Invest
+H-ZEM-00652,E-ZEM-00436,Vervangen Regeltechniek,56419.37,25,2027,0,H,,Invest
+H-ZEM-00653,E-ZEM-00436,Vervangen opnemers,6419.37,5,2032,0,H,,Invest
+H-ZEM-00654,E-ZEM-00437,Vervangen Boiler indirect gestookt 300 liter,3768.04,15,2027,0,H,,Invest
+H-ZEM-00655,E-ZEM-00438,Vervangen circulatiepomp warm tapwater,2867.13,15,2029,0,H,,Invest
+H-ZEM-00656,E-ZEM-00439,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00657,E-ZEM-00439,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00658,E-ZEM-00439,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00661,E-ZEM-00442,Buitenschilderwerk totaal,101.46,6,2027,0,H,,Invest
+H-ZEM-00666,E-ZEM-00447,Buitenschilderwerk totaal,8.48,6,2026,0,H,,Invest
+H-ZEM-00667,E-ZEM-00448,Vervangen uitvalscherm elektrisch (oostvleugel),1427.02,20,2036,0,H,,Invest
+H-ZEM-00668,E-ZEM-00448,Onderhoud uitvalscherm elektrisch (oostvleugel),7500.00,5,2031,0,O,,Expl
+H-ZEM-00669,E-ZEM-00448,Vervangen zonweringsdoek uitvalscherm elektrisch,730.82,10,2026,0,H,,Invest
+H-ZEM-00670,E-ZEM-00449,Vervangen uitvalscherm elektrisch,1427.02,20,2027,0,H,,Invest
+H-ZEM-00671,E-ZEM-00449,Onderhoud uitvalscherm elektrisch,5500.00,5,2032,0,O,,Expl
+H-ZEM-00672,E-ZEM-00449,Vervangen zonweringsdoek uitvalscherm elektrisch,730.82,10,2037,0,H,,Invest
+H-ZEM-00673,E-ZEM-00450,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00674,E-ZEM-00450,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00675,E-ZEM-00450,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00676,E-ZEM-00450,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00677,E-ZEM-00451,"Onderhoud zonwering, screens elektrisch (nood/west gevel)",8500.00,5,2028,0,O,,Expl
+H-ZEM-00678,E-ZEM-00451,"Vervangen doek zonwering, screens elektrisch (nood/west gevel)",589.52,10,2033,0,H,,Invest
+H-ZEM-00679,E-ZEM-00451,"Vervangen zonwering, screens elektrisch (nood/west gevel)",1269.45,20,2043,0,H,,Invest
+H-ZEM-00680,E-ZEM-00452,"Onderhoud zonwering, screens elektrisch (zuid/oost gevel)",8500.00,5,2028,0,O,,Expl
+H-ZEM-00681,E-ZEM-00452,"Vervangen doek zonwering, screens elektrisch (zuid/oost gevel)",589.52,10,2033,0,H,,Invest
+H-ZEM-00682,E-ZEM-00452,"Vervangen zonwering, screens elektrisch (zuid/oost gevel)",1269.45,20,2043,0,H,,Invest
+H-ZEM-00684,E-ZEM-00454,Buitenschilderwerk totaal,12.48,6,2027,0,H,,Invest
+H-ZEM-00685,E-ZEM-00455,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00686,E-ZEM-00455,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00687,E-ZEM-00455,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00688,E-ZEM-00455,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-00689,E-ZEM-00456,Vervangen uitvalscherm elektrisch,1427.02,20,2044,0,H,,Invest
+H-ZEM-00690,E-ZEM-00456,Onderhoud uitvalscherm elektrisch,12500.00,5,2029,0,O,,Expl
+H-ZEM-00691,E-ZEM-00456,Vervangen zonweringsdoek uitvalscherm elektrisch,730.82,10,2034,0,H,,Invest
+H-ZEM-00693,E-ZEM-00458,Buitenschilderwerk totaal,18.48,6,2029,0,H,,Invest
+H-ZEM-00696,E-ZEM-00461,Vervangen Ketel gasgestookt HR 40 - 65 KW  (Tapwaterketel 2),5342.95,15,2027,0,H,,Invest
+H-ZEM-00697,E-ZEM-00462,"Onderhoud zonwering, screens elektrisch",15500.00,5,2030,0,O,,Expl
+H-ZEM-00698,E-ZEM-00462,"Vervangen doek zonwering, screens elektrisch",589.52,10,2035,0,H,,Invest
+H-ZEM-00699,E-ZEM-00462,"Vervangen zonwering, screens elektrisch",1269.45,20,2026,0,H,,Achter OH
+H-ZEM-00700,E-ZEM-00463,Vervangen uitvalscherm elektrisch,1427.02,20,2026,0,H,,Invest
+H-ZEM-00701,E-ZEM-00463,Onderhoud uitvalscherm elektrisch,7500.00,5,2030,0,O,,Expl
+H-ZEM-00702,E-ZEM-00463,Vervangen zonweringsdoek uitvalscherm elektrisch,730.82,10,2035,0,H,,Invest
+H-ZEM-00704,E-ZEM-00465,Buitenschilderwerk totaal,15.48,6,2028,0,H,,Invest
+H-ZEM-00705,E-ZEM-00466,Inspecteren en herstellen rijwielberging,4686.38,10,2027,0,H,,Invest
+H-ZEM-00706,E-ZEM-00467,Inspecteren en herstellen rijwielberging,4686.38,10,2027,0,H,,Invest
+H-ZEM-00707,E-ZEM-00468,Inspecteren en herstellen rijwielberging,4686.38,10,2027,0,H,,Invest
+H-ZEM-00708,E-ZEM-00469,Vervangen Terreinverlichting lichtmast,1977.14,10,2026,0,H,,Invest
+H-ZEM-00709,E-ZEM-00470,Vervangen Terreinverlichting gevelarmaturen,366.32,25,2030,0,H,,Invest
+H-ZEM-00711,E-ZEM-00472,"Onderhoud zonwering, screens elektrisch",6500.00,5,2030,0,O,,Expl
+H-ZEM-00712,E-ZEM-00472,"Vervangen doek zonwering, screens elektrisch",589.52,10,2026,0,H,,Invest
+H-ZEM-00713,E-ZEM-00472,"Vervangen zonwering, screens elektrisch",1269.45,20,2035,0,H,,Invest
+H-ZEM-00714,E-ZEM-00473,Vervangen uitvalscherm elektrisch,1427.02,20,2035,0,H,,Invest
+H-ZEM-00715,E-ZEM-00473,Onderhoud uitvalscherm elektrisch,7500.00,5,2030,0,O,,Expl
+H-ZEM-00716,E-ZEM-00473,Vervangen zonweringsdoek uitvalscherm elektrisch,730.82,10,2026,0,H,,Invest
+H-ZEM-00717,E-ZEM-00474,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,H,,Invest
+H-ZEM-00718,E-ZEM-00474,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,H,,Invest
+H-ZEM-00719,E-ZEM-00474,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,H,,Invest
+H-ZEM-00720,E-ZEM-00474,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,H,,Invest
+H-ZEM-00721,E-ZEM-00475,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,H,,Invest
+H-ZEM-00722,E-ZEM-00475,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,H,,Invest
+H-ZEM-00723,E-ZEM-00475,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,H,,Invest
+H-ZEM-00724,E-ZEM-00475,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,H,,Invest
+H-ZEM-00725,E-ZEM-00476,Vervangen Ketel gasgestookt HR 40 - 65 KW  (ketel 1),5342.95,15,2026,0,H,,DUMAVA
+H-ZEM-00726,E-ZEM-00477,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 2),5342.95,15,2026,0,H,,DUMAVA
+H-ZEM-00727,E-ZEM-00478,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 3),5342.95,15,2026,0,H,,DUMAVA
+H-ZEM-00728,E-ZEM-00479,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 4),5342.95,15,2026,0,H,,DUMAVA
+H-ZEM-00729,E-ZEM-00480,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 5),5342.95,15,2026,0,H,,DUMAVA
+H-ZEM-00730,E-ZEM-00481,Vervangen lichtmast Terreinverlichting lichtmast,1977.14,10,2034,0,H,,Invest
+H-ZEM-00731,E-ZEM-00482,Vervangen terreinverlichting,1977.14,10,2028,0,H,,Invest
+H-ZEM-00732,E-ZEM-00483,Vervangen Terreinverlichting gevelarmaturen,366.32,25,2032,0,H,,Invest
+H-ZEM-00733,E-ZEM-00484,Vervangen Noodverlichtingsarmatuur LED (decentraal),352.65,16,2026,0,H,,Achter OH
+H-ZEM-00734,E-ZEM-00484,Vervangen accu's,59.55,4,2030,0,H,,Invest
+H-ZEM-00735,E-ZEM-00485,Vervangen Noodverlichtingsarmatuur LED (decentraal),352.65,16,2027,0,H,,Invest
+H-ZEM-00736,E-ZEM-00485,Vervangen accu's,59.55,4,2031,0,H,,Invest
+H-ZEM-00737,E-ZEM-00486,Vervangen centrale noodverlichtingskast,10803.10,16,2041,0,O,,Invest
+H-ZEM-00738,E-ZEM-00486,Vervangen Noodverlichtingsarmatuur LED (centraal),352.65,16,2041,0,H,,Invest
+H-ZEM-00739,E-ZEM-00486,Vervangen accu's,59.55,4,2029,0,H,,Invest
+H-ZEM-00740,E-ZEM-00487,Vervangen pantryblokken,2451.62,25,2030,0,H,,Invest
+H-ZEM-00741,E-ZEM-00488,Vervangen Keukenblok (huiskamers),28704.14,25,2030,0,H,,Invest
+H-ZEM-00742,E-ZEM-00489,Vervangen Grootkeukeninrichting,87742.84,12,2040,0,H,,Invest
+H-ZEM-00743,E-ZEM-00490,Vervangen pantryblokken,3151.62,25,2030,0,H,,Invest
+H-ZEM-00744,E-ZEM-00491,Vervangen Keukenblok (Verdieping 1 tm 5 en personeelsruimte),18704.14,25,2030,0,H,,Invest
+H-ZEM-00745,E-ZEM-00492,Vervangen Grootkeukeninrichting,87742.84,12,2040,0,H,,Invest
+H-ZEM-00746,E-ZEM-00493,Vervangen Keukenblok (Zaal de Evenaar),28704.14,25,2032,0,H,,Invest
+H-ZEM-00747,E-ZEM-00494,Vervangen Grootkeukeninrichting,147742.84,12,2040,0,H,,Invest
+H-ZEM-00748,E-ZEM-00495,Vervangen Keukenblok (huiskamer BG),28704.14,25,2031,0,H,,Invest
+H-ZEM-00749,E-ZEM-00496,Vervangen Keukenblok (huiskamer 1e verdieping),28704.14,25,2031,0,H,,Invest
+H-ZEM-00750,E-ZEM-00497,Vervangen Keukenblok (huiskamer 2e verdieping),28704.14,25,2031,0,H,,Invest
+H-ZEM-00751,E-ZEM-00498,Vervangen Keukenblok (huiskamer 3e verdieping),28704.14,25,2031,0,H,,Invest
+H-ZEM-00752,E-ZEM-00499,Vervangen pantryblokken 2e verdieping,3451.62,25,2028,0,H,,Invest
+H-ZEM-00753,E-ZEM-00500,Vervangen pantryblokken 1e verdieping,3451.62,25,2028,0,H,,Invest
+H-ZEM-00754,E-ZEM-00501,Vervangen Grootkeukeninrichting,187742.84,12,2040,0,H,,Invest
+H-ZEM-00755,E-ZEM-00502,Vervangen pantryblokken 2e verdieping,3451.62,25,2029,0,H,,Invest
+H-ZEM-00756,E-ZEM-00503,Vervangen Keukenblok (Divers),10704.14,25,2027,0,H,,Invest
+H-ZEM-00757,E-ZEM-00504,Buitenschilderwerk totaal,12.43,6,2028,0,H,,Invest
+H-ZEM-00758,E-ZEM-00505,Vervangen regeltechniek (RK01),31419.37,25,2026,0,H,,Invest
+H-ZEM-00759,E-ZEM-00505,Vervangen opnemers,3419.37,5,2031,0,H,,Invest
+H-ZEM-00760,E-ZEM-00506,Vervangen brandmeldcentrale,10000.00,12,2034,0,H,,Invest
+H-ZEM-00761,E-ZEM-00506,Vervangen brandmeldinstallatie,250000.00,18,2039,0,H,,Invest
+H-ZEM-00762,E-ZEM-00506,Vervangen pagers,27825.00,12,2030,0,H,,Invest
+H-ZEM-00763,E-ZEM-00506,Vervangen veldapparatuur BMI,356.49,14,2028,0,H,,Invest
+H-ZEM-00765,E-ZEM-00507,Vervangen opnemers (RK01),6419.37,5,2030,0,H,,Invest
+H-ZEM-00766,E-ZEM-00508,Storingsonderhoud (Exploitatie),371149.60,1,2026,0,H,,Expl
+H-ZEM-00767,E-ZEM-00509,Storingsonderhoud (Exploitatie),51639.78,1,2026,0,H,,Expl
+H-ZEM-00768,E-ZEM-00510,Storingsonderhoud (Exploitatie),35818.86,1,2026,0,H,,Expl
+H-ZEM-00769,E-ZEM-00511,Storingsonderhoud (Exploitatie),132880.45,1,2026,0,H,,Expl
+H-ZEM-00770,E-ZEM-00512,Storingsonderhoud (Exploitatie),31064.30,1,2026,0,H,,Expl
+H-ZEM-00771,E-ZEM-00513,Storingsonderhoud (Exploitatie),133516.38,1,2026,0,H,,Expl
+H-ZEM-00772,E-ZEM-00514,Storingsonderhoud (Exploitatie),194273.30,1,2026,0,H,,Expl
+H-ZEM-00773,E-ZEM-00515,Storingsonderhoud (Exploitatie),215193.62,1,2026,0,H,,Expl
+H-ZEM-00774,E-ZEM-00516,Storingsonderhoud (Exploitatie),12001.66,1,2026,0,H,,Expl
+H-ZEM-00775,E-ZEM-00517,Storingsonderhoud (Exploitatie),185625.36,1,2026,0,H,,Expl
+H-ZEM-00776,E-ZEM-00518,Storingsonderhoud (Exploitatie),76686.23,1,2026,0,H,,Expl
+H-ZEM-00777,E-ZEM-00519,Storingsonderhoud (Exploitatie),65499.18,1,2026,0,H,,Expl
+H-ZEM-00784,E-ZEM-00523,Jaarlijkse post Afwerkingspakket Interieur Buitenhuis,6.11,1,2026,0,H,,Interieur
+H-ZEM-00785,E-ZEM-00524,Jaarlijkse post Afwerkingspakket Interieur De Beemden,5.11,1,2026,0,H,,Interieur
+H-ZEM-00789,E-ZEM-00527,Jaarlijkse post Afwerkingspakket Interieur Vlaswiek,6.11,1,2026,0,H,,Interieur
+H-ZEM-00792,E-ZEM-00529,Jaarlijkse post Afwerkingspakket Interieur Linduina Algemeen,5.11,1,2026,0,H,,Interieur
+H-ZEM-00793,E-ZEM-00530,Jaarlijkse post Afwerkingspakket Interieur Linduina B,17.11,1,2026,0,H,,Invest
+H-ZEM-00794,E-ZEM-00531,Jaarlijkse post Afwerkingspakket Interieur Linduina C,6.11,1,2026,0,H,,Interieur
+H-ZEM-00795,E-ZEM-00532,Jaarlijkse post Afwerkingspakket Interieur Linduina E,6.11,1,2026,0,H,,Interieur
+H-ZEM-00796,E-ZEM-00533,Jaarlijkse post Afwerkingspakket Interieur Linduina H,10.11,1,2026,0,H,,Interieur
+H-ZEM-00797,E-ZEM-00534,Jaarlijkse post Afwerkingspakket Interieur Linduina PZ,6.11,1,2026,0,H,,Interieur
+H-ZEM-00798,E-ZEM-00535,Jaarlijkse post Afwerkingspakket Interieur Linduina S,5.11,1,2026,0,H,,Interieur
+H-ZEM-00799,E-ZEM-00536,Jaarlijkse post Afwerkingspakket Interieur Simeonshof,6.11,1,2026,0,H,,Interieur
+H-ZEM-00800,E-ZEM-00537,Jaarlijkse post Afwerkingspakket Interieur Vinckenrode,6.11,1,2026,0,H,,Interieur
+H-ZEM-00801,E-ZEM-00538,Vervangen brandmeldcentrale,10000.00,12,2027,0,H,,Invest
+H-ZEM-00802,E-ZEM-00538,Vervangen brandmeldinstallatie,80000.00,18,2033,0,H,,Invest
+H-ZEM-00803,E-ZEM-00538,Vervangen pagers,9871.00,12,2030,0,H,,Invest
+H-ZEM-00804,E-ZEM-00538,Vervangen veldapparatuur BMI,356.49,14,2029,0,H,,Invest
+H-ZEM-00807,E-ZEM-00540,Vervangen brandmeldcentrale,10000.00,12,2032,0,H,,Invest
+H-ZEM-00808,E-ZEM-00540,Vervangen brandmeldinstallatie,61151.00,18,2041,0,H,,Invest
+H-ZEM-00809,E-ZEM-00540,Vervangen pagers,9789.00,12,2031,0,H,,Invest
+H-ZEM-00810,E-ZEM-00540,Vervangen veldapparatuur BMI,356.49,14,2028,0,H,,Invest
+H-ZEM-00811,E-ZEM-00541,Vervangen brandmeldcentrale,10000.00,12,2032,0,H,,Invest
+H-ZEM-00812,E-ZEM-00541,Vervangen brandmeldinstallatie,91151.00,18,2035,0,H,,Invest
+H-ZEM-00813,E-ZEM-00541,Vervangen pagers,19178.00,12,2030,0,H,,Invest
+H-ZEM-00814,E-ZEM-00541,Vervangen veldapparatuur BMI,356.49,14,2029,0,H,,Invest
+H-ZEM-00815,E-ZEM-00542,Jaarlijkse post Afwerkingspakket Interieur Vossenberg,5.11,1,2026,0,H,,Interieur
+H-ZEM-00816,E-ZEM-00543,Jaarlijkse post Afwerkingspakket Interieur Vossenberg Kapel,6.11,1,2026,0,H,,Interieur
+H-ZEM-00817,E-ZEM-00544,Vervangen brandmeldcentrale,10000.00,12,2042,0,H,,Invest
+H-ZEM-00818,E-ZEM-00544,Vervangen brandmeldinstallatie,151151.00,18,2030,0,H,,Invest
+H-ZEM-00819,E-ZEM-00544,Vervangen pagers,31296.00,12,2032,0,H,,Invest
+H-ZEM-00820,E-ZEM-00544,Vervangen veldapparatuur BMI,356.49,14,2044,0,H,,Invest
+H-ZEM-00821,E-ZEM-00545,Jaarlijkse post Afwerkingspakket Interieur Wereldhuis,5.11,1,2026,0,H,,Interieur
+H-ZEM-00826,E-ZEM-00548,Vervangen deurdranger binnendeur Begane grond,579.92,10,2036,0,H,,Invest
+H-ZEM-00827,E-ZEM-00549,Vervangen deurdranger binnendeur 1e verdieping,279.92,10,2031,0,H,,Invest
+H-ZEM-00828,E-ZEM-00550,Vervangen deurdranger binnendeur 2e verdieping,279.92,10,2031,0,H,,Invest
+H-ZEM-00829,E-ZEM-00551,Vervangen deurdranger binnendeur 3e verdieping,279.92,10,2031,0,H,,Invest
+H-ZEM-00830,E-ZEM-00552,Vervangen deurdranger binnendeur 4e verdieping,279.92,10,2031,0,H,,Invest
+H-ZEM-00831,E-ZEM-00553,Vervangen deurdranger binnendeur Begane grond,279.92,10,2036,0,H,,Invest
+H-ZEM-00832,E-ZEM-00554,Vervangen deurdranger binnendeur 1e verdieping,279.92,10,2036,0,H,,Invest
+H-ZEM-00833,E-ZEM-00555,Vervangen deurdranger binnendeur 1e verdieping,279.92,10,2036,0,H,,Invest
+H-ZEM-00834,E-ZEM-00556,Vervangen deurdranger binnendeur 2e verdieping,279.92,10,2036,0,H,,Invest
+H-ZEM-00835,E-ZEM-00557,Vervangen deurdranger binnendeur 3e verdieping,279.92,10,2036,0,H,,Invest
+H-ZEM-00836,E-ZEM-00558,Vervangen deurdranger binnendeur 4e verdieping,279.92,10,2036,0,H,,Invest
+H-ZEM-00837,E-ZEM-00559,Vervangen deurdranger binnendeur 5e verdieping,279.92,10,2036,0,H,,Invest
+H-ZEM-00838,E-ZEM-00560,Vervangen deurdranger binnendeur Begane grond,279.92,10,2028,0,H,,Invest
+H-ZEM-00839,E-ZEM-00561,Vervangen Sleutelkast,17960.36,16,2039,0,H,,Invest
+H-ZEM-00840,E-ZEM-00561,Vervangen accu Sleutelkast,1652.53,4,2027,0,H,,Invest
+H-ZEM-00841,E-ZEM-00562,Vervangen Sleutelkast,27960.36,16,2033,0,H,,Invest
+H-ZEM-00842,E-ZEM-00562,Vervangen accu Sleutelkast,1652.53,4,2029,0,H,,Invest
+H-ZEM-00843,E-ZEM-00563,Vervangen Sleutelkast,17960.36,16,2033,0,H,,Invest
+H-ZEM-00844,E-ZEM-00563,Vervangen accu Begane grond,1652.53,4,2029,0,H,,Invest
+H-ZEM-00845,E-ZEM-00564,Vervangen Sleutelkast,47960.36,16,2033,0,H,,Invest
+H-ZEM-00846,E-ZEM-00564,Vervangen accu Begane grond,1652.53,4,2029,0,H,,Invest
+H-ZEM-00847,E-ZEM-00565,Vervangen Sleutelkast,17960.36,16,2040,0,H,,Invest
+H-ZEM-00848,E-ZEM-00565,Vervangen accu Begane grond,1652.53,4,2028,0,H,,Invest
+H-ZEM-00849,E-ZEM-00566,Vervangen Sleutelkast,17960.36,16,2033,0,H,,Invest
+H-ZEM-00850,E-ZEM-00566,Vervangen accu Sleutelkast,1652.53,4,2029,0,H,,Invest
+H-ZEM-00851,E-ZEM-00567,Vervangen Sleutelkast,17960.36,16,2036,0,H,,Invest
+H-ZEM-00852,E-ZEM-00567,Vervangen accu Sleutelkast,1652.53,4,2028,0,H,,Invest
+H-ZEM-00853,E-ZEM-00568,Vervangen Sleutelkast,17960.36,16,2033,0,H,,Invest
+H-ZEM-00854,E-ZEM-00568,Vervangen accu Sleutelkast,1652.53,4,2029,0,H,,Invest
+H-ZEM-00855,E-ZEM-00569,Vervangen Sleutelkast,17960.36,16,2037,0,H,,Invest
+H-ZEM-00856,E-ZEM-00569,Vervangen accu Sleutelkast,1652.53,4,2029,0,H,,Invest
+H-ZEM-00857,E-ZEM-00570,Vervangen Sleutelkast,17960.36,16,2033,0,H,,Invest
+H-ZEM-00858,E-ZEM-00570,Vervangen accu Begane grond,1652.53,4,2029,0,H,,Invest
+H-ZEM-00859,E-ZEM-00571,Vervangen Sleutelkast,17960.36,16,2041,0,H,,Invest
+H-ZEM-00860,E-ZEM-00571,Vervangen accu Sleutelkast,1652.53,4,2029,0,H,,Invest
+H-ZEM-00861,E-ZEM-00572,Vervangen Sleutelkast,17960.36,16,2040,0,H,,Invest
+H-ZEM-00863,E-ZEM-00573,Storingsonderhoud algemene afdelingen (Exploitatie),76550.00,1,2026,0,H,,Expl
+H-ZEM-00864,E-ZEM-00574,Vervangen Expansieautomaat,8854.36,5,2048,0,H,,Invest
+H-ZEM-00866,E-ZEM-00576,Scope 12 inspectie,2389.70,5,2029,0,O,,Expl
+H-ZEM-00867,E-ZEM-00576,Vervangen van de omvormer,4819.77,15,2039,0,O,10,Invest
+H-ZEM-00868,E-ZEM-00576,Vervangen van de PV-Panelen,408.10,30,2054,0,H,10,Invest
+H-ZEM-00869,E-ZEM-00577,Vervangen knikarmscherm elektrisch,2327.02,20,2033,0,H,,Invest
+H-ZEM-00870,E-ZEM-00577,Vervangen zonweringsdoek knikarmscherm elektrisch,930.82,10,2032,0,H,,Invest
+H-ZEM-00871,E-ZEM-00578,Vervangen Water/water warmtepomp 70 - 110 kW,59726.74,15,2035,0,H,,Invest
+H-ZEM-00872,E-ZEM-00579,Vervangen Water/water warmtepomp 70 - 110 kW,59726.74,15,2035,0,H,,Invest
+H-ZEM-00873,E-ZEM-00580,Vervangen Water/water warmtepomp 40 - 60 kW,36818.10,15,2035,0,H,,Invest
+H-ZEM-00874,E-ZEM-00581,Vervangen mechanische ventilatie-unit,976.35,20,2040,0,H,,Invest
+H-ZEM-00875,E-ZEM-00582,Vervangen tegenstroomapparaat (TSA),7251.30,10,2030,0,H,,Invest
+H-ZEM-00876,E-ZEM-00583,Vervangen,6988.59,24,2048,0,H,,Invest
+H-ZEM-00877,E-ZEM-00584,Vervangen Droogkoeler 200 kW,47860.33,15,2035,0,H,,Invest
+H-ZEM-00878,E-ZEM-00585,Vervangen circulatiepomp CV,2867.13,15,2035,0,H,,Invest
+H-ZEM-00879,E-ZEM-00586,Vervangen circulatiepomp CV,2867.13,15,2035,0,H,,Invest
+H-ZEM-00880,E-ZEM-00587,Vervangen circulatiepomp CV,2867.13,15,2035,0,H,,Invest
+H-ZEM-00881,E-ZEM-00588,Vervangen circulatiepomp CV,2867.13,15,2035,0,H,,Invest
+H-ZEM-00882,E-ZEM-00589,Vervangen circulatiepomp CV,2867.13,15,2035,0,H,,Invest
+H-ZEM-00883,E-ZEM-00590,Vervangen circulatiepomp CV,2867.13,15,2035,0,H,,Invest
+H-ZEM-00884,E-ZEM-00591,Vervangen circulatiepomp CV,2867.13,15,2039,0,H,,Invest
+H-ZEM-00885,E-ZEM-00592,Vervangen circulatiepomp CV,2867.13,15,2039,0,H,,Invest
+H-ZEM-00886,E-ZEM-00593,Vervangen circulatiepomp CV,2867.13,15,2035,0,H,,Invest
+H-ZEM-00887,E-ZEM-00594,Vervangen circulatiepomp CV,2867.13,15,2035,0,H,,Invest
+H-ZEM-00888,E-ZEM-00595,Vervangen circulatiepomp CV,2867.13,15,2039,0,H,,Invest
+H-ZEM-00889,E-ZEM-00596,Vervangen circulatiepomp CV,2867.13,15,2035,0,H,,Invest
+H-ZEM-00890,E-ZEM-00597,Vervangen Buffervat 1500 ltr,7974.16,20,2040,0,H,,Invest
+H-ZEM-00891,E-ZEM-00598,Vervangen Buffervat 1000 ltr.,5015.32,20,2040,0,H,,Invest
+H-ZEM-00892,E-ZEM-00599,Vervangen Buffervat 1000 ltr.,5015.32,20,2040,0,H,,Invest
+H-ZEM-00893,E-ZEM-00600,Vervangen opnemers,6977.64,5,2035,0,H,,Invest
+H-ZEM-00894,E-ZEM-00600,Vervangen Regeltechniek,46419.37,25,2045,0,H,,Invest
+H-ZEM-00895,E-ZEM-00601,Vervangen opnemers,6977.64,5,2035,0,H,,Invest
+H-ZEM-00896,E-ZEM-00601,Vervangen Regeltechniek,46419.37,25,2045,0,H,,Invest
+H-ZEM-00897,E-ZEM-00602,Reconditioneren LBK binnenopstelling < 3.600 m3/h,15962.60,35,2055,0,H,,Invest
+H-ZEM-00898,E-ZEM-00603,Reconditioneren LBK binnenopstelling < 3.600 m3/h,15962.60,35,2055,0,H,,Invest
+H-ZEM-00899,E-ZEM-00604,Reconditioneren LBK binnenopstelling < 3.600 m3/h,15962.60,35,2055,0,H,,Invest
+H-ZEM-00900,E-ZEM-00605,Reconditioneren LBK binnenopstelling < 3.600 m3/h,15962.60,35,2055,0,H,,Invest
+H-ZEM-00901,E-ZEM-00606,Reconditioneren LBK binnenopstelling < 3.600 m3/h,15962.60,35,2055,0,H,,Invest
+H-ZEM-00902,E-ZEM-00607,Reconditioneren LBK binnenopstelling < 3.600 m3/h,15962.60,35,2055,0,H,,Invest
+H-ZEM-00903,E-ZEM-00608,Vervangen opnemers,6977.64,5,2035,0,H,,Invest
+H-ZEM-00904,E-ZEM-00608,Vervangen Regeltechniek,46419.37,25,2045,0,H,,Invest
+H-ZEM-00905,E-ZEM-00609,Vervangen opnemers,6977.64,5,2035,0,H,,Invest
+H-ZEM-00906,E-ZEM-00609,Vervangen Regeltechniek,46419.37,25,2045,0,H,,Invest
+H-ZEM-00907,E-ZEM-00610,Vervangen opnemers,6977.64,5,2035,0,H,,Invest
+H-ZEM-00908,E-ZEM-00610,Vervangen Regeltechniek,46419.37,25,2045,0,H,,Invest
+H-ZEM-00909,E-ZEM-00611,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-00910,E-ZEM-00612,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-00911,E-ZEM-00613,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-00912,E-ZEM-00614,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-00913,E-ZEM-00615,Vervangen noodverlichting,369.94,16,2036,0,H,,Invest
+H-ZEM-00914,E-ZEM-00615,Vervangen accu's,59.55,4,2028,0,H,,Invest
+H-ZEM-00915,E-ZEM-00616,Vervangen,12462.19,30,2045,0,H,,Invest
+H-ZEM-00916,E-ZEM-00617,Vervangen,12462.19,30,2045,0,H,,Invest
+H-ZEM-00917,E-ZEM-00618,Vervangen Ketel elektrisch 40 - 65 KW,5342.95,15,2039,0,H,,Invest
+H-ZEM-00918,E-ZEM-00619,Vervangen Ketel elektrisch 100 - 150 KW,10099.64,30,2054,0,H,,Invest
+H-ZEM-00919,E-ZEM-00620,Vervangen circulatiepomp,2867.13,15,2032,0,H,,Invest
+H-ZEM-00920,E-ZEM-00621,Vervangen circulatiepomp,2867.13,15,2032,0,H,,Invest
+H-ZEM-00921,E-ZEM-00622,Vervangen circulatiepomp,2867.13,15,2032,0,H,,Invest
+H-ZEM-00922,E-ZEM-00623,Vervangen circulatiepomp,2867.13,15,2032,0,H,,Invest
+H-ZEM-00923,E-ZEM-00624,Vervangen circulatiepomp,2867.13,15,2032,0,H,,Invest
+H-ZEM-00924,E-ZEM-00625,Vervangen Dakventilator,2001.16,15,2026,0,H,,Achter OH
+H-ZEM-00925,E-ZEM-00626,Vervangen Dakventilator,2001.16,15,2024,0,H,,Achter OH
+H-ZEM-00926,E-ZEM-00627,Vervangen Dakventilator,2001.16,15,2024,0,H,,Achter OH
+H-ZEM-00927,E-ZEM-00628,Vervangen Dakventilator,2001.16,15,2024,0,H,,Achter OH
+H-ZEM-00928,E-ZEM-00629,Vervangen LBK toe-/afvoer buitenopstelling [3.600 m3/h - 10.000 m³/h),72755.14,25,2042,0,H,,Invest
+H-ZEM-00929,E-ZEM-00629,Periodiek inregelen LBK,1567.80,5,2027,0,H,,Invest
+H-ZEM-00932,E-ZEM-00632,Vervangen LBK toe-/afvoer buitenopstelling [3.600 m3/h - 10.000 m³/h),72755.14,25,2042,0,H,,Invest
+H-ZEM-00933,E-ZEM-00632,Periodiek inregelen LBK,1567.80,5,2027,0,H,,Invest
+H-ZEM-00934,E-ZEM-00633,Vervangen LBK LBK toe-/afvoer buitenopstelling [< 3.600 m3/h],22755.14,25,2042,0,H,,Invest
+H-ZEM-00935,E-ZEM-00633,Periodiek inregelen LBK,1567.80,5,2027,0,H,,Invest
+H-ZEM-00936,E-ZEM-00634,Vervangen Regeltechniek,46419.37,25,2041,0,H,,Invest
+H-ZEM-00937,E-ZEM-00634,Vervangen opnemers,6977.64,5,2029,0,H,,Invest
+H-ZEM-00938,E-ZEM-00635,Vervangen Regeltechniek,46419.37,25,2041,0,H,,Invest
+H-ZEM-00939,E-ZEM-00635,Vervangen opnemers,6977.64,5,2029,0,H,,Invest
+H-ZEM-00940,E-ZEM-00636,Vervangen Regeltechniek,46419.37,25,2041,0,H,,Invest
+H-ZEM-00941,E-ZEM-00636,Vervangen opnemers,6977.64,5,2029,0,H,,Invest
+H-ZEM-00942,E-ZEM-00637,Vervangen Tapwaterpomp,1467.77,15,2042,0,H,,Invest
+H-ZEM-00943,E-ZEM-00638,Vervangen Ketel gasgestookt HR 300 - 400 kW,44139.14,30,2025,0,H,,DUMAVA
+H-ZEM-00945,E-ZEM-00640,Vervangen Expansievat 600 liter,2500.00,7,2028,0,H,,Invest
+H-ZEM-00946,E-ZEM-00641,Vervangen Expansievat 200 liter (zonnepaneel),1500.00,7,2028,0,H,,Invest
+H-ZEM-00947,E-ZEM-00642,Vervangen Expansievat 600 liter,3000.00,7,2028,0,H,,Invest
+H-ZEM-00948,E-ZEM-00643,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-00949,E-ZEM-00644,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-00950,E-ZEM-00645,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-00951,E-ZEM-00646,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-00952,E-ZEM-00647,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-00953,E-ZEM-00648,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-00954,E-ZEM-00649,Vervangen circulatiepomp CV,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-00955,E-ZEM-00650,Vervangen circulatiepomp CV,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-00956,E-ZEM-00651,Vervangen circulatiepomp CV,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-00957,E-ZEM-00652,Reconditioneren LBK toe-/afvoer binnenopstelling (recreatie),22755.14,35,2040,0,H,,Invest
+H-ZEM-00958,E-ZEM-00652,Periodiek inregelen LBK,1567.80,5,2028,0,H,,Invest
+H-ZEM-00959,E-ZEM-00653,Reconditioneren LBK toe-/afvoer binnenopstelling (keuken),22755.14,35,2040,0,H,,Invest
+H-ZEM-00960,E-ZEM-00653,Periodiek inregelen LBK,1567.80,5,2028,0,H,,Invest
+H-ZEM-00961,E-ZEM-00654,Vervangen LBK toe-/afvoer buitenopstelling [>12.000 m3/h],72755.14,25,2030,0,H,,Invest
+H-ZEM-00962,E-ZEM-00654,Periodiek inregelen LBK,1567.80,5,2029,0,H,,Invest
+H-ZEM-00963,E-ZEM-00655,Vervangen Tapwaterpomp,1467.77,15,2039,0,H,,Invest
+H-ZEM-00964,E-ZEM-00656,Vervangen Tapwaterpomp,1467.77,15,2039,0,H,,Invest
+H-ZEM-00965,E-ZEM-00657,Vervangen Tapwaterpomp,1467.77,15,2039,0,H,,Invest
+H-ZEM-00966,E-ZEM-00658,Vervangen Tapwaterpomp,1467.77,15,2039,0,H,,Invest
+H-ZEM-00967,E-ZEM-00659,"Vervangen Dakventilator 0,7 - 1,4 m3/s",2692.27,15,2030,0,H,,Invest
+H-ZEM-00968,E-ZEM-00660,Vervangen Dakventilator,2692.27,15,2030,0,H,,Invest
+H-ZEM-00969,E-ZEM-00661,Vervangen tegenstroomapparaat (TSA),15000.00,20,2030,0,H,,Invest
+H-ZEM-00970,E-ZEM-00662,Vervangen boiler 700 liter,6360.60,15,2039,0,H,,Invest
+H-ZEM-00971,E-ZEM-00663,Vervangen,3217.85,25,2029,0,H,,Invest
+H-ZEM-00972,E-ZEM-00664,Vervangen warmtepomp,13319.32,15,2027,0,H,,Invest
+H-ZEM-00973,E-ZEM-00665,Vervangen Regeltechniek,46419.37,25,2036,0,H,,Invest
+H-ZEM-00974,E-ZEM-00665,Vervangen opnemers,6977.64,5,2029,0,H,,Invest
+H-ZEM-00975,E-ZEM-00666,Vervangen Regeltechniek,46419.37,25,2030,0,H,,Invest
+H-ZEM-00976,E-ZEM-00666,Vervangen opnemers,6977.64,5,2029,0,H,,Invest
+H-ZEM-00977,E-ZEM-00667,Vervangen (update met gegevens 2024),6360.60,15,2039,0,H,,Invest
+H-ZEM-00978,E-ZEM-00668,Vervangen circulatiepomp,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-00979,E-ZEM-00669,Vervangen circulatiepomp,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-00980,E-ZEM-00670,Vervangen circulatiepomp,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-00981,E-ZEM-00671,Vervangen circulatiepomp,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-00982,E-ZEM-00672,Vervangen circulatiepomp,2867.13,15,2039,0,H,,Invest
+H-ZEM-00983,E-ZEM-00673,Vervangen Dakventilator,2692.27,15,2036,0,H,,Invest
+H-ZEM-00987,E-ZEM-00677,Vervangen LBK Toevoer buitenopstelling 10.000 m³/h,72755.14,25,2031,0,H,,Invest
+H-ZEM-00988,E-ZEM-00677,Periodiek inregelen LBK Toevoer,1567.80,5,2026,0,H,,Invest
+H-ZEM-00989,E-ZEM-00678,Vervangen LBK Afvoer,72755.14,25,2031,0,H,,Invest
+H-ZEM-00990,E-ZEM-00678,Periodiek inregelen LBK Afvoer,1567.80,5,2026,0,H,,Invest
+H-ZEM-00991,E-ZEM-00679,Vervangen LBK buitenopstelling 10.000 m³/h,22755.14,25,2031,0,H,,Invest
+H-ZEM-00992,E-ZEM-00679,Periodiek inregelen LBK,1567.80,5,2026,0,H,,Invest
+H-ZEM-00993,E-ZEM-00680,Vervangen LBK buitenopstelling,22755.14,25,2031,0,H,,Invest
+H-ZEM-00994,E-ZEM-00680,Periodiek inregelen LBK,1567.80,5,2026,0,H,,Invest
+H-ZEM-00995,E-ZEM-00681,Vervangen Tapwaterpomp,1467.77,15,2039,0,H,,Invest
+H-ZEM-00996,E-ZEM-00682,Vervangen Tapwaterpomp,1467.77,15,2036,0,H,,Invest
+H-ZEM-00997,E-ZEM-00683,Vervangen cv-ketel combi,3109.28,15,2032,0,H,,Invest
+H-ZEM-00998,E-ZEM-00684,Vervangen Boilervat 500 liter,3950.20,20,2044,0,H,,Invest
+H-ZEM-00999,E-ZEM-00685,Vervangen Regeltechniek,46419.37,25,2045,0,H,,Invest
+H-ZEM-01000,E-ZEM-00685,Vervangen opnemers,6977.64,5,2026,0,H,,Invest
+H-ZEM-01001,E-ZEM-00686,Vervangen Ketel gasgestookt HR 150 - 200 KW,19234.43,30,2036,0,H,,Invest
+H-ZEM-01004,E-ZEM-00689,Vervangen circulatiepomp,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-01005,E-ZEM-00690,Vervangen circulatiepomp,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-01006,E-ZEM-00691,Vervangen Tapwaterpomp,1467.77,15,2026,0,H,,Achter OH
+H-ZEM-01007,E-ZEM-00692,Vervangen dakventilator,2692.27,15,2030,0,H,,Invest
+H-ZEM-01010,E-ZEM-00695,Vervangen Dakventilator,2692.27,15,2028,0,H,,Invest
+H-ZEM-01011,E-ZEM-00696,Vervangen Ketel gasgestookt HR,63190.63,30,2028,0,H,,Invest
+H-ZEM-01012,E-ZEM-00697,Vervangen Afzuigventilatorbox,1374.92,15,2028,0,H,,Invest
+H-ZEM-01013,E-ZEM-00698,Vervangen circulatiepomp CV,2867.13,15,2029,0,H,,Invest
+H-ZEM-01014,E-ZEM-00699,Vervangen circulatiepomp CV,2867.13,15,2029,0,H,,Invest
+H-ZEM-01015,E-ZEM-00700,Jaarlijkse VVE Bijdrage VVE Vinckenrode,22105.00,1,2026,0,H,,Expl
+H-ZEM-01016,E-ZEM-00701,Vervangen Vrijloopdrangers,279.92,10,2035,0,H,,Invest
+H-ZEM-01017,E-ZEM-00702,Bijdrage MJOP 2026,219223.00,0,2026,0,H,,Invest
+H-ZEM-01018,E-ZEM-00702,Bijdrage MJOP 2027,106673.00,0,2027,0,H,,Invest
+H-ZEM-01019,E-ZEM-00702,Bijdrage MJOP 2028,121583.00,0,2028,0,H,,Invest
+H-ZEM-01020,E-ZEM-00702,Bijdrage MJOP 2029,386174.00,0,2029,0,H,,Invest
+H-ZEM-01021,E-ZEM-00702,Bijdrage MJOP 2030,106038.00,0,2030,0,H,,Invest
+H-ZEM-01022,E-ZEM-00702,Bijdrage MJOP 2031,432300.00,0,2031,0,H,,Invest
+H-ZEM-01023,E-ZEM-00702,Bijdrage MJOP 2032,197798.00,0,2032,0,H,,Invest
+H-ZEM-01024,E-ZEM-00702,Bijdrage MJOP 2033,215164.00,0,2033,0,H,,Invest
+H-ZEM-01025,E-ZEM-00702,Bijdrage MJOP 2034,135447.00,0,2034,0,H,,Invest
+H-ZEM-01026,E-ZEM-00702,Bijdrage MJOP 2035,108146.00,0,2035,0,H,,Invest
+H-ZEM-01027,E-ZEM-00703,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01028,E-ZEM-00704,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01029,E-ZEM-00705,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01030,E-ZEM-00706,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01031,E-ZEM-00707,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01032,E-ZEM-00708,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01033,E-ZEM-00709,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01034,E-ZEM-00710,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01035,E-ZEM-00711,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01036,E-ZEM-00712,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01037,E-ZEM-00713,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01038,E-ZEM-00714,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01039,E-ZEM-00715,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01040,E-ZEM-00716,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01041,E-ZEM-00717,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01042,E-ZEM-00718,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01043,E-ZEM-00719,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01044,E-ZEM-00720,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01045,E-ZEM-00721,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01046,E-ZEM-00722,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01047,E-ZEM-00723,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01048,E-ZEM-00724,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01049,E-ZEM-00725,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01050,E-ZEM-00726,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01051,E-ZEM-00727,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01052,E-ZEM-00728,Vervangen,5516.95,30,2026,0,H,,Invest
+H-ZEM-01053,E-ZEM-00729,Vervangen,12462.19,30,2035,0,H,,Invest
+H-ZEM-01054,E-ZEM-00730,Vervangen,12462.19,30,2035,0,H,,Invest
+H-ZEM-01055,E-ZEM-00731,Vervangen,12462.19,30,2035,0,H,,Invest
+H-ZEM-01056,E-ZEM-00732,Vervangen,12462.19,30,2035,0,H,,Invest
+H-ZEM-01057,E-ZEM-00733,Vervangen,12462.19,30,2035,0,H,,Invest
+H-ZEM-01058,E-ZEM-00734,Vervangen,12462.19,30,2035,0,H,,Invest
+H-ZEM-01059,E-ZEM-00735,Vervangen,12462.19,30,2035,0,H,,Invest
+H-ZEM-01060,E-ZEM-00736,Vervangen,12462.19,30,2035,0,H,,Invest
+H-ZEM-01061,E-ZEM-00737,Vervangen,12462.19,30,2035,0,H,,Invest
+H-ZEM-01062,E-ZEM-00738,Vervangen,12462.19,30,2035,0,H,,Invest
+H-ZEM-01063,E-ZEM-00739,Vervangen,12462.19,30,2035,0,H,,Invest
+H-ZEM-01064,E-ZEM-00740,Vervangen,12462.19,30,2035,0,H,,Invest
+H-ZEM-01065,E-ZEM-00741,Vervangen Regeltechniek,46419.37,25,2036,0,H,,Invest
+H-ZEM-01066,E-ZEM-00741,Vervangen opnemers,6977.64,5,2029,0,H,,Invest
+H-ZEM-01067,E-ZEM-00742,Vervangen Regeltechniek,46419.37,25,2036,0,H,,Invest
+H-ZEM-01068,E-ZEM-00742,Vervangen opnemers,6977.64,5,2029,0,H,,Invest
+H-ZEM-01069,E-ZEM-00743,Vervangen,12462.19,30,2035,0,H,,Invest
+H-ZEM-01070,E-ZEM-00744,Vervangen hydrofoor,6493.17,15,2032,0,H,,Invest
+H-ZEM-01071,E-ZEM-00745,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01072,E-ZEM-00746,Vervangen,30000.00,30,2051,0,H,,Invest
+H-ZEM-01073,E-ZEM-00747,Vervangen,30000.00,30,2051,0,H,,Invest
+H-ZEM-01074,E-ZEM-00748,Vervangen,12462.19,30,2036,0,H,,Invest
+H-ZEM-01075,E-ZEM-00749,Vervangen,12462.19,30,2036,0,H,,Invest
+H-ZEM-01076,E-ZEM-00750,Vervangen,12462.19,30,2036,0,H,,Invest
+H-ZEM-01077,E-ZEM-00751,Vervangen,12462.19,30,2036,0,H,,Invest
+H-ZEM-01078,E-ZEM-00752,Vervangen,12462.19,30,2036,0,H,,Invest
+H-ZEM-01079,E-ZEM-00753,Vervangen,12462.19,30,2036,0,H,,Invest
+H-ZEM-01080,E-ZEM-00754,Vervangen,12462.19,30,2036,0,H,,Invest
+H-ZEM-01081,E-ZEM-00755,Vervangen,12462.19,30,2036,0,H,,Invest
+H-ZEM-01082,E-ZEM-00756,Vervangen,12462.19,30,2036,0,H,,Invest
+H-ZEM-01083,E-ZEM-00757,Vervangen,2462.19,30,2036,0,H,,Invest
+H-ZEM-01084,E-ZEM-00758,Scope 12 inspectie,1589.70,5,2028,0,O,,Expl
+H-ZEM-01085,E-ZEM-00758,Vervangen van de omvormer,4819.77,15,2038,0,O,10,Invest
+H-ZEM-01086,E-ZEM-00758,Vervangen van de PV-Panelen,408.10,30,2053,0,H,10,Invest
+H-ZEM-01087,E-ZEM-00759,Vervangen centrale noodverlichtingskast,10803.10,16,2037,0,O,,Invest
+H-ZEM-01088,E-ZEM-00759,Vervangen Noodverlichtingsarmatuur LED (decentraal),352.65,16,2037,0,H,,Invest
+H-ZEM-01089,E-ZEM-00759,Vervangen accu's,59.55,4,2029,0,H,,Invest
+H-ZEM-01090,E-ZEM-00760,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01091,E-ZEM-00761,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01092,E-ZEM-00762,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01093,E-ZEM-00763,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01094,E-ZEM-00764,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01095,E-ZEM-00765,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01096,E-ZEM-00766,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01097,E-ZEM-00767,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01098,E-ZEM-00768,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01099,E-ZEM-00769,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01100,E-ZEM-00770,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01101,E-ZEM-00771,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01102,E-ZEM-00772,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01103,E-ZEM-00773,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01104,E-ZEM-00774,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01105,E-ZEM-00775,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01106,E-ZEM-00776,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01107,E-ZEM-00777,Vervangen,5516.95,30,2027,0,H,,Invest
+H-ZEM-01108,E-ZEM-00778,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01109,E-ZEM-00779,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01110,E-ZEM-00780,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01111,E-ZEM-00781,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01112,E-ZEM-00782,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01113,E-ZEM-00783,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01114,E-ZEM-00784,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01115,E-ZEM-00785,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01116,E-ZEM-00786,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01117,E-ZEM-00787,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01118,E-ZEM-00788,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01119,E-ZEM-00789,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01120,E-ZEM-00790,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01121,E-ZEM-00791,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01122,E-ZEM-00792,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01123,E-ZEM-00793,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01124,E-ZEM-00794,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01125,E-ZEM-00795,Vervangen,12462.19,30,2047,0,H,,Invest
+H-ZEM-01126,E-ZEM-00796,Vervangen hydrofoor,6493.17,15,2032,0,H,,Invest
+H-ZEM-01127,E-ZEM-00797,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01128,E-ZEM-00798,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01129,E-ZEM-00799,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01130,E-ZEM-00800,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01131,E-ZEM-00801,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01132,E-ZEM-00802,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01133,E-ZEM-00803,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01134,E-ZEM-00804,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01135,E-ZEM-00805,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01136,E-ZEM-00806,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01137,E-ZEM-00807,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01138,E-ZEM-00808,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01139,E-ZEM-00809,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01140,E-ZEM-00810,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01141,E-ZEM-00811,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01142,E-ZEM-00812,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01143,E-ZEM-00813,Vervangen,12462.19,30,2050,0,H,,Invest
+H-ZEM-01144,E-ZEM-00814,Vervangen valbeveiliging,25000.00,20,2025,0,H,,Invest
+H-ZEM-01145,E-ZEM-00815,Vervangen valbeveiliging,12500.00,20,2035,0,H,,Invest
+H-ZEM-01146,E-ZEM-00816,Vervangen valbeveiliging,17500.00,20,2026,0,H,,Invest
+H-ZEM-01147,E-ZEM-00817,Scope 12 inspectie,1689.70,5,2028,0,O,,Expl
+H-ZEM-01148,E-ZEM-00817,Vervangen van de omvormer,4819.77,15,2035,0,O,10,Invest
+H-ZEM-01149,E-ZEM-00817,Vervangen van de PV-Panelen,408.10,30,2050,0,H,10,Invest
+H-ZEM-01150,E-ZEM-00818,Vervangen valbeveiliging,25000.00,20,2040,0,H,,Invest
+H-ZEM-01151,E-ZEM-00819,Vervangen Koelcelinstallatie (restaurant begane grond),8574.75,20,2029,0,H,,Invest
+H-ZEM-01152,E-ZEM-00820,Vervangen Vriescelinstallatie (keuken begane grond),15574.75,18,2030,0,H,,Invest
+H-ZEM-01153,E-ZEM-00821,Vervangen Compressor (Buitendeel),3712.82,15,2036,0,H,,Invest
+H-ZEM-01154,E-ZEM-00821,Vervangen Verdamper (Binnendeel),2649.57,15,2036,0,H,,Invest
+H-ZEM-01155,E-ZEM-00822,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,H,,Invest
+H-ZEM-01156,E-ZEM-00822,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,H,,Invest
+H-ZEM-01157,E-ZEM-00823,Vervangen Koelcelinstallatie (mortuarium begane grond),8574.75,20,2042,0,H,,Invest
+H-ZEM-01158,E-ZEM-00824,Vervangen Koelcelinstallatie (keuken begane grond),8574.75,20,2042,0,H,,Invest
+H-ZEM-01159,E-ZEM-00825,Vervangen Koelcelinstallatie (restaurant begane grond),8574.75,20,2029,0,H,,Invest
+H-ZEM-01160,E-ZEM-00826,Vervangen Koelcelinstallatie (restaurant 1e verdieping),8574.75,20,2042,0,H,,Invest
+H-ZEM-01161,E-ZEM-00827,Vervangen Vriescelinstallatie (keuken 1e verdieping),15574.75,18,2030,0,H,,Invest
+H-ZEM-01162,E-ZEM-00828,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,H,,Invest
+H-ZEM-01163,E-ZEM-00828,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,H,,Invest
+H-ZEM-01164,E-ZEM-00829,Vervangen Compressor (Buitendeel),3712.82,15,2031,0,H,,Invest
+H-ZEM-01165,E-ZEM-00829,Vervangen Verdamper (Binnendeel),2649.57,15,2031,0,H,,Invest
+H-ZEM-01166,E-ZEM-00830,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,H,,Invest
+H-ZEM-01167,E-ZEM-00830,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,H,,Invest
+H-ZEM-01168,E-ZEM-00831,Vervangen Compressor (Buitendeel),3712.82,15,2035,0,H,,Invest
+H-ZEM-01169,E-ZEM-00831,Vervangen Verdamper (Binnendeel),2649.57,15,2035,0,H,,Invest
+H-ZEM-01170,E-ZEM-00832,Vervangen Compressor (Buitendeel),3712.82,15,2036,0,H,,Invest
+H-ZEM-01171,E-ZEM-00832,Vervangen Verdamper (Binnendeel),2649.57,15,2036,0,H,,Invest
+H-ZEM-01172,E-ZEM-00833,Vervangen Compressor (Buitendeel),3712.82,15,2036,0,H,,Invest
+H-ZEM-01173,E-ZEM-00833,Vervangen Verdamper (Binnendeel),2649.57,15,2036,0,H,,Invest
+H-ZEM-01174,E-ZEM-00834,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,H,,Invest
+H-ZEM-01175,E-ZEM-00834,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,H,,Invest
+H-ZEM-01176,E-ZEM-00835,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,H,,Invest
+H-ZEM-01177,E-ZEM-00835,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,H,,Invest
+H-ZEM-01178,E-ZEM-00836,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,H,,Invest
+H-ZEM-01179,E-ZEM-00836,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,H,,Invest
+H-ZEM-01180,E-ZEM-00837,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,H,,Invest
+H-ZEM-01181,E-ZEM-00837,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,H,,Invest
+H-ZEM-01182,E-ZEM-00838,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,H,,Invest
+H-ZEM-01183,E-ZEM-00838,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,H,,Invest
+H-ZEM-01184,E-ZEM-00838,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,H,,Invest
+H-ZEM-01185,E-ZEM-00839,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,H,,Invest
+H-ZEM-01186,E-ZEM-00839,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,H,,Invest
+H-ZEM-01187,E-ZEM-00839,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,H,,Invest
+H-ZEM-01188,E-ZEM-00840,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,H,,Invest
+H-ZEM-01189,E-ZEM-00840,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-01190,E-ZEM-00841,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,H,,Invest
+H-ZEM-01191,E-ZEM-00841,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,H,,Invest
+H-ZEM-01192,E-ZEM-00842,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,H,,Invest
+H-ZEM-01193,E-ZEM-00842,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,H,,Invest
+H-ZEM-01194,E-ZEM-00843,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,H,,Invest
+H-ZEM-01195,E-ZEM-00843,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,H,,Invest
+H-ZEM-01196,E-ZEM-00844,Vervangen Compressor (Buitendeel),3712.82,15,2037,0,H,,Invest
+H-ZEM-01197,E-ZEM-00844,Vervangen Verdamper (Binnendeel),2649.57,15,2037,0,H,,Invest
+H-ZEM-01198,E-ZEM-00845,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,H,,Invest
+H-ZEM-01199,E-ZEM-00845,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,H,,Invest
+H-ZEM-01200,E-ZEM-00846,Vervangen binnenunit vrf,2649.57,20,2032,0,H,,Invest
+H-ZEM-01201,E-ZEM-00846,Vervangen binnenunit vrf,2649.57,20,2032,0,H,,Invest
+H-ZEM-01202,E-ZEM-00846,Vervangen binnenunit vrf,2649.57,20,2032,0,H,,Invest
+H-ZEM-01203,E-ZEM-00846,Vervangen binnenunit vrf,2649.57,20,2032,0,H,,Invest
+H-ZEM-01204,E-ZEM-00846,Vervangen binnenunit vrf,2649.57,20,2032,0,H,,Invest
+H-ZEM-01205,E-ZEM-00846,Vervangen Koelmachine < 20 kW,12283.26,20,2032,0,H,,Invest
+H-ZEM-01206,E-ZEM-00847,Vervangen Compressor (Buitendeel),3712.82,15,2028,0,H,,Invest
+H-ZEM-01207,E-ZEM-00847,Vervangen Verdamper (Binnendeel),2649.57,15,2028,0,H,,Invest
+H-ZEM-01208,E-ZEM-00848,Vervangen Compressor (Buitendeel),3712.82,15,2034,0,H,,Invest
+H-ZEM-01209,E-ZEM-00848,Vervangen Verdamper (Binnendeel),2649.57,15,2034,0,H,,Invest
+H-ZEM-01210,E-ZEM-00849,Vervangen Compressor (Buitendeel),3712.82,15,2036,0,H,,Invest
+H-ZEM-01211,E-ZEM-00849,Vervangen Verdamper (Binnendeel),2649.57,15,2036,0,H,,Invest
+H-ZEM-01212,E-ZEM-00850,Vervangen Koelcelinstallatie (keuken),8574.75,20,2042,0,H,,Invest
+H-ZEM-01213,E-ZEM-00851,Vervangen Vriescelinstallatie (keuken),8574.75,18,2026,0,H,,Invest
+H-ZEM-01214,E-ZEM-00852,Vervangen Compressor (Buitendeel),3712.82,15,2035,0,H,,Invest
+H-ZEM-01215,E-ZEM-00852,Vervangen Verdamper (Binnendeel),2649.57,15,2035,0,H,,Invest
+H-ZEM-01216,E-ZEM-00853,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,H,,Invest
+H-ZEM-01217,E-ZEM-00853,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,H,,Invest
+H-ZEM-01218,E-ZEM-00854,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,H,,Invest
+H-ZEM-01219,E-ZEM-00854,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,H,,Invest
+H-ZEM-01220,E-ZEM-00855,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,H,,Invest
+H-ZEM-01221,E-ZEM-00855,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,H,,Invest
+H-ZEM-01222,E-ZEM-00856,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,H,,Invest
+H-ZEM-01223,E-ZEM-00856,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,H,,Invest
+H-ZEM-01224,E-ZEM-00857,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,H,,Invest
+H-ZEM-01225,E-ZEM-00857,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,H,,Invest
+H-ZEM-01226,E-ZEM-00858,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,H,,Invest
+H-ZEM-01227,E-ZEM-00858,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,H,,Invest
+H-ZEM-01228,E-ZEM-00859,Vervangen Compressor (Buitendeel),3712.82,15,2028,0,H,,Invest
+H-ZEM-01229,E-ZEM-00859,Vervangen Verdamper (Binnendeel),2649.57,15,2028,0,H,,Invest
+H-ZEM-01230,E-ZEM-00860,Vervangen Compressor (Buitendeel),3712.82,15,2037,0,H,,Invest
+H-ZEM-01231,E-ZEM-00860,Vervangen Verdamper (Binnendeel),2649.57,15,2037,0,H,,Invest
+H-ZEM-01232,E-ZEM-00861,Vervangen binnenunits vrf,2649.57,20,2037,0,H,,Invest
+H-ZEM-01233,E-ZEM-00861,Vervangen buitenunit Koelmachine,15018.99,20,2037,0,H,,Invest
+H-ZEM-01234,E-ZEM-00862,Vervangen binnenunits vrf,2649.57,20,2034,0,H,,Invest
+H-ZEM-01235,E-ZEM-00862,Vervangen buitenunit Koelmachine,15018.99,20,2034,0,H,,Invest
+H-ZEM-01236,E-ZEM-00863,Vervangen Koelcelinstallatie (keuken),8574.75,20,2026,0,H,,Invest
+H-ZEM-01237,E-ZEM-00864,Vervangen Vriescelinstallatie (keuken),9621.39,18,2036,0,H,,Invest
+H-ZEM-01238,E-ZEM-00865,Vervangen Compressor (Buitendeel),3712.82,15,2026,0,H,,Achter OH
+H-ZEM-01239,E-ZEM-00865,Vervangen Verdamper (Binnendeel),2649.57,15,2026,0,H,,Achter OH
+H-ZEM-01240,E-ZEM-00866,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,H,,Invest
+H-ZEM-01241,E-ZEM-00866,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-01242,E-ZEM-00867,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,H,,Invest
+H-ZEM-01243,E-ZEM-00867,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-01244,E-ZEM-00868,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,H,,Invest
+H-ZEM-01245,E-ZEM-00868,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-01246,E-ZEM-00869,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,H,,Invest
+H-ZEM-01247,E-ZEM-00869,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-01248,E-ZEM-00870,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,H,,Invest
+H-ZEM-01249,E-ZEM-00870,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-01250,E-ZEM-00871,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,H,,Invest
+H-ZEM-01251,E-ZEM-00871,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-01252,E-ZEM-00872,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,H,,Invest
+H-ZEM-01253,E-ZEM-00872,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,H,,Invest
+H-ZEM-01254,E-ZEM-00873,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,H,,Invest
+H-ZEM-01255,E-ZEM-00873,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,H,,Invest
+H-ZEM-01256,E-ZEM-00874,Vervangen vuilwaterpomp,1152.94,10,2034,0,H,,Invest
+H-ZEM-01257,E-ZEM-00875,Vervangen Koelmachine 20 - 30 kW,15018.99,20,2044,0,H,,Invest
+H-ZEM-01258,E-ZEM-00876,Vervangen Koelmachine < 20 kW,12283.26,20,2044,0,H,,Invest
+H-ZEM-01259,E-ZEM-00877,Vervangen knikarmscherm elektrisch (breedte <2m),1529.20,20,2043,0,H,,Invest
+H-ZEM-01260,E-ZEM-00877,Onderhoud uitvalscherm elektrisch,4500.00,5,2028,0,O,,Expl
+H-ZEM-01261,E-ZEM-00877,Vervangen zonweringsdoek knikarmscherm elektrisch (breedte <2m),465.41,10,2033,0,H,,Invest
+H-ZEM-01262,E-ZEM-00878,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,7519.00,15,2038,0,H,,Invest
+H-ZEM-01263,E-ZEM-00879,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,6519.00,15,2030,0,H,,Invest
+H-ZEM-01264,E-ZEM-00880,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-01265,E-ZEM-00880,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-01266,E-ZEM-00880,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-01267,E-ZEM-00880,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-01268,E-ZEM-00881,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,7519.00,15,2033,0,H,,Invest
+H-ZEM-01269,E-ZEM-00882,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,7519.00,15,2033,0,H,,Invest
+H-ZEM-01270,E-ZEM-00883,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),25.94,10,2033,0,H,,Invest
+H-ZEM-01271,E-ZEM-00884,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,2519.00,15,2028,0,H,,Invest
+H-ZEM-01272,E-ZEM-00885,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-01273,E-ZEM-00885,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-01274,E-ZEM-00885,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-01275,E-ZEM-00885,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-01276,E-ZEM-00886,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,8519.00,15,2027,0,H,,Invest
+H-ZEM-01277,E-ZEM-00887,"Onderhoud zonwering, screens elektrisch",6500.00,5,2027,0,O,,Expl
+H-ZEM-01278,E-ZEM-00887,"Vervangen doek zonwering, screens elektrisch",589.52,10,2032,0,H,,Invest
+H-ZEM-01279,E-ZEM-00887,"Vervangen zonwering, screens elektrisch",1269.45,20,2032,0,H,,Invest
+H-ZEM-01283,E-ZEM-00891,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,7519.00,15,2027,0,H,,Invest
+H-ZEM-01284,E-ZEM-00892,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-01285,E-ZEM-00892,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-01286,E-ZEM-00892,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-01287,E-ZEM-00892,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,H,,Invest
+H-ZEM-01288,E-ZEM-00893,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,13519.00,15,2035,0,H,,Invest
+H-ZEM-01289,E-ZEM-00894,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,12519.00,15,2035,0,H,,Invest
+H-ZEM-01291,E-ZEM-00896,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2030,0,H,,Invest
+H-ZEM-01292,E-ZEM-00896,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2030,0,H,,Invest
+H-ZEM-01293,E-ZEM-00896,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2030,0,H,,Invest
+H-ZEM-01294,E-ZEM-00896,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2030,0,H,,Invest
+H-ZEM-01295,E-ZEM-00897,"Onderhoud zonwering, screens elektrisch",18500.00,5,2027,0,O,,Expl
+H-ZEM-01296,E-ZEM-00897,"Vervangen doek zonwering, screens elektrisch",589.52,10,2032,0,H,,Invest
+H-ZEM-01297,E-ZEM-00897,"Vervangen zonwering, screens elektrisch",1269.45,20,2032,0,H,,Invest
+H-ZEM-01298,E-ZEM-00898,"Onderhoud zonwering, screens elektrisch",14500.00,5,2030,0,O,,Expl
+H-ZEM-01299,E-ZEM-00898,"Vervangen doek zonwering, screens elektrisch",589.52,10,2030,0,H,,Invest
+H-ZEM-01300,E-ZEM-00898,"Vervangen zonwering, screens elektrisch",1269.45,20,2040,0,H,,Invest
+H-ZEM-01302,E-ZEM-00900,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,17519.00,15,2033,0,H,,Invest
+H-ZEM-01303,E-ZEM-00901,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,11519.00,15,2036,0,H,,Invest
+H-ZEM-01305,E-ZEM-00903,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2036,0,H,,Invest
+H-ZEM-01306,E-ZEM-00903,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2036,0,H,,Invest
+H-ZEM-01307,E-ZEM-00903,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2036,0,H,,Invest
+H-ZEM-01308,E-ZEM-00903,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2036,0,H,,Invest
+H-ZEM-01309,E-ZEM-00904,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,8519.00,15,2030,0,H,,Invest
+H-ZEM-01310,E-ZEM-00905,Vervangen vliesgevel,200150.64,30,2054,0,H,,Invest
+H-ZEM-01311,E-ZEM-00905,Reinigen vliesgevel,15111.77,3,2027,0,H,,Invest
+H-ZEM-01312,E-ZEM-00906,Reinigen bron,19991.95,12,2032,0,H,,Invest
+H-ZEM-01313,E-ZEM-00906,Vervangen Bronpompen,7251.30,5,2030,0,H,,Invest
+H-ZEM-01314,E-ZEM-00907,Scope 12 inspectie,1389.70,5,2027,0,O,,Expl
+H-ZEM-01315,E-ZEM-00907,Vervangen van de omvormer,4819.77,15,2037,0,O,10,Invest
+H-ZEM-01316,E-ZEM-00907,Vervangen van de PV-Panelen,408.10,30,2052,0,H,10,Invest
+H-ZEM-01317,E-ZEM-00908,Scope 10 inspectie Locatie Vlaswiek,1.33,3,2028,0,H,,Expl
+H-ZEM-01318,E-ZEM-00908,Scope 8 inspectie Locatie Vlaswiek,1.95,5,2030,0,H,,Expl
+H-ZEM-01319,E-ZEM-00909,Scope 10 inspectie Locatie Wereldhuis,1.33,3,2026,0,H,,Expl
+H-ZEM-01320,E-ZEM-00909,Scope 8 inspectie Locatie Wereldhuis,0.95,5,2029,0,H,,Expl
+H-ZEM-01321,E-ZEM-00910,Scope 10 inspectie Locatie Liduina,1.33,3,2026,0,H,,Expl
+H-ZEM-01322,E-ZEM-00910,Scope 8 inspectie Locatie Liduina,0.95,5,2027,0,H,,Expl
+H-ZEM-01323,E-ZEM-00911,Scope 10 inspectie Locatie Vinckenrode,1.33,3,2028,0,H,,Expl
+H-ZEM-01324,E-ZEM-00911,Scope 8 inspectie Locatie Vinckenrode,0.95,5,2030,0,H,,Expl
+H-ZEM-01325,E-ZEM-00912,Scope 10 inspectie Locatie De Beemden,1.33,3,2028,0,H,,Expl
+H-ZEM-01326,E-ZEM-00912,Scope 8 inspectie Locatie De Beemden,0.95,5,2030,0,H,,Expl
+H-ZEM-01327,E-ZEM-00913,Scope 10 inspectie Locatie Simeonshof,1.33,5,2026,0,H,,Expl
+H-ZEM-01328,E-ZEM-00913,Scope 8 inspectie Locatie Simeonshof,0.95,5,2028,0,H,,Expl
+H-ZEM-01329,E-ZEM-00914,Scope 10 inspectie Locatie Buitenhuis,0.95,5,2029,0,H,,Expl
+H-ZEM-01330,E-ZEM-00914,Scope 8 inspectie Locatie Buitenhuis,0.65,5,2029,0,H,,Expl
+H-ZEM-01331,E-ZEM-00915,Scope 10 inspectie Locatie Vossenberg (kapel),1.33,3,2028,0,H,,Expl
+H-ZEM-01332,E-ZEM-00915,Scope 8 inspectie Locatie Vossenberg (kapel),0.95,5,2030,0,H,,Expl
+H-ZEM-01333,E-ZEM-00916,Scope 10 inspectie Locatie Vossenberg,1.33,5,2028,0,H,,Expl
+H-ZEM-01334,E-ZEM-00916,Scope 8 inspectie Locatie Vossenberg,0.95,5,2030,0,H,,Expl
+H-ZEM-01335,E-ZEM-00917,Vervangen Verlichtingsarmaturen (LED),32.19,15,2037,0,H,,Invest
+H-ZEM-01336,E-ZEM-00918,Vervangen gevelarmaturen,5477.87,25,2044,0,H,,Invest
+H-ZEM-01337,E-ZEM-00918,Vervangen terreinverlichting,8523.36,10,2034,0,H,,Invest
+H-ZEM-01338,E-ZEM-00919,Vervangen Verlichtingsarmaturen (LED),30.19,15,2036,0,H,,Invest
+H-ZEM-01339,E-ZEM-00920,Vervangen Verlichtingsarmaturen (LED),32.19,15,2026,0,H,,Invest
+H-ZEM-01340,E-ZEM-00920,Vervangen Verlichtingsarmaturen (LED),32.19,15,2036,0,H,,Invest
+H-ZEM-01341,E-ZEM-00920,Vervangen Verlichtingsarmaturen (LED),28.19,15,2035,0,H,,Invest
+H-ZEM-01342,E-ZEM-00920,Vervangen Verlichtingsarmaturen (LED),32.19,15,2037,0,H,,Invest
+H-ZEM-01343,E-ZEM-00921,Vervangen Noodverlichtingsarmatuur LED (decentraal),352.65,16,2040,0,H,,Invest
+H-ZEM-01344,E-ZEM-00921,Vervangen accu's,59.55,4,2028,0,H,,Invest
+H-ZEM-01345,E-ZEM-00922,Vervangen Verlichtingsarmaturen (LED),32.19,15,2039,0,H,,Invest
+H-ZEM-01346,E-ZEM-00923,Vervangen Verlichtingsarmaturen (LED),32.19,15,2037,0,H,,Invest
+H-ZEM-01347,E-ZEM-00924,Vervangen Verlichtingsarmaturen (LED),28.19,15,2035,0,H,,Invest
+H-ZEM-01348,E-ZEM-00925,Vervangen gevelarmaturen,6477.87,25,2045,0,H,,Invest
+H-ZEM-01349,E-ZEM-00925,Vervangen terreinverlichting,12523.36,10,2030,0,H,,Invest
+H-ZEM-01350,E-ZEM-00926,Vervangen Verlichtingsarmaturen (LED),32.19,15,2038,0,H,,Invest
+H-ZEM-01351,E-ZEM-00927,Vervangen gevelarmaturen,5477.87,25,2049,0,H,,Invest
+H-ZEM-01352,E-ZEM-00927,Vervangen terreinverlichting,8523.36,10,2033,0,H,,Invest
+H-ZEM-01353,E-ZEM-00928,Vervangen Verlichtingsarmaturen (LED),32.19,15,2037,0,H,,Invest
+H-ZEM-01354,E-ZEM-00929,Vervangen Verlichtingsarmaturen (LED),32.19,15,2034,0,H,,Invest
+H-ZEM-01355,E-ZEM-00930,Vervangen gevelarmaturen,4477.87,25,2045,0,H,,Invest
+H-ZEM-01356,E-ZEM-00930,Vervangen terreinverlichting,5523.36,10,2035,0,H,,Invest
+H-ZEM-01357,E-ZEM-00931,Vervangen Noodverlichtingsarmaturen (decentraal),352.65,16,2026,0,H,,Achter OH
+H-ZEM-01358,E-ZEM-00931,Vervangen accu's,59.55,4,2030,0,H,,Invest
+H-ZEM-01359,E-ZEM-00932,Vervangen Koel-Vriescelinstallatie,33574.75,20,2044,0,H,,Invest
+H-ZEM-01360,E-ZEM-00933,Vervangen modules KNX systeem,25492.00,15,2026,0,H,,Invest
+H-ZEM-01361,E-ZEM-00934,Vervangen modules KNX systeem,25492.00,15,2032,0,H,,Invest
+H-ZEM-01362,E-ZEM-00935,Renovatiebudget Vossenberg (De Kapel),350000.00,0,2026,0,H,,Project
+H-ZEM-01363,E-ZEM-00936,Vervangen,117567.42,30,2030,0,H,,Invest
+H-ZEM-01364,E-ZEM-00937,Vervangen,25516.95,30,2026,0,H,,Invest
+H-ZEM-01365,E-ZEM-00938,Vervangen Zonnecollector,6481.83,24,2041,0,H,,Invest
+H-ZEM-01366,E-ZEM-00939,Vervangen zonneboiler,5509.38,20,2037,0,H,,Invest
+H-ZEM-01367,E-ZEM-00940,Vervangen Zonnecollector,6481.83,24,2048,0,H,,Invest
+H-ZEM-01368,E-ZEM-00941,Vervangen Vervangen Ketel gasgestookt HR 45 KW,5342.95,15,2031,0,H,,Invest
+H-ZEM-01369,E-ZEM-00942,Vervangen Ketel gasgestookt HR < 25 KW,3805.51,15,2039,0,H,,Invest
+H-ZEM-01370,E-ZEM-00943,Reinigen bron,19991.55,12,2037,0,H,,Invest
+H-ZEM-01371,E-ZEM-00943,Vervangen Bronpompen,7821.04,5,2027,0,H,,Invest
+H-ZEM-01372,E-ZEM-00944,Vervangen zonneboiler,5509.38,20,2037,0,H,,Invest
+H-ZEM-01373,E-ZEM-00945,Vervangen Zonnecollector,6481.83,24,2041,0,H,,Invest
+H-ZEM-01374,E-ZEM-00946,Vervangen warmtepomp,13319.32,15,2032,0,H,,Invest
+H-ZEM-01375,E-ZEM-00947,Vervangen Dakventilator (vaatwasser),2692.27,15,2030,0,H,,Invest
+H-ZEM-01376,E-ZEM-00948,Vervangen Dakventilator (vaatwasser),2692.27,15,2030,0,H,,Invest
+H-ZEM-01377,E-ZEM-00949,Vervangen Buffervat,3696.30,20,2037,0,H,,Invest
+H-ZEM-01378,E-ZEM-00950,Vervangen tegenstroomapparaat (TSA),7251.30,10,2027,0,H,,Invest
+H-ZEM-01379,E-ZEM-00951,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,H,,Invest
+H-ZEM-01380,E-ZEM-00951,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,H,,Invest
+H-ZEM-01381,E-ZEM-00952,Vervangen Buffervat 1000 liter,3696.30,20,2037,0,H,,Invest
+H-ZEM-01382,E-ZEM-00953,Vervangen Dakventilator,15000.00,15,2032,0,H,,Invest
+H-ZEM-01383,E-ZEM-00954,Vervangen tegenstroomapparaat (TSA),7251.30,10,2026,0,H,,Invest
+H-ZEM-01384,E-ZEM-00955,Vervangen Boiler indirect gestookt 500 liter,5412.14,15,2026,0,H,,Invest
+H-ZEM-01385,E-ZEM-00956,Vervangen hydrofoor,6493.17,15,2042,0,H,,Invest
+H-ZEM-01386,E-ZEM-00957,Vervangen Ketel gasgestookt HR 300 - 400 kW,44139.14,30,2025,0,H,,DUMAVA
+H-ZEM-01387,E-ZEM-00958,Vervangen Ketel gasgestookt HR < 25 KW,3805.51,15,2039,0,H,,Invest
+H-ZEM-01388,E-ZEM-00959,Vervangen tegenstroomapparaat (TSA),15000.00,20,2030,0,H,,Invest
+H-ZEM-01389,E-ZEM-00960,Vervangen warmtepomp,13319.32,15,2027,0,H,,Invest
+H-ZEM-01390,E-ZEM-00961,Vervangen warmtepomp,13319.32,15,2027,0,H,,Invest
+H-ZEM-01392,E-ZEM-00963,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-01393,E-ZEM-00964,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-01394,E-ZEM-00965,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-01395,E-ZEM-00966,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-01396,E-ZEM-00967,Vervangen circulatiepomp CV,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-01398,E-ZEM-00969,Vervangen circulatiepomp warm tapwater,2867.13,15,2029,0,H,,Invest
+H-ZEM-01399,E-ZEM-00970,Vervangen Dakventilator,2692.27,15,2028,0,H,,Invest
+H-ZEM-01400,E-ZEM-00971,Vervangen Dakventilator,2692.27,15,2028,0,H,,Invest
+H-ZEM-01401,E-ZEM-00972,Vervangen Keukenblok (huiskamers),28704.14,25,2031,0,H,,Invest
+H-ZEM-01402,E-ZEM-00973,Vervangen tegenstroomapparaat (TSA),15470.28,10,2033,0,H,,Invest
+H-ZEM-01403,E-ZEM-00974,Vervangen Tapwaterpomp,1467.77,15,2042,0,H,,Invest
+H-ZEM-01404,E-ZEM-00975,Vervangen Tapwaterpomp,1467.77,15,2042,0,H,,Invest
+H-ZEM-01405,E-ZEM-00976,Vervangen circulatiepomp,2867.13,15,2032,0,H,,Invest
+H-ZEM-01406,E-ZEM-00977,Vervangen circulatiepomp,2867.13,15,2032,0,H,,Invest
+H-ZEM-01407,E-ZEM-00978,Vervangen circulatiepomp,2867.13,15,2032,0,H,,Invest
+H-ZEM-01408,E-ZEM-00979,Vervangen circulatiepomp,2867.13,15,2032,0,H,,Invest
+H-ZEM-01409,E-ZEM-00980,Vervangen Dakventilator,2001.16,15,2024,0,H,,Achter OH
+H-ZEM-01410,E-ZEM-00981,Vervangen Ketel gasgestookt HR,63190.63,30,2028,0,H,,Invest
+H-ZEM-01411,E-ZEM-00982,Vervangen Keukenblok (Verdieping 1 tm 5 en personeelsruimte),28704.14,25,2030,0,H,,Invest
+H-ZEM-01412,E-ZEM-00983,Vervangen Keukenblok (Verdieping 1 tm 5 en personeelsruimte),28704.14,25,2030,0,H,,Invest
+H-ZEM-01413,E-ZEM-00984,Vervangen Keukenblok (Verdieping 1 tm 5 en personeelsruimte),28704.14,25,2030,0,H,,Invest
+H-ZEM-01414,E-ZEM-00985,Vervangen Keukenblok (Verdieping 1 tm 5 en personeelsruimte),28704.14,25,2030,0,H,,Invest
+H-ZEM-01415,E-ZEM-00986,Vervangen Keukenblok (Verdieping 1 tm 5 en personeelsruimte),28704.14,25,2030,0,H,,Invest
+H-ZEM-01416,E-ZEM-00987,Vervangen Ketel gasgestookt HR 150 - 200 KW,19234.43,30,2036,0,H,,Invest
+H-ZEM-01417,E-ZEM-00988,Vervangen Tapwaterpomp,1467.77,15,2039,0,H,,Invest
+H-ZEM-01418,E-ZEM-00989,Vervangen Tapwaterpomp,1467.77,15,2036,0,H,,Invest
+H-ZEM-01419,E-ZEM-00990,Vervangen Boiler indirect gestookt 500 liter,5412.14,15,2026,0,H,,Invest
+H-ZEM-01422,E-ZEM-00993,Vervangen circulatiepomp,2867.13,15,2026,0,H,,Achter OH
+H-ZEM-01423,E-ZEM-00994,Vervangen dakventilator,2692.27,15,2030,0,H,,Invest
+H-ZEM-01425,E-ZEM-00996,Vervangen Keukenblok (huiskamers),28704.14,25,2030,0,H,,Invest
+H-ZEM-01426,E-ZEM-00997,Vervangen GTV-installatie,4000.00,20,2034,0,H,,Invest
+H-ZEM-01427,E-ZEM-00998,Vervangen,25310.00,20,2035,0,H,,Invest
+H-ZEM-01428,E-ZEM-00999,Vervangen,12000.00,20,2031,0,H,,Invest
+H-ZEM-01429,E-ZEM-01000,Vervangen,12000.00,20,2040,0,H,,Invest
+H-ZEM-01430,E-ZEM-01001,Vervangen,12000.00,20,2033,0,H,,Invest
+H-ZEM-01431,E-ZEM-01002,Vervangen,12000.00,20,2027,0,H,,Invest
+H-ZEM-01432,E-ZEM-01003,Vervangen,12000.00,20,2035,0,H,,Invest
+H-ZEM-01433,E-ZEM-01004,Vervangen Grootkeukeninrichting,187742.84,12,2035,0,H,,Invest
+H-ZEM-01434,E-ZEM-01005,"Onderhoud zonwering, screens elektrisch",5000.00,5,2031,0,O,,Invest
+H-ZEM-01435,E-ZEM-01005,"Vervangen doek zonwering, screens elektrisch",589.52,10,2036,0,H,,Invest
+H-ZEM-01436,E-ZEM-01005,"Vervangen zonwering, screens elektrisch",1269.45,20,2026,0,H,,Invest
+H-ZEM-01437,E-ZEM-01006,Vervangen controllers toegangscontrole-installatie,1486.67,15,2029,0,H,,Invest
+H-ZEM-01438,E-ZEM-01007,Vervangen controllers toegangscontrole-installatie,1486.67,15,2035,0,H,,Invest
+H-ZEM-01439,E-ZEM-01008,Vervangen controllers toegangscontrole-installatie,1486.67,15,2028,0,H,,Invest
+H-ZEM-01440,E-ZEM-01009,Vervangen controllers toegangscontrole-installatie,1486.67,15,2033,0,H,,Invest
+H-ZEM-01441,E-ZEM-01010,Vervangen controllers toegangscontrole-installatie,1486.67,15,2033,0,H,,Invest
+H-ZEM-01442,E-ZEM-01011,Vervangen controllers toegangscontrole-installatie,1486.67,15,2028,0,H,,Invest
+H-ZEM-01443,E-ZEM-01012,Vervangen controllers toegangscontrole-installatie,1486.67,15,2027,0,H,,Invest
+H-ZEM-01444,E-ZEM-01013,Vervangen controllers toegangscontrole-installatie,1486.67,15,2027,0,H,,Invest
+H-ZEM-01445,E-ZEM-01014,Vervangen controllers toegangscontrole-installatie,1486.67,15,2035,0,H,,Invest
+H-ZEM-01446,E-ZEM-01015,Vervangen controllers toegangscontrole-installatie,1486.67,15,2033,0,H,,Invest
+H-ZEM-01447,E-ZEM-01016,Vervangen controllers toegangscontrole-installatie,1486.67,15,2036,0,H,,Invest
+H-ZEM-01448,E-ZEM-01017,Vervangen vrijloopdrangers gehele locatie,279.92,10,2030,0,H,,Invest
+H-ZEM-01449,E-ZEM-01018,Vervangen vrijloopdrangers gehele locatie,279.92,10,2029,0,H,,Invest
+H-ZEM-01450,E-ZEM-01019,Vervangen vrijloopdrangers gehele locatie,279.92,10,2034,0,H,,Invest
+H-ZEM-01451,E-ZEM-01020,Vervangen vrijloopdrangers gehele locatie,279.92,10,2033,0,H,,Invest
+H-ZEM-01452,E-ZEM-01021,Vervangen vrijloopdrangers gehele locatie,279.92,10,2033,0,H,,Invest
+H-ZEM-01453,E-ZEM-01022,Vervangen vrijloopdrangers gehele locatie,279.92,10,2033,0,H,,Invest
+H-ZEM-01454,E-ZEM-01023,Vervangen vrijloopdrangers gehele locatie,279.92,10,2032,0,H,,Invest
+H-ZEM-01455,E-ZEM-01024,Vervangen vrijloopdrangers gehele locatie,279.92,10,2032,0,H,,Invest
+H-ZEM-01456,E-ZEM-01025,Vervangen vrijloopdrangers gehele locatie,279.92,10,2030,0,H,,Invest
+H-ZEM-01457,E-ZEM-01026,Vervangen Grootkeukeninrichting,87742.84,12,2027,0,H,,Invest
+H-ZEM-01458,E-ZEM-01027,Vervangen Keukenblok (huiskamers),28704.14,25,2030,0,H,,Invest
+H-ZEM-01459,E-ZEM-01028,Vervangen pantryblokken,2451.62,25,2030,0,H,,Invest
+H-ZEM-01460,E-ZEM-01029,Inspecteren en herstellen rijwielberging,4686.38,10,2028,0,O,,Invest
+H-ZEM-01461,E-ZEM-01030,Vervangen onderdelen elektrische poort,3500.00,5,2028,0,H,,Invest
+H-ZEM-01462,E-ZEM-01031,Inspecteren en herstellen,22.16,10,2029,0,H,,Invest
+H-ZEM-01463,E-ZEM-01032,Inspecteren en herstellen,22.16,10,2029,0,H,,Invest
+H-ZEM-01464,E-ZEM-01033,Inspecteren en herstellen,22.16,10,2029,0,H,,Invest
+H-ZEM-01465,E-ZEM-01034,Vervangen pantryblokken,2451.62,25,2045,0,H,,Invest
+H-ZEM-01466,E-ZEM-01035,Vervangen Grootkeukeninrichting,57742.84,12,2030,0,H,,Invest
+H-ZEM-01467,E-ZEM-01036,Vervangen pantryblokken,2451.62,25,2046,0,H,,Invest
+H-ZEM-01468,E-ZEM-01037,Vervangen pantryblokken,2451.62,25,2035,0,H,,Invest
+H-ZEM-01469,E-ZEM-01038,Vervangen pantryblokken,2451.62,25,2035,0,H,,Invest
+H-ZEM-01470,E-ZEM-01039,Vervangen pantryblokken,2451.62,25,2035,0,H,,Invest
+H-ZEM-01471,E-ZEM-01040,Vervangen pantryblokken,2451.62,25,2035,0,H,,Invest
+H-ZEM-01472,E-ZEM-01041,Vervangen pantryblokken,2451.62,25,2030,0,H,,Invest
+H-ZEM-01473,E-ZEM-01042,Vervangen pantryblokken,2451.62,25,2030,0,H,,Invest
+H-ZEM-01474,E-ZEM-01043,Vervangen Keukenblok (huiskamers),28704.14,25,2037,0,H,,Invest
