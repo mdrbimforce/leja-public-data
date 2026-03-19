@@ -1,0 +1,1288 @@
+ele_vrij1,han_vrij1,han_tekst,han_prijs,han_cyclus,han_startjaar,han_stopjaar,cost_label,funding_source,cost_basis,han_fonds,seq
+E-ZEM-00035,H-ZEM-00089,Vervangen automatische schuifdeur 1e verd. PG,10180.53,12,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00036,H-ZEM-00090,Vervangen automatische draaideur Binnendeur noodunit,4361.00,12,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00701,H-ZEM-01016,Vervangen Vrijloopdrangers,279.92,10,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00421,H-ZEM-00628,Jaarlijkse post Afwerkingspakket Interieur Antoniushof,5.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00561,H-ZEM-00839,Vervangen Sleutelkast,17960.36,16,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00561,H-ZEM-00840,Vervangen accu Sleutelkast,1652.53,4,2027,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00201,H-ZEM-00297,Vervangen onderdelen elektrische poort,3500.00,5,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00277,H-ZEM-00384,Vervangen slagboom Buitendeur huisvest. parkeerplaats,3521.00,5,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00427,H-ZEM-00640,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00427,H-ZEM-00641,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00427,H-ZEM-00642,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00427,H-ZEM-00643,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00057,H-ZEM-00111,Vervangen automatische schuifdeur Buitendeur entree,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00060,H-ZEM-00114,Vervangen automatische schuifdeur Toegangs tuin t.p.v. noodt,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00422,H-ZEM-00629,Vervangen uitvalscherm elektrisch,1427.02,20,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00422,H-ZEM-00630,Onderhoud uitvalscherm elektrisch,7500.00,5,2028,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00422,H-ZEM-00631,Vervangen zonweringsdoek uitvalscherm elektrisch,730.82,10,2043,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00423,H-ZEM-00632,"Onderhoud zonwering, screens elektrisch",10500.00,5,2028,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00423,H-ZEM-00633,"Vervangen doek zonwering, screens elektrisch",589.52,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00423,H-ZEM-00634,"Vervangen zonwering, screens elektrisch",1269.45,20,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00056,H-ZEM-00110,Vervangen automatische schuifdeur Binnendeur,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00058,H-ZEM-00112,"Vervangen automatische schuifdeur Gesloten afdeling, 1e vlaspit",10180.53,12,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00059,H-ZEM-00113,"Vervangen automatische schuifdeur Gelsoten afdeling, BG vlasblom",10180.53,12,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00553,H-ZEM-00831,Vervangen deurdranger binnendeur Begane grond,279.92,10,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00554,H-ZEM-00832,Vervangen deurdranger binnendeur 1e verdieping,279.92,10,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00425,H-ZEM-00638,Buitenschilderwerk totaal,42.48,6,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00424,H-ZEM-00635,Inspecteren en plaatselijk herstellen detaillering dak,4500.00,10,2037,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00424,H-ZEM-00636,Vervangen dakbedekking bitumen geballast + bij isoleren,195.59,40,2027,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00424,H-ZEM-00637,Aanbrengen nieuwe laag dakbedekking bitumen geballast,71.86,20,2047,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00298,H-ZEM-00455,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2033,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00298,H-ZEM-00456,Interieur bijwerken,474.88,20,2053,0,ReplacementCost,Investment,Interieur,,2
+E-ZEM-00299,H-ZEM-00457,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2033,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00299,H-ZEM-00458,Interieur bijwerken,474.88,20,2053,0,ReplacementCost,Investment,Interieur,,2
+E-ZEM-00527,H-ZEM-00789,Jaarlijkse post Afwerkingspakket Interieur Vlaswiek,6.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00430,H-ZEM-00646,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 1),5342.95,15,2027,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00431,H-ZEM-00647,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 2),5342.95,15,2027,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00432,H-ZEM-00648,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 3),5342.95,15,2027,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00433,H-ZEM-00649,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 4),5342.95,15,2027,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00434,H-ZEM-00650,Vervangen Ketel gasgestookt HR 40 - 65 KW (Tapwaterketel 1),5342.95,15,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00435,H-ZEM-00651,Vervangen Ketel gasgestookt HR 40 - 65 KW (Tapwaterketel 2),5342.95,15,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00878,H-ZEM-01262,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,7519.00,15,2038,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00437,H-ZEM-00654,Vervangen Boiler indirect gestookt 300 liter,3768.04,15,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00859,H-ZEM-01228,Vervangen Compressor (Buitendeel),3712.82,15,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00859,H-ZEM-01229,Vervangen Verdamper (Binnendeel),2649.57,15,2028,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00860,H-ZEM-01230,Vervangen Compressor (Buitendeel),3712.82,15,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00860,H-ZEM-01231,Vervangen Verdamper (Binnendeel),2649.57,15,2037,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00861,H-ZEM-01232,Vervangen binnenunits vrf,2649.57,20,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00861,H-ZEM-01233,Vervangen buitenunit Koelmachine,15018.99,20,2037,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00862,H-ZEM-01234,Vervangen binnenunits vrf,2649.57,20,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00862,H-ZEM-01235,Vervangen buitenunit Koelmachine,15018.99,20,2034,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00438,H-ZEM-00655,Vervangen circulatiepomp warm tapwater,2867.13,15,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00698,H-ZEM-01013,Vervangen circulatiepomp CV,2867.13,15,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00699,H-ZEM-01014,Vervangen circulatiepomp CV,2867.13,15,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00969,H-ZEM-01398,Vervangen circulatiepomp warm tapwater,2867.13,15,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00695,H-ZEM-01010,Vervangen Dakventilator,2692.27,15,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00697,H-ZEM-01012,Vervangen Afzuigventilatorbox,1374.92,15,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00970,H-ZEM-01399,Vervangen Dakventilator,2692.27,15,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00971,H-ZEM-01400,Vervangen Dakventilator,2692.27,15,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00436,H-ZEM-00652,Vervangen Regeltechniek,56419.37,25,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00436,H-ZEM-00653,Vervangen opnemers,6419.37,5,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00760,H-ZEM-01090,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00761,H-ZEM-01091,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00762,H-ZEM-01092,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00763,H-ZEM-01093,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00764,H-ZEM-01094,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00765,H-ZEM-01095,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00766,H-ZEM-01096,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00767,H-ZEM-01097,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00768,H-ZEM-01098,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00769,H-ZEM-01099,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00770,H-ZEM-01100,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00771,H-ZEM-01101,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00772,H-ZEM-01102,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00773,H-ZEM-01103,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00774,H-ZEM-01104,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00775,H-ZEM-01105,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00776,H-ZEM-01106,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00777,H-ZEM-01107,Vervangen,5516.95,30,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00907,H-ZEM-01314,Scope 12 inspectie,1389.70,5,2027,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00907,H-ZEM-01315,Vervangen van de omvormer,4819.77,15,2037,0,OperationalMaintenanceCost,Operational,Invest,10,2
+E-ZEM-00907,H-ZEM-01316,Vervangen van de PV-Panelen,408.10,30,2052,0,ReplacementCost,Investment,Invest,10,1
+E-ZEM-00484,H-ZEM-00733,Vervangen Noodverlichtingsarmatuur LED (decentraal),352.65,16,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00484,H-ZEM-00734,Vervangen accu's,59.55,4,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00917,H-ZEM-01335,Vervangen Verlichtingsarmaturen (LED),32.19,15,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00540,H-ZEM-00807,Vervangen brandmeldcentrale,10000.00,12,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00540,H-ZEM-00808,Vervangen brandmeldinstallatie,61151.00,18,2041,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00540,H-ZEM-00809,Vervangen pagers,9789.00,12,2031,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00540,H-ZEM-00810,Vervangen veldapparatuur BMI,356.49,14,2028,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00570,H-ZEM-00857,Vervangen Sleutelkast,17960.36,16,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00570,H-ZEM-00858,Vervangen accu Begane grond,1652.53,4,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00997,H-ZEM-01426,Vervangen GTV-installatie,4000.00,20,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00297,H-ZEM-00451,Reviseren Schacht en cabinedeuren,4700.00,10,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00297,H-ZEM-00452,Vervangen Besturing,41000.00,20,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00297,H-ZEM-00453,Vervangen Frequentieregeling,16000.00,20,2026,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00297,H-ZEM-00454,Vervangen staalkabels,7200.00,15,2034,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-01026,H-ZEM-01457,Vervangen Grootkeukeninrichting,87742.84,12,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00428,H-ZEM-00644,Vervangen Keukenblok (huiskamers),28704.14,25,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00429,H-ZEM-00645,Vervangen pantryblokken,3451.62,25,2038,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00972,H-ZEM-01401,Vervangen Keukenblok (huiskamers),28704.14,25,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00334,H-ZEM-00504,Inspecteren en plaatselijk herstellen terreinverharding klinkers,74.42,5,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00918,H-ZEM-01336,Vervangen gevelarmaturen,5477.87,25,2044,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00918,H-ZEM-01337,Vervangen terreinverlichting,8523.36,10,2034,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-01030,H-ZEM-01461,Vervangen onderdelen elektrische poort,3500.00,5,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00394,H-ZEM-00599,DUMAVA - Vlaswiek (Dak - Warmtepomp - PV),823676.03,0,2027,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00394,H-ZEM-00600,Toepassen en inregelen systemen,8582.00,0,2025,0,ReplacementCost,Investment,EED,,2
+E-ZEM-00061,H-ZEM-00115,"Vervangen automatische draaideur Buitendeur gesloten afdeling, UWD2",4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00560,H-ZEM-00838,Vervangen deurdranger binnendeur Begane grond,279.92,10,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00537,H-ZEM-00800,Jaarlijkse post Afwerkingspakket Interieur Vinckenrode,6.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00348,H-ZEM-00518,Vervangen brandmeldcentrale,10000.00,12,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00348,H-ZEM-00519,Vervangen brandmeldinstallatie,61899.00,18,2037,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00348,H-ZEM-00520,Vervangen pagers,20097.00,12,2033,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00348,H-ZEM-00521,Vervangen veldapparatuur BMI,356.49,14,2028,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00568,H-ZEM-00853,Vervangen Sleutelkast,17960.36,16,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00568,H-ZEM-00854,Vervangen accu Sleutelkast,1652.53,4,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00202,H-ZEM-00298,Vervangen automatische schuifdeur Locatie niet bekend - nader te bepalen,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00529,H-ZEM-00792,Jaarlijkse post Afwerkingspakket Interieur Linduina Algemeen,5.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00943,H-ZEM-01370,Reinigen bron,19991.55,12,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00943,H-ZEM-01371,Vervangen Bronpompen,7821.04,5,2027,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00821,H-ZEM-01153,Vervangen Compressor (Buitendeel),3712.82,15,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00821,H-ZEM-01154,Vervangen Verdamper (Binnendeel),2649.57,15,2036,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00822,H-ZEM-01155,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00822,H-ZEM-01156,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00828,H-ZEM-01162,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00828,H-ZEM-01163,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00829,H-ZEM-01164,Vervangen Compressor (Buitendeel),3712.82,15,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00829,H-ZEM-01165,Vervangen Verdamper (Binnendeel),2649.57,15,2031,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00830,H-ZEM-01166,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00830,H-ZEM-01167,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00831,H-ZEM-01168,Vervangen Compressor (Buitendeel),3712.82,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00831,H-ZEM-01169,Vervangen Verdamper (Binnendeel),2649.57,15,2035,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00832,H-ZEM-01170,Vervangen Compressor (Buitendeel),3712.82,15,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00832,H-ZEM-01171,Vervangen Verdamper (Binnendeel),2649.57,15,2036,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00833,H-ZEM-01172,Vervangen Compressor (Buitendeel),3712.82,15,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00833,H-ZEM-01173,Vervangen Verdamper (Binnendeel),2649.57,15,2036,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00576,H-ZEM-00866,Scope 12 inspectie,2389.70,5,2029,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00576,H-ZEM-00867,Vervangen van de omvormer,4819.77,15,2039,0,OperationalMaintenanceCost,Operational,Invest,10,2
+E-ZEM-00576,H-ZEM-00868,Vervangen van de PV-Panelen,408.10,30,2054,0,ReplacementCost,Investment,Invest,10,1
+E-ZEM-00936,H-ZEM-01363,Vervangen,117567.42,30,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00920,H-ZEM-01339,Vervangen Verlichtingsarmaturen (LED),32.19,15,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00920,H-ZEM-01340,Vervangen Verlichtingsarmaturen (LED),32.19,15,2036,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00920,H-ZEM-01341,Vervangen Verlichtingsarmaturen (LED),28.19,15,2035,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00920,H-ZEM-01342,Vervangen Verlichtingsarmaturen (LED),32.19,15,2037,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00921,H-ZEM-01343,Vervangen Noodverlichtingsarmatuur LED (decentraal),352.65,16,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00921,H-ZEM-01344,Vervangen accu's,59.55,4,2028,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00349,H-ZEM-00524,Vervangen brandmeldinstallatie,400895.00,18,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00349,H-ZEM-00525,Vervangen pagers,36227.00,12,2038,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00564,H-ZEM-00845,Vervangen Sleutelkast,47960.36,16,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00564,H-ZEM-00846,Vervangen accu Begane grond,1652.53,4,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00998,H-ZEM-01427,Vervangen,25310.00,20,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00819,H-ZEM-01151,Vervangen Koelcelinstallatie (restaurant begane grond),8574.75,20,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00820,H-ZEM-01152,Vervangen Vriescelinstallatie (keuken begane grond),15574.75,18,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00823,H-ZEM-01157,Vervangen Koelcelinstallatie (mortuarium begane grond),8574.75,20,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00824,H-ZEM-01158,Vervangen Koelcelinstallatie (keuken begane grond),8574.75,20,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00825,H-ZEM-01159,Vervangen Koelcelinstallatie (restaurant begane grond),8574.75,20,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00826,H-ZEM-01160,Vervangen Koelcelinstallatie (restaurant 1e verdieping),8574.75,20,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00827,H-ZEM-01161,Vervangen Vriescelinstallatie (keuken 1e verdieping),15574.75,18,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00278,H-ZEM-00385,Vervangen terrein; schuifpoort,15086.17,24,2048,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00278,H-ZEM-00386,Vervangen onderdelen elektrische poort,3521.00,5,2036,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00346,H-ZEM-00516,Inspecteren en plaatselijk herstellen terreinverharding klinkers,74.42,5,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00347,H-ZEM-00517,Inspecteren en plaatselijk herstellen terreinverharding asfalt,8000.00,5,2027,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00482,H-ZEM-00731,Vervangen terreinverlichting,1977.14,10,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01031,H-ZEM-01462,Inspecteren en herstellen,22.16,10,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00388,H-ZEM-00592,DUMAVA - Liduina (warmtepompen),960465.29,0,2026,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00388,H-ZEM-00593,Isoleren verwarmingsleidingen en appendages,3480.00,0,2023,0,ReplacementCost,Investment,EED,,2
+E-ZEM-00439,H-ZEM-00656,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00439,H-ZEM-00657,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00439,H-ZEM-00658,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00075,H-ZEM-00155,Vervangen automatische schuifdeur B1 Gesloten afd. De Berk,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00076,H-ZEM-00156,Vervangen automatische schuifdeur B2 Afd. Oliander,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00077,H-ZEM-00157,Vervangen automatische schuifdeur B2 Afd. Oliander,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00078,H-ZEM-00158,Vervangen automatische schuifdeur B2 Lift/trap/restaurant,10180.53,12,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00079,H-ZEM-00159,Vervangen automatische schuifdeur B3 Griepvaccinatie,10180.53,12,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00100,H-ZEM-00184,Vervangen automatische schuifdeur B4 Oleander,10180.53,12,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00195,H-ZEM-00279,Vervangen automatische schuifdeur B1 Oleander,10180.53,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01019,H-ZEM-01450,Vervangen vrijloopdrangers gehele locatie,279.92,10,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00442,H-ZEM-00661,Buitenschilderwerk totaal,101.46,6,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00062,H-ZEM-00116,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 3,4500.00,10,2035,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00062,H-ZEM-00117,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 3,180.11,40,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00062,H-ZEM-00118,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 3,69.10,20,2055,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00063,H-ZEM-00119,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 4,69.10,20,2055,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00063,H-ZEM-00120,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 4,1500.00,10,2035,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00063,H-ZEM-00121,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 4,180.11,40,2035,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00300,H-ZEM-00459,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2035,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00300,H-ZEM-00460,Interieur bijwerken,474.88,20,2055,0,ReplacementCost,Investment,Interieur,,2
+E-ZEM-00530,H-ZEM-00793,Jaarlijkse post Afwerkingspakket Interieur Linduina B,17.11,1,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00879,H-ZEM-01263,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,6519.00,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00285,H-ZEM-00417,Reconditioneren LBK toe-/afvoer binnenopstelling [12.000 m3/h],32057.89,35,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00286,H-ZEM-00418,Reconditioneren LBK toe-/afvoer binnenopstelling [12.000 m3/h],32057.89,35,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00248,H-ZEM-00351,Vervangen Regeltechniek,46419.37,25,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00248,H-ZEM-00352,Vervangen opnemers,6419.37,5,2031,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00389,H-ZEM-00594,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,20,2043,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01008,H-ZEM-01439,Vervangen controllers toegangscontrole-installatie,1486.67,15,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00295,H-ZEM-00441,Reviseren Liftmachine,4200.00,30,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00295,H-ZEM-00442,Reviseren Schacht en cabinedeuren,6740.00,10,2034,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00295,H-ZEM-00443,Vervangen Besturing,40000.00,20,2033,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00295,H-ZEM-00445,Vervangen staalkabels,10000.00,15,2027,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00296,H-ZEM-00446,Reviseren Liftmachine,4200.00,30,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00296,H-ZEM-00447,Reviseren Schacht en cabinedeuren,7840.00,10,2034,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00296,H-ZEM-00448,Vervangen Besturing,40000.00,20,2033,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00296,H-ZEM-00449,Vervangen Frequentieregeling,16290.00,20,2043,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00296,H-ZEM-00450,Vervangen staalkabels,10000.00,15,2027,0,ReplacementCost,Investment,Invest,,5
+E-ZEM-00503,H-ZEM-00756,Vervangen Keukenblok (Divers),10704.14,25,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01041,H-ZEM-01472,Vervangen pantryblokken,2451.62,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01042,H-ZEM-01473,Vervangen pantryblokken,2451.62,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00880,H-ZEM-01264,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00880,H-ZEM-01265,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00880,H-ZEM-01266,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00880,H-ZEM-01267,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00081,H-ZEM-00161,Vervangen automatische schuifdeur C1 Buitendeur goederen,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00448,H-ZEM-00667,Vervangen uitvalscherm elektrisch (oostvleugel),1427.02,20,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00448,H-ZEM-00668,Onderhoud uitvalscherm elektrisch (oostvleugel),7500.00,5,2031,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00448,H-ZEM-00669,Vervangen zonweringsdoek uitvalscherm elektrisch,730.82,10,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00449,H-ZEM-00670,Vervangen uitvalscherm elektrisch,1427.02,20,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00449,H-ZEM-00671,Onderhoud uitvalscherm elektrisch,5500.00,5,2032,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00449,H-ZEM-00672,Vervangen zonweringsdoek uitvalscherm elektrisch,730.82,10,2037,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00080,H-ZEM-00160,Vervangen automatische schuifdeur C1 Binnendeur goederen,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00082,H-ZEM-00162,Vervangen automatische schuifdeur C1 ICT/gang,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00083,H-ZEM-00163,Vervangen automatische schuifdeur C1 Schoonegang keuken,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00084,H-ZEM-00164,Vervangen automatische draaideur C1 Spoelkeuken,4361.00,12,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00085,H-ZEM-00165,Vervangen automatische schuifdeur C1 TD Ruimte,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00086,H-ZEM-00166,Vervangen automatische schuifdeur C2 Dommelzicht,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00087,H-ZEM-00167,Vervangen automatische schuifdeur C2 Restaurant JBZ,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00088,H-ZEM-00168,Vervangen automatische schuifdeur C2 Restaurant/Gesloten afd.,10180.53,12,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01020,H-ZEM-01451,Vervangen vrijloopdrangers gehele locatie,279.92,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00447,H-ZEM-00666,Buitenschilderwerk totaal,8.48,6,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00064,H-ZEM-00122,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 9,8500.00,10,2032,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00064,H-ZEM-00123,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 9,180.11,40,2053,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00064,H-ZEM-00124,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 9,69.10,20,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00065,H-ZEM-00125,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 10,1500.00,10,2032,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00065,H-ZEM-00126,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 10,180.11,40,2053,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00065,H-ZEM-00127,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 10,69.10,20,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00066,H-ZEM-00128,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 14,4500.00,10,2032,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00066,H-ZEM-00129,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 14,180.11,40,2053,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00066,H-ZEM-00130,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 14,69.10,20,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00089,H-ZEM-00169,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 5B,69.10,20,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00089,H-ZEM-00170,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 5B,4500.00,10,2032,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00089,H-ZEM-00171,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 5B,180.11,40,2053,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00090,H-ZEM-00172,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 11,1500.00,10,2032,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00090,H-ZEM-00173,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 11,180.11,40,2053,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00090,H-ZEM-00174,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 11,69.10,20,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00301,H-ZEM-00461,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2053,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00301,H-ZEM-00462,Interieur bijwerken,474.88,20,2033,0,ReplacementCost,Investment,Interieur,,2
+E-ZEM-00531,H-ZEM-00794,Jaarlijkse post Afwerkingspakket Interieur Linduina C,6.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00205,H-ZEM-00301,Vervangen warmtepomp,41858.37,15,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00206,H-ZEM-00302,Vervangen warmtepomp,41858.37,15,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00212,H-ZEM-00309,Vervangen Ontgasser,2391.67,18,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00294,H-ZEM-00440,Vervangen tegenstroomapparaat (TSA),7251.30,10,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00881,H-ZEM-01268,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,7519.00,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00293,H-ZEM-00439,Vervangen Buffervat 800 liter,4607.47,20,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00213,H-ZEM-00310,Vervangen Circulatiepomp,2867.13,15,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00215,H-ZEM-00313,Vervangen Afzuigventilator,2396.96,20,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00216,H-ZEM-00314,Vervangen Afzuigventilator,2396.96,20,2043,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00217,H-ZEM-00315,Vervangen Toevoerventilator,2396.96,20,2043,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00290,H-ZEM-00436,Vervangen Afzuigbox,2396.96,20,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00291,H-ZEM-00437,Reconditioneren LBK toe-/afvoer binnenopstelling [14.000 m3/h],32057.89,35,2044,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00292,H-ZEM-00438,Reconditioneren LBK toe-/afvoer binnenopstelling [14.000 m3/h],32057.89,35,2044,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00211,H-ZEM-00307,Vervangen Regeltechniek (RK03),46419.37,25,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00211,H-ZEM-00308,Vervangen opnemers (RK03),6419.37,5,2031,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00214,H-ZEM-00311,Vervangen Regeltechniek (RK04),46419.37,25,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00214,H-ZEM-00312,Vervangen opnemers (RK04),6419.37,5,2031,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00390,H-ZEM-00595,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01009,H-ZEM-01440,Vervangen controllers toegangscontrole-installatie,1486.67,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00501,H-ZEM-00754,Vervangen Grootkeukeninrichting,187742.84,12,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00502,H-ZEM-00755,Vervangen pantryblokken 2e verdieping,3451.62,25,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00450,H-ZEM-00673,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00450,H-ZEM-00674,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00450,H-ZEM-00675,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00450,H-ZEM-00676,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00451,H-ZEM-00677,"Onderhoud zonwering, screens elektrisch (nood/west gevel)",8500.00,5,2028,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00451,H-ZEM-00678,"Vervangen doek zonwering, screens elektrisch (nood/west gevel)",589.52,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00451,H-ZEM-00679,"Vervangen zonwering, screens elektrisch (nood/west gevel)",1269.45,20,2043,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00452,H-ZEM-00680,"Onderhoud zonwering, screens elektrisch (zuid/oost gevel)",8500.00,5,2028,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00452,H-ZEM-00681,"Vervangen doek zonwering, screens elektrisch (zuid/oost gevel)",589.52,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00452,H-ZEM-00682,"Vervangen zonwering, screens elektrisch (zuid/oost gevel)",1269.45,20,2043,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00091,H-ZEM-00175,Vervangen automatische schuifdeur E1 Gesloten afd. De Linde,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00092,H-ZEM-00176,Vervangen automatische schuifdeur E2 Gesloten afd. De Peel,10180.53,12,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01021,H-ZEM-01452,Vervangen vrijloopdrangers gehele locatie,279.92,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00454,H-ZEM-00684,Buitenschilderwerk totaal,12.48,6,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00067,H-ZEM-00131,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 12,7500.00,10,2032,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00067,H-ZEM-00132,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 12,180.11,40,2043,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00067,H-ZEM-00133,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 12,69.10,20,2063,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00068,H-ZEM-00134,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 13,1500.00,10,2032,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00068,H-ZEM-00135,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 13,180.11,40,2043,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00068,H-ZEM-00136,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 13,69.10,20,2063,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00302,H-ZEM-00463,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2047,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00302,H-ZEM-00464,Interieur bijwerken,474.88,20,2027,0,ReplacementCost,Investment,Interieur,,2
+E-ZEM-00532,H-ZEM-00795,Jaarlijkse post Afwerkingspakket Interieur Linduina E,6.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00882,H-ZEM-01269,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,7519.00,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00329,H-ZEM-00498,Reconditioneren LBK toe-/afvoer binnenopstelling [12.000 m3/h],32057.89,35,2038,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00330,H-ZEM-00499,Vervangen Regeltechniek,46419.37,25,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00330,H-ZEM-00500,Vervangen opnemers,6419.37,5,2031,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00391,H-ZEM-00596,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01010,H-ZEM-01441,Vervangen controllers toegangscontrole-installatie,1486.67,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00284,H-ZEM-00411,Reviseren Schacht en cabinedeuren,11421.00,10,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00284,H-ZEM-00412,Reviseren Schacht en cabinedeuren,14401.00,10,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00284,H-ZEM-00413,Vervangen Aandrijfmachine,18631.00,30,2033,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00284,H-ZEM-00414,Vervangen Besturing,65507.00,20,2028,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00284,H-ZEM-00415,Vervangen Frequentieregeling,15200.00,20,2038,0,ReplacementCost,Investment,Invest,,5
+E-ZEM-00284,H-ZEM-00416,Vervangen staalkabels,10000.00,15,2029,0,ReplacementCost,Investment,Invest,,6
+E-ZEM-00499,H-ZEM-00752,Vervangen pantryblokken 2e verdieping,3451.62,25,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00500,H-ZEM-00753,Vervangen pantryblokken 1e verdieping,3451.62,25,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00883,H-ZEM-01270,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),25.94,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00095,H-ZEM-00179,Vervangen automatische schuifdeur H1 Buitendeur Corridor,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00094,H-ZEM-00178,Vervangen automatische schuifdeur H1 Binnendeur Corridor,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00096,H-ZEM-00180,Vervangen automatische schuifdeur H1 Corridor/half receptie,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00097,H-ZEM-00181,Vervangen automatische schuifdeur H1 Receptie/liften,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00098,H-ZEM-00182,Vervangen automatische schuifdeur H1 Receptie/liften,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00099,H-ZEM-00183,Vervangen automatische schuifdeur H2 Restaurant/trap,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-01022,H-ZEM-01453,Vervangen vrijloopdrangers gehele locatie,279.92,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00069,H-ZEM-00137,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 5A,5500.00,10,2032,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00069,H-ZEM-00138,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 5A,180.11,40,2053,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00069,H-ZEM-00139,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 5A,69.10,20,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00303,H-ZEM-00465,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2053,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00303,H-ZEM-00466,Interieur bijwerken,474.88,20,2033,0,ReplacementCost,Investment,Interieur,,2
+E-ZEM-00533,H-ZEM-00796,Jaarlijkse post Afwerkingspakket Interieur Linduina H,10.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00252,H-ZEM-00356,Vervangen tegenstroomapparaat (TSA),15470.28,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00331,H-ZEM-00501,Vervangen Ketel elektrisch HR 40 - 65 KW,5342.95,15,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00332,H-ZEM-00502,Vervangen Ketel elektrisch 300 - 400 KW,44139.14,15,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00973,H-ZEM-01402,Vervangen tegenstroomapparaat (TSA),15470.28,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00884,H-ZEM-01271,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,2519.00,15,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00220,H-ZEM-00319,Vervangen voorraadboilers indirect gestookt < 200 l,3079.41,20,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00220,H-ZEM-00320,Vervangen voorraadboilers indirect gestookt 200-500 l,6861.12,20,2042,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00221,H-ZEM-00321,Vervangen voorraadboilers indirect gestookt < 200 l,3079.41,20,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00221,H-ZEM-00322,Vervangen voorraadboilers indirect gestookt 200-500 l,6861.12,20,2042,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00222,H-ZEM-00323,Vervangen voorraadboilers gasgestookt huishoudboiler 80L,2606.68,20,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00222,H-ZEM-00324,Vervangen voorraadboilers gasgestookt industrieboiler 200 - 350L,6861.12,20,2042,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00219,H-ZEM-00317,Vervangen Regeltechniek,46419.37,25,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00219,H-ZEM-00318,Vervangen opnemers,6419.37,5,2036,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00392,H-ZEM-00597,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2043,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01011,H-ZEM-01442,Vervangen controllers toegangscontrole-installatie,1486.67,15,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00885,H-ZEM-01272,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00885,H-ZEM-01273,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00885,H-ZEM-01274,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00885,H-ZEM-01275,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00887,H-ZEM-01277,"Onderhoud zonwering, screens elektrisch",6500.00,5,2027,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00887,H-ZEM-01278,"Vervangen doek zonwering, screens elektrisch",589.52,10,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00887,H-ZEM-01279,"Vervangen zonwering, screens elektrisch",1269.45,20,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00102,H-ZEM-00186,Vervangen automatische schuifdeur P1 Gesloten afd. De Kempen,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00103,H-ZEM-00187,Vervangen automatische schuifdeur P2 Gesloten afd. Meierij,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-01023,H-ZEM-01454,Vervangen vrijloopdrangers gehele locatie,279.92,10,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00070,H-ZEM-00140,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 1,7500.00,10,2032,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00070,H-ZEM-00141,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 1,180.11,40,2052,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00070,H-ZEM-00142,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 1,69.10,20,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00071,H-ZEM-00143,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 2,1500.00,10,2032,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00071,H-ZEM-00144,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 2,180.11,40,2052,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00071,H-ZEM-00145,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 2,69.10,20,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00304,H-ZEM-00467,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2052,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00304,H-ZEM-00468,Interieur bijwerken,474.88,20,2032,0,ReplacementCost,Investment,Interieur,,2
+E-ZEM-00534,H-ZEM-00797,Jaarlijkse post Afwerkingspakket Interieur Linduina PZ,6.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00249,H-ZEM-00353,Vervangen tegenstroomapparaat (TSA),15470.28,10,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00368,H-ZEM-00557,Vervangen Ketel gasgestookt HR 150 - 200 KW,19234.43,30,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00886,H-ZEM-01276,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,8519.00,15,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00224,H-ZEM-00326,Vervangen Buffervat 1000 ltr,5015.32,20,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00225,H-ZEM-00327,Vervangen Buffervat 1000 ltr,5015.32,20,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00370,H-ZEM-00559,Vervangen Boiler direct gestookt industrieel < 250 liter,12098.63,15,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00369,H-ZEM-00558,Vervangen Koelmachine 130 - 150 kW,50557.71,20,2044,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00226,H-ZEM-00328,Vervangen Expansievat 300 ltr,1329.34,7,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00223,H-ZEM-00325,Reconditioneren LBK toe-/afvoer binnenopstelling [12.000 m3/h],32057.89,35,2045,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00229,H-ZEM-00331,Vervangen Afzuigventilator,3132.23,20,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00230,H-ZEM-00332,Vervangen Afzuigventilator,3132.23,20,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00393,H-ZEM-00598,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01012,H-ZEM-01443,Vervangen controllers toegangscontrole-installatie,1486.67,15,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01043,H-ZEM-01474,Vervangen Keukenblok (huiskamers),28704.14,25,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00892,H-ZEM-01284,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00892,H-ZEM-01285,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00892,H-ZEM-01286,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00892,H-ZEM-01287,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00200,H-ZEM-00296,Vervangen automatische schuifdeur Buitendeur Zorgwinkel,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00897,H-ZEM-01295,"Onderhoud zonwering, screens elektrisch",18500.00,5,2027,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00897,H-ZEM-01296,"Vervangen doek zonwering, screens elektrisch",589.52,10,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00897,H-ZEM-01297,"Vervangen zonwering, screens elektrisch",1269.45,20,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00093,H-ZEM-00177,Vervangen automatische schuifdeur Binnendeur 5e verd.,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00101,H-ZEM-00185,Vervangen automatische draaideur S6 Opslag,4361.00,12,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00104,H-ZEM-00188,Vervangen automatische draaideur S2 HK10,4361.00,12,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00105,H-ZEM-00189,Vervangen automatische draaideur S2 HK11,4361.00,12,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00106,H-ZEM-00190,Vervangen automatische draaideur S2 HK12,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00107,H-ZEM-00191,Vervangen automatische draaideur S2 HK13,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00108,H-ZEM-00192,Vervangen automatische draaideur S2 HK14,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00109,H-ZEM-00193,Vervangen automatische draaideur S2 HK15,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00110,H-ZEM-00194,Vervangen automatische draaideur S2 HK17,4361.00,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00111,H-ZEM-00195,Vervangen automatische draaideur S2 HK18,4361.00,12,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00112,H-ZEM-00196,Vervangen automatische draaideur S2 HK19,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00113,H-ZEM-00197,Vervangen automatische draaideur S2 HK2,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00114,H-ZEM-00198,Vervangen automatische schuifdeur S2 HK20,10180.53,12,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00115,H-ZEM-00199,Vervangen automatische draaideur S2 HK21,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00116,H-ZEM-00200,Vervangen automatische draaideur S2 HK3,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00117,H-ZEM-00201,Vervangen automatische draaideur S2 HK4,4361.00,12,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00118,H-ZEM-00202,Vervangen automatische draaideur S2 HK5,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00119,H-ZEM-00203,Vervangen automatische draaideur S2 HK6,4361.00,12,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00120,H-ZEM-00204,Vervangen automatische draaideur S2 HK7,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00121,H-ZEM-00205,Vervangen automatische draaideur S2 HK8,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00122,H-ZEM-00206,Vervangen automatische draaideur S2 HK9,4361.00,12,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00123,H-ZEM-00207,Vervangen automatische draaideur S2 HK16,4361.00,12,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00124,H-ZEM-00208,Vervangen automatische draaideur S2 Rookruimte,4361.00,12,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00125,H-ZEM-00209,Vervangen automatische draaideur S3 HK10,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00126,H-ZEM-00210,Vervangen automatische draaideur S3 HK11,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00127,H-ZEM-00211,Vervangen automatische draaideur S3 HK12,4361.00,12,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00128,H-ZEM-00212,Vervangen automatische draaideur S3 HK13,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00129,H-ZEM-00213,Vervangen automatische draaideur S3 HK14,4361.00,12,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00130,H-ZEM-00214,Vervangen automatische draaideur S3 HK15,4361.00,12,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00131,H-ZEM-00215,Vervangen automatische draaideur S3 HK16,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00132,H-ZEM-00216,Vervangen automatische draaideur S3 HK17,4361.00,12,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00133,H-ZEM-00217,Vervangen automatische draaideur S3 HK18,4361.00,12,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00134,H-ZEM-00218,Vervangen automatische draaideur S3 HK19,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00135,H-ZEM-00219,Vervangen automatische draaideur S3 HK2,4361.00,12,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00136,H-ZEM-00220,Vervangen automatische draaideur S3 HK20,4361.00,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00137,H-ZEM-00221,Vervangen automatische draaideur S3 HK21,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00138,H-ZEM-00222,Vervangen automatische draaideur S3 HK3,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00139,H-ZEM-00223,Vervangen automatische draaideur S3 HK4,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00140,H-ZEM-00224,Vervangen automatische draaideur S3 HK5,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00141,H-ZEM-00225,Vervangen automatische draaideur S3 HK6,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00142,H-ZEM-00226,Vervangen automatische draaideur S3 HK7,4361.00,12,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00143,H-ZEM-00227,Vervangen automatische draaideur S3 HK8,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00144,H-ZEM-00228,Vervangen automatische draaideur S3 HK9,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00145,H-ZEM-00229,Vervangen automatische schuifdeur S3 Rookruimte,10180.53,12,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00146,H-ZEM-00230,Vervangen automatische draaideur S3 HK1,4361.00,12,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00147,H-ZEM-00231,Vervangen automatische draaideur S4 HK1,4361.00,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00148,H-ZEM-00232,Vervangen automatische draaideur S4 HK10,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00149,H-ZEM-00233,Vervangen automatische draaideur S4 HK11,4361.00,12,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00150,H-ZEM-00234,Vervangen automatische draaideur S4 HK12,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00151,H-ZEM-00235,Vervangen automatische draaideur S4 HK14,4361.00,12,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00152,H-ZEM-00236,Vervangen automatische draaideur S4 HK15,4361.00,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00153,H-ZEM-00237,Vervangen automatische draaideur S4 HK16,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00154,H-ZEM-00238,Vervangen automatische draaideur S4 HK17,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00155,H-ZEM-00239,Vervangen automatische draaideur S4 HK18,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00156,H-ZEM-00240,Vervangen automatische draaideur S4 HK19,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00157,H-ZEM-00241,Vervangen automatische draaideur S4 HK2,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00158,H-ZEM-00242,Vervangen automatische draaideur S4 HK20,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00159,H-ZEM-00243,Vervangen automatische draaideur S4 HK21,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00160,H-ZEM-00244,Vervangen automatische draaideur S4 HK3,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00161,H-ZEM-00245,Vervangen automatische draaideur S4 HK5,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00162,H-ZEM-00246,Vervangen automatische draaideur S4 HK6,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00163,H-ZEM-00247,Vervangen automatische draaideur S4 HK7,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00164,H-ZEM-00248,Vervangen automatische draaideur S4 HK8,4361.00,12,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00165,H-ZEM-00249,Vervangen automatische draaideur S4 HK9,4361.00,12,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00166,H-ZEM-00250,Vervangen automatische draaideur S4 HK13,4361.00,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00167,H-ZEM-00251,Vervangen automatische draaideur S5 HK1,4361.00,12,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00168,H-ZEM-00252,Vervangen automatische draaideurS5 HK10,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00169,H-ZEM-00253,Vervangen automatische draaideur S5 HK11,4361.00,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00170,H-ZEM-00254,Vervangen automatische draaideur S5 HK12,4361.00,12,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00171,H-ZEM-00255,Vervangen automatische draaideur S5 HK13,4361.00,12,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00172,H-ZEM-00256,Vervangen automatische draaideur S5 HK14,4361.00,12,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00173,H-ZEM-00257,Vervangen automatische draaideur S5 HK15,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00174,H-ZEM-00258,Vervangen automatische draaideur S5 HK16,4361.00,12,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00175,H-ZEM-00259,Vervangen automatische draaideur S5 HK17,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00176,H-ZEM-00260,Vervangen automatische draaideur S5 HK18,4361.00,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00177,H-ZEM-00261,Vervangen automatische draaideur S5 HK19,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00178,H-ZEM-00262,Vervangen automatische draaideur S5 HK2,4361.00,12,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00179,H-ZEM-00263,Vervangen automatische draaideur S5 HK20,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00180,H-ZEM-00264,Vervangen automatische draaideur S5 HK21,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00181,H-ZEM-00265,Vervangen automatische draaideur S5 HK3,4361.00,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00182,H-ZEM-00266,Vervangen automatische draaideur S5 HK4,4361.00,12,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00183,H-ZEM-00267,Vervangen automatische draaideur S5 HK5,4361.00,12,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00184,H-ZEM-00268,Vervangen automatische draaideur S5 HK6,4361.00,12,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00185,H-ZEM-00269,Vervangen automatische draaideur S5 HK7,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00186,H-ZEM-00270,Vervangen automatische draaideur S5 HK8,4361.00,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00187,H-ZEM-00271,Vervangen automatische draaideur S5 HK9,4361.00,12,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00188,H-ZEM-00272,Vervangen automatische schuifdeur S3 Entree Egelantier,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00189,H-ZEM-00273,Vervangen automatische schuifdeur S2 Huiskamer,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00190,H-ZEM-00274,Vervangen automatische schuifdeur S3 Huiskamer,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00191,H-ZEM-00275,Vervangen automatische schuifdeur S4 Huiskamer,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00192,H-ZEM-00276,Vervangen automatische schuifdeur S5 Huiskamer,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-01024,H-ZEM-01455,Vervangen vrijloopdrangers gehele locatie,279.92,10,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00072,H-ZEM-00146,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 6,7500.00,10,2032,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00072,H-ZEM-00147,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 6,180.11,40,2052,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00072,H-ZEM-00148,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 6,69.10,20,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00073,H-ZEM-00149,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 7,4500.00,10,2032,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00073,H-ZEM-00150,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 7,180.11,40,2052,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00073,H-ZEM-00151,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 7,69.10,20,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00074,H-ZEM-00152,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 8,1500.00,10,2032,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00074,H-ZEM-00153,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 8,180.11,40,2052,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00074,H-ZEM-00154,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 8,69.10,20,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00305,H-ZEM-00469,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2052,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00305,H-ZEM-00470,Interieur bijwerken,474.88,20,2032,0,ReplacementCost,Investment,Interieur,,2
+E-ZEM-00535,H-ZEM-00798,Jaarlijkse post Afwerkingspakket Interieur Linduina S,5.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00246,H-ZEM-00348,Vervangen warmtepomp 40 kW,22535.79,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00250,H-ZEM-00354,Vervangen tegenstroomapparaat (TSA),15470.28,10,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00371,H-ZEM-00560,Vervangen Ketel gasgestookt HR 400 - 500 KW,55251.70,30,2041,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00891,H-ZEM-01283,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,7519.00,15,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00235,H-ZEM-00337,Vervangen Buffervat 500 ltr,3326.32,20,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00236,H-ZEM-00338,Vervangen Buffervat,2330.16,20,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00238,H-ZEM-00340,Vervangen hydrofoor,6493.17,15,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00240,H-ZEM-00342,Vervangen Buffervat 1000 ltr,5015.32,20,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00241,H-ZEM-00343,Vervangen Buffervat 1250 ltr,7974.16,20,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00233,H-ZEM-00335,Vervangen Koelmachine 250 - 300 kW,76413.25,20,2044,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00234,H-ZEM-00336,Vervangen Koelmachine 250 - 300 kW,76413.25,20,2044,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00251,H-ZEM-00355,Vervangen Droge koeler,15018.99,20,2044,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00242,H-ZEM-00344,Vervangen Expansievat 140 ltr,1500.00,7,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00243,H-ZEM-00345,Vervangen Expansievat 300 ltr,2070.00,7,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00231,H-ZEM-00333,Reconditioneren LBK toe-/afvoer binnenopstelling [12.000 m3/h],32057.89,35,2046,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00232,H-ZEM-00334,Reconditioneren LBK toe-/afvoer binnenopstelling [12.000 m3/h],32057.89,35,2046,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00239,H-ZEM-00341,Vervangen Schakelkast hydrofoor,5428.45,20,2044,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00247,H-ZEM-00349,Vervangen Regeltechniek,116419.37,25,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00247,H-ZEM-00350,Vervangen opnemers,6419.37,5,2036,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00395,H-ZEM-00601,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01013,H-ZEM-01444,Vervangen controllers toegangscontrole-installatie,1486.67,15,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00282,H-ZEM-00404,Vervangen staalkabels,7500.00,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00282,H-ZEM-00405,Vervangen Frequentieregeling,19000.00,20,2035,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00283,H-ZEM-00407,Revisie liftmotor,7500.00,25,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00283,H-ZEM-00409,Vervangen staalkabels,7500.00,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00283,H-ZEM-00410,Vervangen Frequentieregeling,19000.00,20,2035,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-01037,H-ZEM-01468,Vervangen pantryblokken,2451.62,25,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01038,H-ZEM-01469,Vervangen pantryblokken,2451.62,25,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01039,H-ZEM-01470,Vervangen pantryblokken,2451.62,25,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01040,H-ZEM-01471,Vervangen pantryblokken,2451.62,25,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00475,H-ZEM-00721,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00475,H-ZEM-00722,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00475,H-ZEM-00723,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00475,H-ZEM-00724,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00048,H-ZEM-00102,Vervangen automatische schuifdeur Buitendeur entree,10180.53,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00462,H-ZEM-00697,"Onderhoud zonwering, screens elektrisch",15500.00,5,2030,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00462,H-ZEM-00698,"Vervangen doek zonwering, screens elektrisch",589.52,10,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00462,H-ZEM-00699,"Vervangen zonwering, screens elektrisch",1269.45,20,2026,0,ReplacementCost,Investment,Achter OH,,2
+E-ZEM-00463,H-ZEM-00700,Vervangen uitvalscherm elektrisch,1427.02,20,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00463,H-ZEM-00701,Onderhoud uitvalscherm elektrisch,7500.00,5,2030,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00463,H-ZEM-00702,Vervangen zonweringsdoek uitvalscherm elektrisch,730.82,10,2035,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00047,H-ZEM-00101,Vervangen automatische schuifdeur Binnendeur entree,10180.53,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00050,H-ZEM-00104,Vervangen automatische draaideur Entree gesloten afdeling,4361.00,12,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00052,H-ZEM-00106,Vervangen automatische draaideur Gesloten afdeling,4361.00,12,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00053,H-ZEM-00107,Vervangen automatische draaideur Personeelsuitgang,4361.00,12,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01018,H-ZEM-01449,Vervangen vrijloopdrangers gehele locatie,279.92,10,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00465,H-ZEM-00704,Buitenschilderwerk totaal,15.48,6,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00001,H-ZEM-00001,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 1,1500.00,10,2035,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00001,H-ZEM-00002,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 1,180.11,40,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00001,H-ZEM-00003,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 1,69.10,20,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00002,H-ZEM-00004,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 2,1500.00,10,2035,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00002,H-ZEM-00005,Vervangen dakbedekking bitumen ongeballast + bij  isoleren Dakvlak 2,180.11,40,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00002,H-ZEM-00006,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 2,69.10,20,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00003,H-ZEM-00007,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 3,1500.00,10,2035,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00003,H-ZEM-00008,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 3,180.11,40,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00003,H-ZEM-00009,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 3,69.10,20,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00004,H-ZEM-00010,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 4,4500.00,10,2035,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00004,H-ZEM-00011,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 4,180.11,40,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00004,H-ZEM-00012,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 4,69.10,20,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00005,H-ZEM-00013,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 5,5500.00,10,2035,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00005,H-ZEM-00014,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 5,180.11,40,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00005,H-ZEM-00015,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 5,69.10,20,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00006,H-ZEM-00016,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 6,1500.00,10,2035,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00006,H-ZEM-00017,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 6,180.11,40,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00006,H-ZEM-00018,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 6,69.10,20,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00007,H-ZEM-00019,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 7,1500.00,10,2035,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00007,H-ZEM-00020,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 7,180.11,40,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00007,H-ZEM-00021,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 7,69.10,20,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00008,H-ZEM-00022,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 8,3500.00,10,2035,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00008,H-ZEM-00023,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 8,180.11,40,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00008,H-ZEM-00024,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 8,69.10,20,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00009,H-ZEM-00025,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 9,7500.00,10,2035,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00009,H-ZEM-00026,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 9,180.11,40,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00009,H-ZEM-00027,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 9,69.10,20,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00010,H-ZEM-00028,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 10,3500.00,10,2035,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00010,H-ZEM-00029,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 10,180.11,40,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00010,H-ZEM-00030,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 10,69.10,20,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00011,H-ZEM-00031,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 12,3500.00,10,2035,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00011,H-ZEM-00032,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 12,180.11,40,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00011,H-ZEM-00033,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 12,69.10,20,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00012,H-ZEM-00034,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 12,7500.00,10,2035,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00012,H-ZEM-00035,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 12,180.11,40,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00012,H-ZEM-00036,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 12,69.10,20,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00814,H-ZEM-01144,Vervangen valbeveiliging,25000.00,20,2025,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00357,H-ZEM-00539,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2045,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00357,H-ZEM-00540,Sanitair bijwerken,474.88,40,2028,0,ReplacementCost,Investment,Interieur,,2
+E-ZEM-00358,H-ZEM-00541,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2045,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00358,H-ZEM-00542,Sanitair bijwerken,474.88,40,2025,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00358,H-ZEM-00543,Sanitair bijwerken,474.88,40,2026,0,ReplacementCost,Investment,Interieur,,3
+E-ZEM-00358,H-ZEM-00544,Sanitair bijwerken,474.88,40,2027,0,ReplacementCost,Investment,Interieur,,4
+E-ZEM-00524,H-ZEM-00785,Jaarlijkse post Afwerkingspakket Interieur De Beemden,5.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00638,H-ZEM-00943,Vervangen Ketel gasgestookt HR 300 - 400 kW,44139.14,30,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00661,H-ZEM-00969,Vervangen tegenstroomapparaat (TSA),15000.00,20,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00664,H-ZEM-00972,Vervangen warmtepomp,13319.32,15,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00942,H-ZEM-01369,Vervangen Ketel gasgestookt HR < 25 KW,3805.51,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00957,H-ZEM-01386,Vervangen Ketel gasgestookt HR 300 - 400 kW,44139.14,30,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00958,H-ZEM-01387,Vervangen Ketel gasgestookt HR < 25 KW,3805.51,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00959,H-ZEM-01388,Vervangen tegenstroomapparaat (TSA),15000.00,20,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00960,H-ZEM-01389,Vervangen warmtepomp,13319.32,15,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00961,H-ZEM-01390,Vervangen warmtepomp,13319.32,15,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00893,H-ZEM-01288,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,13519.00,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00655,H-ZEM-00963,Vervangen Tapwaterpomp,1467.77,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00656,H-ZEM-00964,Vervangen Tapwaterpomp,1467.77,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00657,H-ZEM-00965,Vervangen Tapwaterpomp,1467.77,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00658,H-ZEM-00966,Vervangen Tapwaterpomp,1467.77,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00662,H-ZEM-00970,Vervangen boiler 700 liter,6360.60,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00667,H-ZEM-00977,Vervangen (update met gegevens 2024),6360.60,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00744,H-ZEM-01070,Vervangen hydrofoor,6493.17,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00846,H-ZEM-01200,Vervangen binnenunit vrf,2649.57,20,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00846,H-ZEM-01201,Vervangen binnenunit vrf,2649.57,20,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00846,H-ZEM-01202,Vervangen binnenunit vrf,2649.57,20,2032,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00846,H-ZEM-01203,Vervangen binnenunit vrf,2649.57,20,2032,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00846,H-ZEM-01204,Vervangen binnenunit vrf,2649.57,20,2032,0,ReplacementCost,Investment,Invest,,5
+E-ZEM-00846,H-ZEM-01205,Vervangen Koelmachine < 20 kW,12283.26,20,2032,0,ReplacementCost,Investment,Invest,,6
+E-ZEM-00847,H-ZEM-01206,Vervangen Compressor (Buitendeel),3712.82,15,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00847,H-ZEM-01207,Vervangen Verdamper (Binnendeel),2649.57,15,2028,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00848,H-ZEM-01208,Vervangen Compressor (Buitendeel),3712.82,15,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00848,H-ZEM-01209,Vervangen Verdamper (Binnendeel),2649.57,15,2034,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00849,H-ZEM-01210,Vervangen Compressor (Buitendeel),3712.82,15,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00849,H-ZEM-01211,Vervangen Verdamper (Binnendeel),2649.57,15,2036,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00852,H-ZEM-01214,Vervangen Compressor (Buitendeel),3712.82,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00852,H-ZEM-01215,Vervangen Verdamper (Binnendeel),2649.57,15,2035,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00853,H-ZEM-01216,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00853,H-ZEM-01217,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00854,H-ZEM-01218,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00854,H-ZEM-01219,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00855,H-ZEM-01220,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00855,H-ZEM-01221,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00856,H-ZEM-01222,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00856,H-ZEM-01223,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00857,H-ZEM-01224,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00857,H-ZEM-01225,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00858,H-ZEM-01226,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00858,H-ZEM-01227,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00640,H-ZEM-00945,Vervangen Expansievat 600 liter,2500.00,7,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00641,H-ZEM-00946,Vervangen Expansievat 200 liter (zonnepaneel),1500.00,7,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00642,H-ZEM-00947,Vervangen Expansievat 600 liter,3000.00,7,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00643,H-ZEM-00948,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00644,H-ZEM-00949,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00645,H-ZEM-00950,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00646,H-ZEM-00951,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00647,H-ZEM-00952,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00648,H-ZEM-00953,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00649,H-ZEM-00954,Vervangen circulatiepomp CV,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00650,H-ZEM-00955,Vervangen circulatiepomp CV,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00651,H-ZEM-00956,Vervangen circulatiepomp CV,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00963,H-ZEM-01392,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00964,H-ZEM-01393,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00965,H-ZEM-01394,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00966,H-ZEM-01395,Vervangen circulatiepomp warmtedistributie,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00967,H-ZEM-01396,Vervangen circulatiepomp CV,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00652,H-ZEM-00957,Reconditioneren LBK toe-/afvoer binnenopstelling (recreatie),22755.14,35,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00652,H-ZEM-00958,Periodiek inregelen LBK,1567.80,5,2028,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00653,H-ZEM-00959,Reconditioneren LBK toe-/afvoer binnenopstelling (keuken),22755.14,35,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00653,H-ZEM-00960,Periodiek inregelen LBK,1567.80,5,2028,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00654,H-ZEM-00961,Vervangen LBK toe-/afvoer buitenopstelling [>12.000 m3/h],72755.14,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00654,H-ZEM-00962,Periodiek inregelen LBK,1567.80,5,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00659,H-ZEM-00967,"Vervangen Dakventilator 0,7 - 1,4 m3/s",2692.27,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00660,H-ZEM-00968,Vervangen Dakventilator,2692.27,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00947,H-ZEM-01375,Vervangen Dakventilator (vaatwasser),2692.27,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00948,H-ZEM-01376,Vervangen Dakventilator (vaatwasser),2692.27,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00507,H-ZEM-00765,Vervangen opnemers (RK01),6419.37,5,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00663,H-ZEM-00971,Vervangen,3217.85,25,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00665,H-ZEM-00973,Vervangen Regeltechniek,46419.37,25,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00665,H-ZEM-00974,Vervangen opnemers,6977.64,5,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00666,H-ZEM-00975,Vervangen Regeltechniek,46419.37,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00666,H-ZEM-00976,Vervangen opnemers,6977.64,5,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00741,H-ZEM-01065,Vervangen Regeltechniek,46419.37,25,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00741,H-ZEM-01066,Vervangen opnemers,6977.64,5,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00742,H-ZEM-01067,Vervangen Regeltechniek,46419.37,25,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00742,H-ZEM-01068,Vervangen opnemers,6977.64,5,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00397,H-ZEM-00603,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00729,H-ZEM-01053,Vervangen,12462.19,30,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00730,H-ZEM-01054,Vervangen,12462.19,30,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00731,H-ZEM-01055,Vervangen,12462.19,30,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00732,H-ZEM-01056,Vervangen,12462.19,30,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00733,H-ZEM-01057,Vervangen,12462.19,30,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00734,H-ZEM-01058,Vervangen,12462.19,30,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00735,H-ZEM-01059,Vervangen,12462.19,30,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00736,H-ZEM-01060,Vervangen,12462.19,30,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00737,H-ZEM-01061,Vervangen,12462.19,30,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00738,H-ZEM-01062,Vervangen,12462.19,30,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00739,H-ZEM-01063,Vervangen,12462.19,30,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00740,H-ZEM-01064,Vervangen,12462.19,30,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00743,H-ZEM-01069,Vervangen,12462.19,30,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00486,H-ZEM-00737,Vervangen centrale noodverlichtingskast,10803.10,16,2041,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00486,H-ZEM-00738,Vervangen Noodverlichtingsarmatuur LED (centraal),352.65,16,2041,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00486,H-ZEM-00739,Vervangen accu's,59.55,4,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00919,H-ZEM-01338,Vervangen Verlichtingsarmaturen (LED),30.19,15,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00506,H-ZEM-00760,Vervangen brandmeldcentrale,10000.00,12,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00506,H-ZEM-00761,Vervangen brandmeldinstallatie,250000.00,18,2039,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00506,H-ZEM-00762,Vervangen pagers,27825.00,12,2030,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00506,H-ZEM-00763,Vervangen veldapparatuur BMI,356.49,14,2028,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00562,H-ZEM-00841,Vervangen Sleutelkast,27960.36,16,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00562,H-ZEM-00842,Vervangen accu Sleutelkast,1652.53,4,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00999,H-ZEM-01428,Vervangen,12000.00,20,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01007,H-ZEM-01438,Vervangen controllers toegangscontrole-installatie,1486.67,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00196,H-ZEM-00280,Reviseren Liftmachine,7500.00,30,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00196,H-ZEM-00281,Reviseren Schacht en cabinedeuren,10000.00,10,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00196,H-ZEM-00282,Vervangen Frequentieregeling,10944.23,20,2036,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00196,H-ZEM-00283,Vervangen staalkabels,7500.00,15,2029,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00196,H-ZEM-00284,Vervangen Besturing,36690.00,20,2026,0,ReplacementCost,Investment,Achter OH,,5
+E-ZEM-00197,H-ZEM-00285,Reviseren Liftmachine,7500.00,30,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00197,H-ZEM-00286,Reviseren Schacht en cabinedeuren,10000.00,10,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00197,H-ZEM-00287,Vervangen Frequentieregeling,10944.23,20,2026,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00197,H-ZEM-00288,Vervangen staalkabels,7500.00,15,2029,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00197,H-ZEM-00289,Vervangen Besturing,36690.00,20,2026,0,ReplacementCost,Investment,Achter OH,,5
+E-ZEM-00933,H-ZEM-01360,Vervangen modules KNX systeem,25492.00,15,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00850,H-ZEM-01212,Vervangen Koelcelinstallatie (keuken),8574.75,20,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00851,H-ZEM-01213,Vervangen Vriescelinstallatie (keuken),8574.75,18,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01004,H-ZEM-01433,Vervangen Grootkeukeninrichting,187742.84,12,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01027,H-ZEM-01458,Vervangen Keukenblok (huiskamers),28704.14,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01028,H-ZEM-01459,Vervangen pantryblokken,2451.62,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00335,H-ZEM-00505,Inspecteren en plaatselijk herstellen terreinverharding klinkers,74.42,5,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00336,H-ZEM-00506,Inspecteren en plaatselijk herstellen terreinverharding asfalt,8000.00,5,2029,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00466,H-ZEM-00705,Inspecteren en herstellen rijwielberging,4686.38,10,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00467,H-ZEM-00706,Inspecteren en herstellen rijwielberging,4686.38,10,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00468,H-ZEM-00707,Inspecteren en herstellen rijwielberging,4686.38,10,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00469,H-ZEM-00708,Vervangen Terreinverlichting lichtmast,1977.14,10,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00470,H-ZEM-00709,Vervangen Terreinverlichting gevelarmaturen,366.32,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00396,H-ZEM-00602,DUMAVA - De Beemden (Warmtepompen - Dak/gevel/vloer - PV),2179443.25,0,2025,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00417,H-ZEM-00624,Jaarlijkse post Afwerkingspakket Interieur Rosagaerde,5.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00565,H-ZEM-00847,Vervangen Sleutelkast,17960.36,16,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00565,H-ZEM-00848,Vervangen accu Begane grond,1652.53,4,2028,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00398,H-ZEM-00604,Vervangen verlichting naar LED,70797.00,0,2025,0,ReplacementCost,Investment,EED,,1
+E-ZEM-00418,H-ZEM-00625,Jaarlijkse post Afwerkingspakket Interieur Venloene,5.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00372,H-ZEM-00561,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00372,H-ZEM-00562,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00373,H-ZEM-00563,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00373,H-ZEM-00564,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00374,H-ZEM-00565,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00374,H-ZEM-00566,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00375,H-ZEM-00567,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00375,H-ZEM-00568,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00376,H-ZEM-00569,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00376,H-ZEM-00570,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00377,H-ZEM-00571,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00377,H-ZEM-00572,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00378,H-ZEM-00573,Vervangen Condensor (Buitendeel),2859.86,15,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00378,H-ZEM-00574,Vervangen Verdamper (Binnendeel),2649.57,15,2028,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00379,H-ZEM-00575,Vervangen Condensor (Buitendeel),3712.82,15,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00379,H-ZEM-00576,Vervangen Verdamper (Binnendeel),2649.57,15,2028,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00380,H-ZEM-00577,Vervangen Condensor (Buitendeel),3712.82,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00380,H-ZEM-00578,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00381,H-ZEM-00579,Vervangen Condensor (Buitendeel),3712.82,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00381,H-ZEM-00580,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00382,H-ZEM-00581,Vervangen Condensor (Buitendeel),3712.82,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00382,H-ZEM-00582,Vervangen Verdamper (Binnendeel),2649.57,15,2039,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00383,H-ZEM-00583,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00383,H-ZEM-00584,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00384,H-ZEM-00585,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00384,H-ZEM-00586,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00385,H-ZEM-00587,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00385,H-ZEM-00588,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00386,H-ZEM-00589,Vervangen Condensor (Buitendeel),6172.69,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00386,H-ZEM-00590,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00923,H-ZEM-01346,Vervangen Verlichtingsarmaturen (LED),32.19,15,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00567,H-ZEM-00851,Vervangen Sleutelkast,17960.36,16,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00567,H-ZEM-00852,Vervangen accu Sleutelkast,1652.53,4,2028,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00419,H-ZEM-00626,Jaarlijkse post Afwerkingspakket Interieur Vita,6.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00203,H-ZEM-00299,Vervangen Afzuiginstallatie (gassen),3132.23,20,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00922,H-ZEM-01345,Vervangen Verlichtingsarmaturen (LED),32.19,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00569,H-ZEM-00855,Vervangen Sleutelkast,17960.36,16,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00569,H-ZEM-00856,Vervangen accu Sleutelkast,1652.53,4,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00204,H-ZEM-00300,Vervangen Koelcelinstallatie,8244.95,20,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00896,H-ZEM-01291,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00896,H-ZEM-01292,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00896,H-ZEM-01293,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2030,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00896,H-ZEM-01294,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2030,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00199,H-ZEM-00295,Vervangen automatische schuifdeur Buitendeur scootmobielruimte,10180.53,12,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00898,H-ZEM-01298,"Onderhoud zonwering, screens elektrisch",14500.00,5,2030,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00898,H-ZEM-01299,"Vervangen doek zonwering, screens elektrisch",589.52,10,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00898,H-ZEM-01300,"Vervangen zonwering, screens elektrisch",1269.45,20,2040,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-01025,H-ZEM-01456,Vervangen vrijloopdrangers gehele locatie,279.92,10,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00017,H-ZEM-00049,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 2,3500.00,10,2030,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00017,H-ZEM-00050,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 2,180.11,40,2060,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00017,H-ZEM-00051,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 2,69.10,20,2040,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00018,H-ZEM-00052,Inspecteren en plaatselijk herstellen Dakafwerking antraciet pannen Dakvlak 1,13.24,10,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00019,H-ZEM-00053,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 4,2500.00,10,2030,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00019,H-ZEM-00054,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 4,180.11,40,2060,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00019,H-ZEM-00055,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 4,69.10,20,2040,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00020,H-ZEM-00056,Inspecteren en plaatselijk herstellen Dakafwerking antraciet pannen Dakvlak 3,13.24,10,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00021,H-ZEM-00057,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 6,5500.00,10,2030,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00021,H-ZEM-00058,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 6,180.11,40,2060,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00021,H-ZEM-00059,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 6,69.10,20,2040,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00022,H-ZEM-00060,Inspecteren en plaatselijk herstellen Dakafwerking antraciet pannen Dakvlak 5,13.24,10,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00023,H-ZEM-00061,Inspecteren en plaatselijk herstellen Dakafwerking antraciet pannen Dakvlak 7,13.24,10,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00818,H-ZEM-01150,Vervangen valbeveiliging,25000.00,20,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00362,H-ZEM-00548,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2060,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00362,H-ZEM-00549,Sanitair bijwerken,474.88,20,2040,0,ReplacementCost,Investment,Interieur,,2
+E-ZEM-00363,H-ZEM-00550,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2060,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00363,H-ZEM-00551,Interieur bijwerken,474.88,20,2040,0,ReplacementCost,Investment,Interieur,,2
+E-ZEM-00542,H-ZEM-00815,Jaarlijkse post Afwerkingspakket Interieur Vossenberg,5.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00578,H-ZEM-00871,Vervangen Water/water warmtepomp 70 - 110 kW,59726.74,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00579,H-ZEM-00872,Vervangen Water/water warmtepomp 70 - 110 kW,59726.74,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00580,H-ZEM-00873,Vervangen Water/water warmtepomp 40 - 60 kW,36818.10,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00582,H-ZEM-00875,Vervangen tegenstroomapparaat (TSA),7251.30,10,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00618,H-ZEM-00917,Vervangen Ketel elektrisch 40 - 65 KW,5342.95,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00619,H-ZEM-00918,Vervangen Ketel elektrisch 100 - 150 KW,10099.64,30,2054,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00906,H-ZEM-01312,Reinigen bron,19991.95,12,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00906,H-ZEM-01313,Vervangen Bronpompen,7251.30,5,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00894,H-ZEM-01289,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,12519.00,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00597,H-ZEM-00890,Vervangen Buffervat 1500 ltr,7974.16,20,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00598,H-ZEM-00891,Vervangen Buffervat 1000 ltr.,5015.32,20,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00599,H-ZEM-00892,Vervangen Buffervat 1000 ltr.,5015.32,20,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00584,H-ZEM-00877,Vervangen Droogkoeler 200 kW,47860.33,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00583,H-ZEM-00876,Vervangen,6988.59,24,2048,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00585,H-ZEM-00878,Vervangen circulatiepomp CV,2867.13,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00586,H-ZEM-00879,Vervangen circulatiepomp CV,2867.13,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00587,H-ZEM-00880,Vervangen circulatiepomp CV,2867.13,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00588,H-ZEM-00881,Vervangen circulatiepomp CV,2867.13,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00589,H-ZEM-00882,Vervangen circulatiepomp CV,2867.13,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00590,H-ZEM-00883,Vervangen circulatiepomp CV,2867.13,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00591,H-ZEM-00884,Vervangen circulatiepomp CV,2867.13,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00592,H-ZEM-00885,Vervangen circulatiepomp CV,2867.13,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00593,H-ZEM-00886,Vervangen circulatiepomp CV,2867.13,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00594,H-ZEM-00887,Vervangen circulatiepomp CV,2867.13,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00595,H-ZEM-00888,Vervangen circulatiepomp CV,2867.13,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00596,H-ZEM-00889,Vervangen circulatiepomp CV,2867.13,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00581,H-ZEM-00874,Vervangen mechanische ventilatie-unit,976.35,20,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00602,H-ZEM-00897,Reconditioneren LBK binnenopstelling < 3.600 m3/h,15962.60,35,2055,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00603,H-ZEM-00898,Reconditioneren LBK binnenopstelling < 3.600 m3/h,15962.60,35,2055,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00604,H-ZEM-00899,Reconditioneren LBK binnenopstelling < 3.600 m3/h,15962.60,35,2055,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00605,H-ZEM-00900,Reconditioneren LBK binnenopstelling < 3.600 m3/h,15962.60,35,2055,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00606,H-ZEM-00901,Reconditioneren LBK binnenopstelling < 3.600 m3/h,15962.60,35,2055,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00607,H-ZEM-00902,Reconditioneren LBK binnenopstelling < 3.600 m3/h,15962.60,35,2055,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00600,H-ZEM-00893,Vervangen opnemers,6977.64,5,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00600,H-ZEM-00894,Vervangen Regeltechniek,46419.37,25,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00601,H-ZEM-00895,Vervangen opnemers,6977.64,5,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00601,H-ZEM-00896,Vervangen Regeltechniek,46419.37,25,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00608,H-ZEM-00903,Vervangen opnemers,6977.64,5,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00608,H-ZEM-00904,Vervangen Regeltechniek,46419.37,25,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00609,H-ZEM-00905,Vervangen opnemers,6977.64,5,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00609,H-ZEM-00906,Vervangen Regeltechniek,46419.37,25,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00610,H-ZEM-00907,Vervangen opnemers,6977.64,5,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00610,H-ZEM-00908,Vervangen Regeltechniek,46419.37,25,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00402,H-ZEM-00609,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00611,H-ZEM-00909,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00612,H-ZEM-00910,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00613,H-ZEM-00911,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00614,H-ZEM-00912,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00797,H-ZEM-01127,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00798,H-ZEM-01128,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00799,H-ZEM-01129,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00800,H-ZEM-01130,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00801,H-ZEM-01131,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00802,H-ZEM-01132,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00803,H-ZEM-01133,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00804,H-ZEM-01134,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00805,H-ZEM-01135,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00806,H-ZEM-01136,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00807,H-ZEM-01137,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00808,H-ZEM-01138,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00809,H-ZEM-01139,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00810,H-ZEM-01140,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00811,H-ZEM-01141,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00812,H-ZEM-01142,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00813,H-ZEM-01143,Vervangen,12462.19,30,2050,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00817,H-ZEM-01147,Scope 12 inspectie,1689.70,5,2028,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00817,H-ZEM-01148,Vervangen van de omvormer,4819.77,15,2035,0,OperationalMaintenanceCost,Operational,Invest,10,2
+E-ZEM-00817,H-ZEM-01149,Vervangen van de PV-Panelen,408.10,30,2050,0,ReplacementCost,Investment,Invest,10,1
+E-ZEM-00615,H-ZEM-00913,Vervangen noodverlichting,369.94,16,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00615,H-ZEM-00914,Vervangen accu's,59.55,4,2028,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00924,H-ZEM-01347,Vervangen Verlichtingsarmaturen (LED),28.19,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00350,H-ZEM-00526,Vervangen brandmeldcentrale,10000.00,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00350,H-ZEM-00527,Vervangen brandmeldinstallatie,284973.00,18,2034,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00350,H-ZEM-00528,Vervangen pagers,22413.00,12,2035,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00350,H-ZEM-00529,Vervangen veldapparatuur BMI,356.49,14,2028,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-01000,H-ZEM-01429,Vervangen,12000.00,20,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01014,H-ZEM-01445,Vervangen controllers toegangscontrole-installatie,1486.67,15,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00279,H-ZEM-00387,Reviseren Liftkooi,10090.00,10,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00279,H-ZEM-00388,Reviseren Schacht en cabinedeuren,12718.00,10,2028,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00279,H-ZEM-00389,Vervangen Aandrijfmachine,32014.00,30,2037,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00279,H-ZEM-00390,Vervangen Besturing,76857.00,20,2041,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00279,H-ZEM-00391,Vervangen Deuraandrijving,24639.00,12,2032,0,ReplacementCost,Investment,Invest,,5
+E-ZEM-00279,H-ZEM-00392,Vervangen Deurloopwerken,16111.00,20,2036,0,ReplacementCost,Investment,Invest,,6
+E-ZEM-00279,H-ZEM-00393,Vervangen Frequentieregeling,14178.00,20,2034,0,ReplacementCost,Investment,Invest,,7
+E-ZEM-00280,H-ZEM-00394,Reviseren Schacht en cabinedeuren,9655.00,10,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00280,H-ZEM-00395,Vervangen Besturing,38090.00,20,2047,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00280,H-ZEM-00396,Vervangen Deuraandrijving,21244.00,15,2036,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00280,H-ZEM-00397,Vervangen Frequentieregeling,18789.00,20,2033,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00281,H-ZEM-00398,Reviseren Schacht en cabinedeuren,4060.00,10,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00281,H-ZEM-00399,Vervangen Besturing,35904.00,20,2045,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00281,H-ZEM-00400,Vervangen Deuraandrijving,21244.00,15,2036,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00281,H-ZEM-00401,Vervangen Frequentieregeling,6967.00,20,2032,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00328,H-ZEM-00497,Vervangen Koelcelinstallatie,8574.75,20,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01034,H-ZEM-01465,Vervangen pantryblokken,2451.62,25,2045,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00341,H-ZEM-00511,Inspecteren en plaatselijk herstellen terreinverharding klinkers,74.42,5,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00342,H-ZEM-00512,Inspecteren en plaatselijk herstellen terreinverharding asfalt,8000.00,5,2030,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00925,H-ZEM-01348,Vervangen gevelarmaturen,6477.87,25,2045,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00925,H-ZEM-01349,Vervangen terreinverlichting,12523.36,10,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00364,H-ZEM-00552,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2054,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00364,H-ZEM-00553,Sanitair bijwerken,474.88,20,2034,0,ReplacementCost,Investment,Interieur,,2
+E-ZEM-00543,H-ZEM-00816,Jaarlijkse post Afwerkingspakket Interieur Vossenberg Kapel,6.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00404,H-ZEM-00611,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00616,H-ZEM-00915,Vervangen,12462.19,30,2045,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00617,H-ZEM-00916,Vervangen,12462.19,30,2045,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00327,H-ZEM-00496,Vervangen brandmeldinstallatie (compleet),28.08,18,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00571,H-ZEM-00859,Vervangen Sleutelkast,17960.36,16,2041,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00571,H-ZEM-00860,Vervangen accu Sleutelkast,1652.53,4,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-01035,H-ZEM-01466,Vervangen Grootkeukeninrichting,57742.84,12,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00455,H-ZEM-00685,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00455,H-ZEM-00686,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00455,H-ZEM-00687,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00455,H-ZEM-00688,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2033,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00905,H-ZEM-01310,Vervangen vliesgevel,200150.64,30,2054,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00905,H-ZEM-01311,Reinigen vliesgevel,15111.77,3,2027,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00038,H-ZEM-00092,Vervangen automatische draaideur Buitendeur tuin,4361.00,12,2025,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00456,H-ZEM-00689,Vervangen uitvalscherm elektrisch,1427.02,20,2044,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00456,H-ZEM-00690,Onderhoud uitvalscherm elektrisch,12500.00,5,2029,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00456,H-ZEM-00691,Vervangen zonweringsdoek uitvalscherm elektrisch,730.82,10,2034,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00577,H-ZEM-00869,Vervangen knikarmscherm elektrisch,2327.02,20,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00577,H-ZEM-00870,Vervangen zonweringsdoek knikarmscherm elektrisch,930.82,10,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00037,H-ZEM-00091,Vervangen automatische draaideur Binnendeur tuin/terras,4361.00,12,2025,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00039,H-ZEM-00093,Vervangen automatische draaideur M/S keuken naast lift,4361.00,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00555,H-ZEM-00833,Vervangen deurdranger binnendeur 1e verdieping,279.92,10,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00556,H-ZEM-00834,Vervangen deurdranger binnendeur 2e verdieping,279.92,10,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00557,H-ZEM-00835,Vervangen deurdranger binnendeur 3e verdieping,279.92,10,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00558,H-ZEM-00836,Vervangen deurdranger binnendeur 4e verdieping,279.92,10,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00559,H-ZEM-00837,Vervangen deurdranger binnendeur 5e verdieping,279.92,10,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00458,H-ZEM-00693,Buitenschilderwerk totaal,18.48,6,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00024,H-ZEM-00062,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 1,5500.00,10,2034,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00024,H-ZEM-00063,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 1,180.11,40,2064,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00024,H-ZEM-00064,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 1,69.10,20,2044,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00025,H-ZEM-00065,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 4,3500.00,10,2034,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00025,H-ZEM-00066,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 4,180.11,40,2064,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00025,H-ZEM-00067,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 4,69.10,20,2044,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00026,H-ZEM-00068,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 2,2500.00,10,2034,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00026,H-ZEM-00069,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 2,180.11,40,2064,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00026,H-ZEM-00070,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 2,69.10,20,2044,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00027,H-ZEM-00071,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 5,5500.00,10,2034,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00027,H-ZEM-00072,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 5,180.11,40,2064,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00027,H-ZEM-00073,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 5,69.10,20,2044,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00028,H-ZEM-00074,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 3,5500.00,10,2034,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00028,H-ZEM-00075,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 3,180.11,40,2064,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00028,H-ZEM-00076,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 3,69.10,20,2044,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00545,H-ZEM-00821,Jaarlijkse post Afwerkingspakket Interieur Wereldhuis,5.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00461,H-ZEM-00696,Vervangen Ketel gasgestookt HR 40 - 65 KW  (Tapwaterketel 2),5342.95,15,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00696,H-ZEM-01011,Vervangen Ketel gasgestookt HR,63190.63,30,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00945,H-ZEM-01373,Vervangen Zonnecollector,6481.83,24,2041,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00946,H-ZEM-01374,Vervangen warmtepomp,13319.32,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00950,H-ZEM-01378,Vervangen tegenstroomapparaat (TSA),7251.30,10,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00981,H-ZEM-01410,Vervangen Ketel gasgestookt HR,63190.63,30,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00874,H-ZEM-01256,Vervangen vuilwaterpomp,1152.94,10,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00900,H-ZEM-01302,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,17519.00,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00637,H-ZEM-00942,Vervangen Tapwaterpomp,1467.77,15,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00796,H-ZEM-01126,Vervangen hydrofoor,6493.17,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00944,H-ZEM-01372,Vervangen zonneboiler,5509.38,20,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00949,H-ZEM-01377,Vervangen Buffervat,3696.30,20,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00952,H-ZEM-01381,Vervangen Buffervat 1000 liter,3696.30,20,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00974,H-ZEM-01403,Vervangen Tapwaterpomp,1467.77,15,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00975,H-ZEM-01404,Vervangen Tapwaterpomp,1467.77,15,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00875,H-ZEM-01257,Vervangen Koelmachine 20 - 30 kW,15018.99,20,2044,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00876,H-ZEM-01258,Vervangen Koelmachine < 20 kW,12283.26,20,2044,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00951,H-ZEM-01379,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00951,H-ZEM-01380,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00574,H-ZEM-00864,Vervangen Expansieautomaat,8854.36,5,2048,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00620,H-ZEM-00919,Vervangen circulatiepomp,2867.13,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00621,H-ZEM-00920,Vervangen circulatiepomp,2867.13,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00622,H-ZEM-00921,Vervangen circulatiepomp,2867.13,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00623,H-ZEM-00922,Vervangen circulatiepomp,2867.13,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00624,H-ZEM-00923,Vervangen circulatiepomp,2867.13,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00976,H-ZEM-01405,Vervangen circulatiepomp,2867.13,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00977,H-ZEM-01406,Vervangen circulatiepomp,2867.13,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00978,H-ZEM-01407,Vervangen circulatiepomp,2867.13,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00979,H-ZEM-01408,Vervangen circulatiepomp,2867.13,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00625,H-ZEM-00924,Vervangen Dakventilator,2001.16,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00626,H-ZEM-00925,Vervangen Dakventilator,2001.16,15,2024,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00627,H-ZEM-00926,Vervangen Dakventilator,2001.16,15,2024,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00628,H-ZEM-00927,Vervangen Dakventilator,2001.16,15,2024,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00629,H-ZEM-00928,Vervangen LBK toe-/afvoer buitenopstelling [3.600 m3/h - 10.000 m³/h),72755.14,25,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00629,H-ZEM-00929,Periodiek inregelen LBK,1567.80,5,2027,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00632,H-ZEM-00932,Vervangen LBK toe-/afvoer buitenopstelling [3.600 m3/h - 10.000 m³/h),72755.14,25,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00632,H-ZEM-00933,Periodiek inregelen LBK,1567.80,5,2027,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00633,H-ZEM-00934,Vervangen LBK LBK toe-/afvoer buitenopstelling [< 3.600 m3/h],22755.14,25,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00633,H-ZEM-00935,Periodiek inregelen LBK,1567.80,5,2027,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00953,H-ZEM-01382,Vervangen Dakventilator,15000.00,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00980,H-ZEM-01409,Vervangen Dakventilator,2001.16,15,2024,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00634,H-ZEM-00936,Vervangen Regeltechniek,46419.37,25,2041,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00634,H-ZEM-00937,Vervangen opnemers,6977.64,5,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00635,H-ZEM-00938,Vervangen Regeltechniek,46419.37,25,2041,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00635,H-ZEM-00939,Vervangen opnemers,6977.64,5,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00636,H-ZEM-00940,Vervangen Regeltechniek,46419.37,25,2041,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00636,H-ZEM-00941,Vervangen opnemers,6977.64,5,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00387,H-ZEM-00591,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00745,H-ZEM-01071,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00778,H-ZEM-01108,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00779,H-ZEM-01109,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00780,H-ZEM-01110,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00781,H-ZEM-01111,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00782,H-ZEM-01112,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00783,H-ZEM-01113,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00784,H-ZEM-01114,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00785,H-ZEM-01115,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00786,H-ZEM-01116,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00787,H-ZEM-01117,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00788,H-ZEM-01118,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00789,H-ZEM-01119,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00790,H-ZEM-01120,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00791,H-ZEM-01121,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00792,H-ZEM-01122,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00793,H-ZEM-01123,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00794,H-ZEM-01124,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00795,H-ZEM-01125,Vervangen,12462.19,30,2047,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00926,H-ZEM-01350,Vervangen Verlichtingsarmaturen (LED),32.19,15,2038,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00931,H-ZEM-01357,Vervangen Noodverlichtingsarmaturen (decentraal),352.65,16,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00931,H-ZEM-01358,Vervangen accu's,59.55,4,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00544,H-ZEM-00817,Vervangen brandmeldcentrale,10000.00,12,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00544,H-ZEM-00818,Vervangen brandmeldinstallatie,151151.00,18,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00544,H-ZEM-00819,Vervangen pagers,31296.00,12,2032,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00544,H-ZEM-00820,Vervangen veldapparatuur BMI,356.49,14,2044,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00572,H-ZEM-00861,Vervangen Sleutelkast,17960.36,16,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01001,H-ZEM-01430,Vervangen,12000.00,20,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01015,H-ZEM-01446,Vervangen controllers toegangscontrole-installatie,1486.67,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00287,H-ZEM-00419,Reviseren Schacht en cabinedeuren,9410.00,10,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00287,H-ZEM-00421,Vervangen Besturing,36840.00,20,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00287,H-ZEM-00423,Vervangen Frequentieregeling,7800.00,20,2028,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00287,H-ZEM-00424,Vervangen staalkabels,10800.00,15,2026,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00288,H-ZEM-00426,Reviseren Schacht en cabinedeuren,7900.00,10,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00288,H-ZEM-00428,Vervangen Deuraandrijving,11000.00,10,2027,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00288,H-ZEM-00429,Vervangen Frequentieregeling,9920.00,20,2042,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00288,H-ZEM-00430,Vervangen staalkabels,10800.00,15,2033,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00289,H-ZEM-00431,Reviseren Schacht en cabinedeuren,9000.00,10,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00289,H-ZEM-00432,Vervangen Besturing,38000.00,20,2037,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00289,H-ZEM-00433,Vervangen Frequentieregeling,23500.00,20,2027,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00289,H-ZEM-00434,Vervangen Liftmachine,10000.00,30,2047,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00289,H-ZEM-00435,Vervangen staalkabels,13480.00,15,2032,0,ReplacementCost,Investment,Invest,,5
+E-ZEM-00934,H-ZEM-01361,Vervangen modules KNX systeem,25492.00,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00492,H-ZEM-00745,Vervangen Grootkeukeninrichting,87742.84,12,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00490,H-ZEM-00743,Vervangen pantryblokken,3151.62,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00491,H-ZEM-00744,Vervangen Keukenblok (Verdieping 1 tm 5 en personeelsruimte),18704.14,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00493,H-ZEM-00746,Vervangen Keukenblok (Zaal de Evenaar),28704.14,25,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00932,H-ZEM-01359,Vervangen Koel-Vriescelinstallatie,33574.75,20,2044,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00982,H-ZEM-01411,Vervangen Keukenblok (Verdieping 1 tm 5 en personeelsruimte),28704.14,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00983,H-ZEM-01412,Vervangen Keukenblok (Verdieping 1 tm 5 en personeelsruimte),28704.14,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00984,H-ZEM-01413,Vervangen Keukenblok (Verdieping 1 tm 5 en personeelsruimte),28704.14,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00985,H-ZEM-01414,Vervangen Keukenblok (Verdieping 1 tm 5 en personeelsruimte),28704.14,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00986,H-ZEM-01415,Vervangen Keukenblok (Verdieping 1 tm 5 en personeelsruimte),28704.14,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00343,H-ZEM-00513,Inspecteren en plaatselijk herstellen terreinverharding klinkers,74.42,5,2025,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00927,H-ZEM-01351,Vervangen gevelarmaturen,5477.87,25,2049,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00927,H-ZEM-01352,Vervangen terreinverlichting,8523.36,10,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00399,H-ZEM-00605,DUMAVA - Wereldhuis (Dak/Gevel - PV),1964558.13,0,2024,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00399,H-ZEM-00606,Isoleren verwarmingsleidingen en appendages,20824.00,0,2023,0,ReplacementCost,Investment,EED,,2
+E-ZEM-00903,H-ZEM-01305,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00903,H-ZEM-01306,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2036,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00903,H-ZEM-01307,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2036,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00903,H-ZEM-01308,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2036,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00045,H-ZEM-00099,Vervangen automatische schuifdeur Buitendeur achter,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00046,H-ZEM-00100,Vervangen automatische schuifdeur Buitendeur entree,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-01005,H-ZEM-01434,"Onderhoud zonwering, screens elektrisch",5000.00,5,2031,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-01005,H-ZEM-01435,"Vervangen doek zonwering, screens elektrisch",589.52,10,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01005,H-ZEM-01436,"Vervangen zonwering, screens elektrisch",1269.45,20,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00040,H-ZEM-00094,Vervangen automatische draaideur Binnendeur aanleunwo.,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00041,H-ZEM-00095,Vervangen automatische draaideur Binnendeur aanleunwo. naast lift,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00042,H-ZEM-00096,Vervangen automatische schuifdeur Binnendeur entree,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00043,H-ZEM-00097,Vervangen automatische schuifdeur Binnendeur gang naar kantoren,10180.53,12,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00044,H-ZEM-00098,Vervangen automatische schuifdeur Binnendeur restaurant,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00548,H-ZEM-00826,Vervangen deurdranger binnendeur Begane grond,579.92,10,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00549,H-ZEM-00827,Vervangen deurdranger binnendeur 1e verdieping,279.92,10,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00550,H-ZEM-00828,Vervangen deurdranger binnendeur 2e verdieping,279.92,10,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00551,H-ZEM-00829,Vervangen deurdranger binnendeur 3e verdieping,279.92,10,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00552,H-ZEM-00830,Vervangen deurdranger binnendeur 4e verdieping,279.92,10,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00013,H-ZEM-00037,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 1,1500.00,10,2036,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00013,H-ZEM-00038,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 1,180.11,40,2046,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00013,H-ZEM-00039,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 1,69.10,20,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00014,H-ZEM-00040,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 2,1500.00,10,2036,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00014,H-ZEM-00041,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 2,180.11,40,2046,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00014,H-ZEM-00042,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 2,69.10,20,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00015,H-ZEM-00043,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 3,2500.00,10,2036,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00015,H-ZEM-00044,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 3,180.11,40,2046,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00015,H-ZEM-00045,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 3,69.10,20,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00016,H-ZEM-00046,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 4,5500.00,10,2036,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00016,H-ZEM-00047,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 4,180.11,40,2046,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00016,H-ZEM-00048,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 4,69.10,20,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00816,H-ZEM-01146,Vervangen valbeveiliging,17500.00,20,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00536,H-ZEM-00799,Jaarlijkse post Afwerkingspakket Interieur Simeonshof,6.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00683,H-ZEM-00997,Vervangen cv-ketel combi,3109.28,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00686,H-ZEM-01001,Vervangen Ketel gasgestookt HR 150 - 200 KW,19234.43,30,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00940,H-ZEM-01367,Vervangen Zonnecollector,6481.83,24,2048,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00941,H-ZEM-01368,Vervangen Vervangen Ketel gasgestookt HR 45 KW,5342.95,15,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00954,H-ZEM-01383,Vervangen tegenstroomapparaat (TSA),7251.30,10,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00987,H-ZEM-01416,Vervangen Ketel gasgestookt HR 150 - 200 KW,19234.43,30,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00901,H-ZEM-01303,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,11519.00,15,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00681,H-ZEM-00995,Vervangen Tapwaterpomp,1467.77,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00682,H-ZEM-00996,Vervangen Tapwaterpomp,1467.77,15,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00684,H-ZEM-00998,Vervangen Boilervat 500 liter,3950.20,20,2044,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00955,H-ZEM-01384,Vervangen Boiler indirect gestookt 500 liter,5412.14,15,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00956,H-ZEM-01385,Vervangen hydrofoor,6493.17,15,2042,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00988,H-ZEM-01417,Vervangen Tapwaterpomp,1467.77,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00989,H-ZEM-01418,Vervangen Tapwaterpomp,1467.77,15,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00990,H-ZEM-01419,Vervangen Boiler indirect gestookt 500 liter,5412.14,15,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00865,H-ZEM-01238,Vervangen Compressor (Buitendeel),3712.82,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00865,H-ZEM-01239,Vervangen Verdamper (Binnendeel),2649.57,15,2026,0,ReplacementCost,Investment,Achter OH,,2
+E-ZEM-00866,H-ZEM-01240,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00866,H-ZEM-01241,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00867,H-ZEM-01242,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00867,H-ZEM-01243,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00868,H-ZEM-01244,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00868,H-ZEM-01245,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00869,H-ZEM-01246,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00869,H-ZEM-01247,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00870,H-ZEM-01248,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00870,H-ZEM-01249,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00871,H-ZEM-01250,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00871,H-ZEM-01251,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00872,H-ZEM-01252,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00872,H-ZEM-01253,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00873,H-ZEM-01254,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00873,H-ZEM-01255,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00668,H-ZEM-00978,Vervangen circulatiepomp,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00669,H-ZEM-00979,Vervangen circulatiepomp,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00670,H-ZEM-00980,Vervangen circulatiepomp,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00671,H-ZEM-00981,Vervangen circulatiepomp,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00672,H-ZEM-00982,Vervangen circulatiepomp,2867.13,15,2039,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00993,H-ZEM-01422,Vervangen circulatiepomp,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00673,H-ZEM-00983,Vervangen Dakventilator,2692.27,15,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00677,H-ZEM-00987,Vervangen LBK Toevoer buitenopstelling 10.000 m³/h,72755.14,25,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00677,H-ZEM-00988,Periodiek inregelen LBK Toevoer,1567.80,5,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00678,H-ZEM-00989,Vervangen LBK Afvoer,72755.14,25,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00678,H-ZEM-00990,Periodiek inregelen LBK Afvoer,1567.80,5,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00679,H-ZEM-00991,Vervangen LBK buitenopstelling 10.000 m³/h,22755.14,25,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00679,H-ZEM-00992,Periodiek inregelen LBK,1567.80,5,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00680,H-ZEM-00993,Vervangen LBK buitenopstelling,22755.14,25,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00680,H-ZEM-00994,Periodiek inregelen LBK,1567.80,5,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00685,H-ZEM-00999,Vervangen Regeltechniek,46419.37,25,2045,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00685,H-ZEM-01000,Vervangen opnemers,6977.64,5,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00400,H-ZEM-00607,"Vervangen bliksembeveiliging-installatie, prijs per m2 dakoppervlakte",12.88,30,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00746,H-ZEM-01072,Vervangen,30000.00,30,2051,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00747,H-ZEM-01073,Vervangen,30000.00,30,2051,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00748,H-ZEM-01074,Vervangen,12462.19,30,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00749,H-ZEM-01075,Vervangen,12462.19,30,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00750,H-ZEM-01076,Vervangen,12462.19,30,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00751,H-ZEM-01077,Vervangen,12462.19,30,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00752,H-ZEM-01078,Vervangen,12462.19,30,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00753,H-ZEM-01079,Vervangen,12462.19,30,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00754,H-ZEM-01080,Vervangen,12462.19,30,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00755,H-ZEM-01081,Vervangen,12462.19,30,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00756,H-ZEM-01082,Vervangen,12462.19,30,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00757,H-ZEM-01083,Vervangen,2462.19,30,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00758,H-ZEM-01084,Scope 12 inspectie,1589.70,5,2028,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00758,H-ZEM-01085,Vervangen van de omvormer,4819.77,15,2038,0,OperationalMaintenanceCost,Operational,Invest,10,2
+E-ZEM-00758,H-ZEM-01086,Vervangen van de PV-Panelen,408.10,30,2053,0,ReplacementCost,Investment,Invest,10,1
+E-ZEM-00759,H-ZEM-01087,Vervangen centrale noodverlichtingskast,10803.10,16,2037,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00759,H-ZEM-01088,Vervangen Noodverlichtingsarmatuur LED (decentraal),352.65,16,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00759,H-ZEM-01089,Vervangen accu's,59.55,4,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00928,H-ZEM-01353,Vervangen Verlichtingsarmaturen (LED),32.19,15,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00541,H-ZEM-00811,Vervangen brandmeldcentrale,10000.00,12,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00541,H-ZEM-00812,Vervangen brandmeldinstallatie,91151.00,18,2035,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00541,H-ZEM-00813,Vervangen pagers,19178.00,12,2030,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00541,H-ZEM-00814,Vervangen veldapparatuur BMI,356.49,14,2029,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00566,H-ZEM-00849,Vervangen Sleutelkast,17960.36,16,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00566,H-ZEM-00850,Vervangen accu Sleutelkast,1652.53,4,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-01002,H-ZEM-01431,Vervangen,12000.00,20,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01016,H-ZEM-01447,Vervangen controllers toegangscontrole-installatie,1486.67,15,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00198,H-ZEM-00290,Reviseren Schacht en cabinedeuren,10100.00,10,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00198,H-ZEM-00291,Revisie liftmotor,7500.00,25,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00198,H-ZEM-00292,Vervangen Frequentieregeling,10944.23,20,2036,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00198,H-ZEM-00293,Vervangen staalkabels,7500.00,15,2029,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00198,H-ZEM-00294,Vervangen Besturing,39850.00,20,2026,0,ReplacementCost,Investment,Achter OH,,5
+E-ZEM-00494,H-ZEM-00747,Vervangen Grootkeukeninrichting,147742.84,12,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00495,H-ZEM-00748,Vervangen Keukenblok (huiskamer BG),28704.14,25,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00496,H-ZEM-00749,Vervangen Keukenblok (huiskamer 1e verdieping),28704.14,25,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00497,H-ZEM-00750,Vervangen Keukenblok (huiskamer 2e verdieping),28704.14,25,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00498,H-ZEM-00751,Vervangen Keukenblok (huiskamer 3e verdieping),28704.14,25,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00863,H-ZEM-01236,Vervangen Koelcelinstallatie (keuken),8574.75,20,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00864,H-ZEM-01237,Vervangen Vriescelinstallatie (keuken),9621.39,18,2036,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01036,H-ZEM-01467,Vervangen pantryblokken,2451.62,25,2046,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00344,H-ZEM-00514,Inspecteren en plaatselijk herstellen terreinverharding klinkers,74.42,5,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00481,H-ZEM-00730,Vervangen lichtmast Terreinverlichting lichtmast,1977.14,10,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00483,H-ZEM-00732,Vervangen Terreinverlichting gevelarmaturen,366.32,25,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01032,H-ZEM-01463,Inspecteren en herstellen,22.16,10,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00401,H-ZEM-00608,DUMAVA - Simeonshof (Warmtepomp - Zonneboiler),261773.83,0,2024,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00474,H-ZEM-00717,Inspecteren en plaatselijk herstel noordgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00474,H-ZEM-00718,Inspecteren en plaatselijk herstel oostgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00474,H-ZEM-00719,Inspecteren en plaatselijk herstel westgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00474,H-ZEM-00720,Inspecteren en plaatselijk herstel zuidgevel (Voegwerk / Stucwerk / Gevelbekleding),15.94,10,2035,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00409,H-ZEM-00616,Vervangen automatische draaideur Buitendeur entree 11-20,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00410,H-ZEM-00617,Vervangen automatische draaideur Buitendeur gang aanleunwo.,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00414,H-ZEM-00621,Vervangen automatische schuifdeur Buitendeur binnenplaats,10180.53,12,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00415,H-ZEM-00622,Vervangen automatische schuifdeur Buitendeur entree buitenhuis,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00472,H-ZEM-00711,"Onderhoud zonwering, screens elektrisch",6500.00,5,2030,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00472,H-ZEM-00712,"Vervangen doek zonwering, screens elektrisch",589.52,10,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00472,H-ZEM-00713,"Vervangen zonwering, screens elektrisch",1269.45,20,2035,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00473,H-ZEM-00714,Vervangen uitvalscherm elektrisch,1427.02,20,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00473,H-ZEM-00715,Onderhoud uitvalscherm elektrisch,7500.00,5,2030,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00473,H-ZEM-00716,Vervangen zonweringsdoek uitvalscherm elektrisch,730.82,10,2026,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00877,H-ZEM-01259,Vervangen knikarmscherm elektrisch (breedte <2m),1529.20,20,2043,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00877,H-ZEM-01260,Onderhoud uitvalscherm elektrisch,4500.00,5,2028,0,OperationalMaintenanceCost,Operational,Expl,,1
+E-ZEM-00877,H-ZEM-01261,Vervangen zonweringsdoek knikarmscherm elektrisch (breedte <2m),465.41,10,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00405,H-ZEM-00612,Vervangen automatische draaideur 1e gallerij 3-10,4361.00,12,2031,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00406,H-ZEM-00613,Vervangen automatische draaideur 1e gallerij 11-20,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00407,H-ZEM-00614,Vervangen automatische draaideur BG gallerij 11-20,4361.00,12,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00408,H-ZEM-00615,Vervangen automatische draaideur BG gallerij 3-10,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00411,H-ZEM-00618,Vervangen automatische draaideur Tussendeur gang aanleunwo.,4361.00,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00412,H-ZEM-00619,Vervangen automatische schuifdeur Binnendeur entree buitenhuis,10180.53,12,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00413,H-ZEM-00620,Vervangen automatische schuifdeur Brand scheiding tussendeur,10180.53,12,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01017,H-ZEM-01448,Vervangen vrijloopdrangers gehele locatie,279.92,10,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00504,H-ZEM-00757,Buitenschilderwerk totaal,12.43,6,2028,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00029,H-ZEM-00077,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 3,1500.00,10,2044,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00029,H-ZEM-00078,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 3,180.11,40,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00029,H-ZEM-00079,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 3,69.10,20,2055,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00030,H-ZEM-00080,"Vervangen Dakafwerking aluminium, golfplaten Dakvlak 4",210.23,40,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00031,H-ZEM-00081,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 5,1500.00,10,2044,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00031,H-ZEM-00082,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 5,180.11,40,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00031,H-ZEM-00083,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 5,69.10,20,2055,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00032,H-ZEM-00084,Inspecteren en plaatselijk herstellen detaillering dak Dakvlak 6,2500.00,10,2044,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-00032,H-ZEM-00085,Vervangen dakbedekking bitumen ongeballast + bij isoleren Dakvlak 6,180.11,40,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00032,H-ZEM-00086,Aanbrengen nieuwe laag dakbedekking bitumen ongeballast Dakvlak 6,69.10,20,2055,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00033,H-ZEM-00087,"Vervangen Dakafwerking aluminium, golfplaten Dakvlak 1",210.23,40,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00034,H-ZEM-00088,"Vervangen Dakafwerking aluminium, golfplaten Dakvlak 2",210.23,40,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00815,H-ZEM-01145,Vervangen valbeveiliging,12500.00,20,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00355,H-ZEM-00535,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1204.24,40,2035,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00355,H-ZEM-00536,Interieur bijwerken,474.88,20,2055,0,ReplacementCost,Investment,Interieur,,2
+E-ZEM-00356,H-ZEM-00537,"Sanitair groot onderhoud (tegels, kitwerk, plafonds vervangen)",1404.24,40,2035,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00356,H-ZEM-00538,Sanitair bijwerken,474.88,20,2055,0,ReplacementCost,Investment,Interieur,,2
+E-ZEM-00523,H-ZEM-00784,Jaarlijkse post Afwerkingspakket Interieur Buitenhuis,6.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
+E-ZEM-00476,H-ZEM-00725,Vervangen Ketel gasgestookt HR 40 - 65 KW  (ketel 1),5342.95,15,2026,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00477,H-ZEM-00726,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 2),5342.95,15,2026,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00478,H-ZEM-00727,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 3),5342.95,15,2026,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00479,H-ZEM-00728,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 4),5342.95,15,2026,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00480,H-ZEM-00729,Vervangen Ketel gasgestookt HR 40 - 65 KW (ketel 5),5342.95,15,2026,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00938,H-ZEM-01365,Vervangen Zonnecollector,6481.83,24,2041,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00904,H-ZEM-01309,Plaatselijk inspecteren en herstellen hemelwaterafvoer/ goten,8519.00,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00691,H-ZEM-01006,Vervangen Tapwaterpomp,1467.77,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00939,H-ZEM-01366,Vervangen zonneboiler,5509.38,20,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00834,H-ZEM-01174,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00834,H-ZEM-01175,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00835,H-ZEM-01176,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00835,H-ZEM-01177,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00836,H-ZEM-01178,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00836,H-ZEM-01179,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00837,H-ZEM-01180,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00837,H-ZEM-01181,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00838,H-ZEM-01182,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00838,H-ZEM-01183,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00838,H-ZEM-01184,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00839,H-ZEM-01185,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00839,H-ZEM-01186,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00839,H-ZEM-01187,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00840,H-ZEM-01188,Vervangen Compressor (Buitendeel),3712.82,15,2032,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00840,H-ZEM-01189,Vervangen Verdamper (Binnendeel),2649.57,15,2032,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00841,H-ZEM-01190,Vervangen Compressor (Buitendeel),3712.82,15,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00841,H-ZEM-01191,Vervangen Verdamper (Binnendeel),2649.57,15,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00842,H-ZEM-01192,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00842,H-ZEM-01193,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00843,H-ZEM-01194,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00843,H-ZEM-01195,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00844,H-ZEM-01196,Vervangen Compressor (Buitendeel),3712.82,15,2037,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00844,H-ZEM-01197,Vervangen Verdamper (Binnendeel),2649.57,15,2037,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00845,H-ZEM-01198,Vervangen Compressor (Buitendeel),3712.82,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00845,H-ZEM-01199,Vervangen Verdamper (Binnendeel),2649.57,15,2030,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00689,H-ZEM-01004,Vervangen circulatiepomp,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00690,H-ZEM-01005,Vervangen circulatiepomp,2867.13,15,2026,0,ReplacementCost,Investment,Achter OH,,1
+E-ZEM-00692,H-ZEM-01007,Vervangen dakventilator,2692.27,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00994,H-ZEM-01423,Vervangen dakventilator,2692.27,15,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00505,H-ZEM-00758,Vervangen regeltechniek (RK01),31419.37,25,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00505,H-ZEM-00759,Vervangen opnemers,3419.37,5,2031,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00703,H-ZEM-01027,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00704,H-ZEM-01028,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00705,H-ZEM-01029,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00706,H-ZEM-01030,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00707,H-ZEM-01031,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00708,H-ZEM-01032,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00709,H-ZEM-01033,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00710,H-ZEM-01034,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00711,H-ZEM-01035,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00712,H-ZEM-01036,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00713,H-ZEM-01037,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00714,H-ZEM-01038,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00715,H-ZEM-01039,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00716,H-ZEM-01040,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00717,H-ZEM-01041,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00718,H-ZEM-01042,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00719,H-ZEM-01043,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00720,H-ZEM-01044,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00721,H-ZEM-01045,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00722,H-ZEM-01046,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00723,H-ZEM-01047,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00724,H-ZEM-01048,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00725,H-ZEM-01049,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00726,H-ZEM-01050,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00727,H-ZEM-01051,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00728,H-ZEM-01052,Vervangen,5516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00937,H-ZEM-01364,Vervangen,25516.95,30,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00485,H-ZEM-00735,Vervangen Noodverlichtingsarmatuur LED (decentraal),352.65,16,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00485,H-ZEM-00736,Vervangen accu's,59.55,4,2031,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00929,H-ZEM-01354,Vervangen Verlichtingsarmaturen (LED),32.19,15,2034,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00538,H-ZEM-00801,Vervangen brandmeldcentrale,10000.00,12,2027,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00538,H-ZEM-00802,Vervangen brandmeldinstallatie,80000.00,18,2033,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00538,H-ZEM-00803,Vervangen pagers,9871.00,12,2030,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00538,H-ZEM-00804,Vervangen veldapparatuur BMI,356.49,14,2029,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00563,H-ZEM-00843,Vervangen Sleutelkast,17960.36,16,2033,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00563,H-ZEM-00844,Vervangen accu Begane grond,1652.53,4,2029,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-01003,H-ZEM-01432,Vervangen,12000.00,20,2035,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-01006,H-ZEM-01437,Vervangen controllers toegangscontrole-installatie,1486.67,15,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00326,H-ZEM-00491,Reviseren Schacht en cabinedeuren,14449.00,10,2026,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00326,H-ZEM-00492,Vervangen Besturing,46300.00,20,2035,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-00326,H-ZEM-00493,Vervangen Frequentieregeling,24340.00,20,2026,0,ReplacementCost,Investment,Invest,,3
+E-ZEM-00326,H-ZEM-00494,Vervangen Liftmachine,19560.00,30,2031,0,ReplacementCost,Investment,Invest,,4
+E-ZEM-00326,H-ZEM-00495,Vervangen staalkabels,7700.00,15,2029,0,ReplacementCost,Investment,Invest,,5
+E-ZEM-00489,H-ZEM-00742,Vervangen Grootkeukeninrichting,87742.84,12,2040,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00487,H-ZEM-00740,Vervangen pantryblokken,2451.62,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00488,H-ZEM-00741,Vervangen Keukenblok (huiskamers),28704.14,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00996,H-ZEM-01425,Vervangen Keukenblok (huiskamers),28704.14,25,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00345,H-ZEM-00515,Inspecteren en plaatselijk herstellen terreinverharding klinkers,74.42,5,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00416,H-ZEM-00623,Vervangen onderdelen elektrische poort,2325.19,5,2030,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00930,H-ZEM-01355,Vervangen gevelarmaturen,4477.87,25,2045,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00930,H-ZEM-01356,Vervangen terreinverlichting,5523.36,10,2035,0,ReplacementCost,Investment,Invest,,2
+E-ZEM-01029,H-ZEM-01460,Inspecteren en herstellen rijwielberging,4686.38,10,2028,0,OperationalMaintenanceCost,Operational,Invest,,1
+E-ZEM-01033,H-ZEM-01464,Inspecteren en herstellen,22.16,10,2029,0,ReplacementCost,Investment,Invest,,1
+E-ZEM-00403,H-ZEM-00610,DUMAVA - Buitenhuis (Warmtepompen),248272.73,0,2026,0,ReplacementCost,Investment,DUMAVA,,1
+E-ZEM-00420,H-ZEM-00627,Jaarlijkse post Afwerkingspakket Interieur Buitenhuis (huur),10.11,1,2026,0,ReplacementCost,Investment,Interieur,,1
