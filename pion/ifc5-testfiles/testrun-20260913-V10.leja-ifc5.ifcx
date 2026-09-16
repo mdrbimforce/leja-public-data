@@ -1,0 +1,8031 @@
+{
+ "header": {
+  "id": "https://leja.bimforce.com/pion/crosscube/QBAtiDPGhgABmSmbDQqttGkPvoFnWkkK",
+  "ifcxVersion": "ifcx_alpha",
+  "dataVersion": "1.0.0",
+  "author": "leja@bimforce.com",
+  "timestamp": "2026-09-16T16:15:53Z"
+ },
+ "imports": [
+  {
+   "uri": "https://ifcx.dev/@standards.buildingsmart.org/ifc/core/ifc@v5a.ifcx"
+  },
+  {
+   "uri": "https://ifcx.dev/@standards.buildingsmart.org/ifc/core/prop@v5a.ifcx"
+  },
+  {
+   "uri": "https://ifcx.dev/@standards.buildingsmart.org/ifc/ifc-mat/ifc-mat@v1.0.0.ifcx"
+  },
+  {
+   "uri": "https://ifcx.dev/@openusd.org/usd@v1.ifcx"
+  }
+ ],
+ "schemas": {
+  "pion::prop::lengteElementen400": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::lengteElementen650": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::binnenBreedte": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::lagen": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::kopdeel": {
+   "value": {
+    "dataType": "Boolean"
+   }
+  },
+  "pion::prop::belastingsklasse": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::deksel": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::dekselDikte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::wanddeelHoogte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::kopdeelHoogte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::laagAfstand": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::koppelAfstand": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::wandDikte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::aansluitpuntAfstandChangedata": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::insteekLengte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::bodemplaatDikte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::frameHoogte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::binnenLengte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::binnenHoogte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::buitenLengte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::buitenBreedte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::buitenHoogte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::breedteElementen400": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::breedteElementen650": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::typeCode": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::aanvraagId": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::aantalUClips": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::aantalDeuvels": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::aantalStelschroeven": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::aantalAfdichtdoppen": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::naam": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::omschrijving": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "gltf::material": {
+   "value": {
+    "dataType": "Object",
+    "objectRestrictions": {
+     "values": {
+      "pbrMetallicRoughness": {
+       "dataType": "Object",
+       "optional": false,
+       "objectRestrictions": {
+        "values": {
+         "baseColorFactor": {
+          "dataType": "Array",
+          "optional": true,
+          "arrayRestrictions": {
+           "min": 4,
+           "max": 4,
+           "value": {
+            "dataType": "Real"
+           }
+          }
+         },
+         "baseColorTexture": {
+          "dataType": "String",
+          "optional": true
+         },
+         "metallicFactor": {
+          "dataType": "Real",
+          "optional": true
+         },
+         "roughnessFactor": {
+          "dataType": "Real",
+          "optional": true
+         },
+         "metallicRoughnessTexture": {
+          "dataType": "String",
+          "optional": true
+         }
+        }
+       }
+      },
+      "normalTexture": {
+       "dataType": "Object",
+       "optional": true,
+       "objectRestrictions": {
+        "values": {
+         "texture": {
+          "dataType": "String",
+          "optional": false
+         },
+         "scale": {
+          "dataType": "Real",
+          "optional": true
+         }
+        }
+       }
+      },
+      "occlusionTexture": {
+       "dataType": "Object",
+       "optional": true,
+       "objectRestrictions": {
+        "values": {
+         "texture": {
+          "dataType": "String",
+          "optional": false
+         },
+         "strength": {
+          "dataType": "Real",
+          "optional": true
+         }
+        }
+       }
+      },
+      "emissiveTexture": {
+       "dataType": "String",
+       "optional": true
+      },
+      "emissiveFactor": {
+       "dataType": "Array",
+       "optional": true,
+       "arrayRestrictions": {
+        "min": 3,
+        "max": 3,
+        "value": {
+         "dataType": "Real"
+        }
+       }
+      },
+      "alphaMode": {
+       "dataType": "Enum",
+       "optional": true,
+       "enumRestrictions": {
+        "options": [
+         "OPAQUE",
+         "MASK",
+         "BLEND"
+        ]
+       }
+      },
+      "alphaCutoff": {
+       "dataType": "Real",
+       "optional": true
+      },
+      "doubleSided": {
+       "dataType": "Boolean",
+       "optional": true
+      }
+     }
+    }
+   }
+  },
+  "pion::prop::elementId": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::zijde": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::elementIndex": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::laag": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::elementMaat": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::positieX": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::positieY": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::positieZ": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::richting": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::as": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::artikelnummer": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::uitbreekpoorten": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::aansluitingId": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::diameter": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::soort": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::tussenElementen": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::breedte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::hoogte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::dikte": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::lengte": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::NominalDiameter": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::PortNumber": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::aansluitIndex": {
+   "value": {
+    "dataType": "Integer"
+   }
+  },
+  "pion::prop::poortMaat": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::stroomrichting": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::uitbreekpoort": {
+   "value": {
+    "dataType": "String"
+   }
+  },
+  "pion::prop::changedataPositieX": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::changedataPositieY": {
+   "value": {
+    "dataType": "Real"
+   }
+  },
+  "pion::prop::changedataPositieZ": {
+   "value": {
+    "dataType": "Real"
+   }
+  }
+ },
+ "data": [
+  {
+   "path": "7fe9d24b-1938-539c-8ce8-fbd33bf11409",
+   "children": {
+    "a:1:1:400": "7260c336-2d3f-55b2-8806-c4113f8cc537",
+    "a:1:2:400": "7c72eb2c-27b2-5024-b075-efdf803e6892",
+    "a:1:3:400": "52d6e4ac-a27c-539e-9cbb-d94ffa9bc09b",
+    "b:1:1:400": "edeb52f0-7c36-51a9-ba74-ef14a6153eb8",
+    "b:2:1:650": "5ebd933a-84ca-5e79-9dae-73249822ac3b",
+    "b:1:2:400": "a5e03907-69bb-5351-b84f-b03ab9e90241",
+    "b:2:2:650": "d7649f23-7cca-5a56-b2ee-2d946056a882",
+    "b:1:3:400": "8cefba53-4d89-5404-baaf-1ef5ffc0166c",
+    "b:2:3:650": "e83b291f-cc06-5c17-8065-33e9cc9b1e03",
+    "c:1:1:400": "b276bb3f-72e9-5389-9b88-766b9af4f459",
+    "c:1:2:400": "208bb2bc-a071-5d12-9583-61081e1f534c",
+    "c:1:3:400": "6b7ce21c-5aee-50e0-96a6-efe22f6435ce",
+    "d:1:1:400": "ce69a64a-7550-579d-9ccc-8b44c7428efe",
+    "d:2:1:650": "404c926a-4319-5f53-938c-ad5c838ac8ad",
+    "d:1:2:400": "28698155-258d-5fd0-bb1a-40e6f2241b7f",
+    "d:2:2:650": "d5fb85fb-64b1-510e-9391-d7969c064ab0",
+    "d:1:3:400": "37dd4fd8-57df-5f3f-ad71-7879e3551686",
+    "d:2:3:650": "16299b7d-5b69-5ee8-bdd6-bac7ba8c226a",
+    "b:1-2:1:koppel": "9c065411-494c-5f2d-9a9f-7e08fcf375e7",
+    "b:1-2:2:koppel": "5fb47a10-37a4-5cd5-b5f9-ccfcc79b7f59",
+    "b:1-2:3:koppel": "4850caee-b401-5617-9f38-b57911cc7317",
+    "d:1-2:1:koppel": "f7675d20-2d54-5c45-a7dd-f516a0fe6238",
+    "d:1-2:2:koppel": "6af3995c-f146-5cad-b052-342299f8c998",
+    "d:1-2:3:koppel": "7454b6a3-6937-58d6-8347-b833a1b9ffef",
+    "bodemplaat": "1077bd4d-fdd7-5b8b-8442-520741974a7f",
+    "deksel": "2d03e0cd-abeb-5cb3-a009-e10cd6acc713",
+    "frame-a": "1c8ddb11-9380-5733-a745-7f3b0cf00e2d",
+    "frame-c": "bba8f0b6-e172-5e56-b4e9-ff7b9a6ea9b5",
+    "frame-b": "cc802733-f98c-50b6-9f75-86a2d701f318",
+    "frame-d": "6727535a-8711-5d59-b124-fb24826e7db0",
+    "afdichtstrook:a:1": "fa115fbe-6530-5a37-9d2a-f42eeb3b27b5",
+    "afdichtstrook:a:2": "b194fd64-9beb-563f-ad89-70c68a355a9b",
+    "afdichtstrook:a:3": "897abd9a-353c-5dd7-8bef-4161caa675b0",
+    "verstevigingskoker:b:1": "f74d7f73-21f0-5180-bec0-c024416b5390",
+    "verstevigingskoker:b:2": "dadf727f-f791-5d9a-a270-defdc0d76875",
+    "verstevigingskoker:b:3": "b9ad37b9-c074-5405-b2d4-15e58fa40bc8",
+    "afdichtstrook:c:1": "04561037-4d82-5b7a-95a9-fc751f99a845",
+    "afdichtstrook:c:2": "18317c39-00b3-525f-89e3-bb5851010ba8",
+    "afdichtstrook:c:3": "7f30d25d-6da1-5a0a-a202-aa1045980a87",
+    "verstevigingskoker:d:1": "b9e83b45-4ce8-5d52-a7c9-9809e39f9676",
+    "verstevigingskoker:d:2": "45032888-ade0-512c-8193-10f1d259e68a",
+    "verstevigingskoker:d:3": "a7802527-c926-5b77-9fc2-c7dd6bf2ef4e",
+    "a:1:1:160:1": "2ecca2b3-29c5-57f6-af98-068528e628b5",
+    "b:1:1:110:1": "676b440e-2644-51d8-b6ad-b249798a997b",
+    "c:3:1:50:1": "4be0ad02-6529-5a70-952f-23a8f83c56f8",
+    "d:3:2:160:1": "26991909-f4a1-5ec4-a14a-adb8e316c1e7"
+   }
+  },
+  {
+   "path": "7fe9d24b-1938-539c-8ce8-fbd33bf11409",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcDistributionChamberElement",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcDistributionChamberElement"
+    }
+   }
+  },
+  {
+   "path": "7fe9d24b-1938-539c-8ce8-fbd33bf11409",
+   "attributes": {
+    "pion::prop::lengteElementen400": 1,
+    "pion::prop::lengteElementen650": 1,
+    "pion::prop::binnenBreedte": 400,
+    "pion::prop::lagen": 3,
+    "pion::prop::kopdeel": false,
+    "pion::prop::belastingsklasse": "D400",
+    "pion::prop::deksel": "betonvulling",
+    "pion::prop::dekselDikte": 100.0,
+    "pion::prop::wanddeelHoogte": 350.0,
+    "pion::prop::kopdeelHoogte": 200.0,
+    "pion::prop::laagAfstand": 355.0,
+    "pion::prop::koppelAfstand": 85.0,
+    "pion::prop::wandDikte": 115.0,
+    "pion::prop::aansluitpuntAfstandChangedata": 217.5,
+    "pion::prop::insteekLengte": 50.0,
+    "pion::prop::bodemplaatDikte": 10.0,
+    "pion::prop::frameHoogte": 100.0,
+    "pion::prop::binnenLengte": 1135.0,
+    "pion::prop::binnenHoogte": 1050.0,
+    "pion::prop::buitenLengte": 1365.0,
+    "pion::prop::buitenBreedte": 630.0,
+    "pion::prop::buitenHoogte": 1150.0,
+    "pion::prop::breedteElementen400": 1,
+    "pion::prop::breedteElementen650": 0,
+    "pion::prop::typeCode": "400x1135",
+    "pion::prop::aanvraagId": "QBAtiDPGhgABmSmbDQqttGkPvoFnWkkK",
+    "pion::prop::aantalUClips": 42,
+    "pion::prop::aantalDeuvels": 18,
+    "pion::prop::aantalStelschroeven": 0,
+    "pion::prop::aantalAfdichtdoppen": 12
+   }
+  },
+  {
+   "path": "1265d289-68b5-5d81-bdb4-fb01606ea5bf",
+   "children": {
+    "Site": "5a981a51-a602-524d-9856-3dc99c05a353"
+   }
+  },
+  {
+   "path": "1265d289-68b5-5d81-bdb4-fb01606ea5bf",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcProject",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcProject"
+    }
+   }
+  },
+  {
+   "path": "1265d289-68b5-5d81-bdb4-fb01606ea5bf",
+   "attributes": {
+    "pion::prop::naam": "Pion CrossCube aanvraag QBAtiDPGhgABmSmbDQqttGkPvoFnWkkK",
+    "pion::prop::omschrijving": "Gegenereerd uit het Leja object-template (quest-133)"
+   }
+  },
+  {
+   "path": "5a981a51-a602-524d-9856-3dc99c05a353",
+   "children": {
+    "CrossCube": "5ee57096-be5c-5db6-b8c8-5e8ad9ad59b2"
+   }
+  },
+  {
+   "path": "5a981a51-a602-524d-9856-3dc99c05a353",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcSite",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcSite"
+    }
+   }
+  },
+  {
+   "path": "5ee57096-be5c-5db6-b8c8-5e8ad9ad59b2",
+   "children": {
+    "Maaiveld": "f9dd1933-4345-5c30-b061-273c79c9531b"
+   }
+  },
+  {
+   "path": "5ee57096-be5c-5db6-b8c8-5e8ad9ad59b2",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcBuilding",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuilding"
+    }
+   }
+  },
+  {
+   "path": "f9dd1933-4345-5c30-b061-273c79c9531b",
+   "children": {
+    "CrossCube-3 400x1135": "7fe9d24b-1938-539c-8ce8-fbd33bf11409"
+   }
+  },
+  {
+   "path": "f9dd1933-4345-5c30-b061-273c79c9531b",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcBuildingStorey",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuildingStorey"
+    }
+   }
+  },
+  {
+   "path": "7260c336-2d3f-55b2-8806-c4113f8cc537",
+   "children": {
+    "a:1:1:160:1:opening": "f549a0f8-6537-518c-8fda-0e30c7fb6595"
+   }
+  },
+  {
+   "path": "7260c336-2d3f-55b2-8806-c4113f8cc537",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "7260c336-2d3f-55b2-8806-c4113f8cc537",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       -567.5,
+       0.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "7260c336-2d3f-55b2-8806-c4113f8cc537",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       0.0,
+       350.0
+      ],
+      [
+       -200.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "7260c336-2d3f-55b2-8806-c4113f8cc537",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "7260c336-2d3f-55b2-8806-c4113f8cc537",
+   "attributes": {
+    "pion::prop::elementId": "a:1:1:400",
+    "pion::prop::zijde": "a",
+    "pion::prop::elementIndex": 1,
+    "pion::prop::laag": 1,
+    "pion::prop::elementMaat": 400,
+    "pion::prop::positieX": 0.0,
+    "pion::prop::positieY": -567.5,
+    "pion::prop::positieZ": 0.0,
+    "pion::prop::richting": "0 -1 0",
+    "pion::prop::as": "1 0 0",
+    "pion::prop::artikelnummer": "06.94035.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 400x350"
+   }
+  },
+  {
+   "path": "f549a0f8-6537-518c-8fda-0e30c7fb6595",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcOpeningElement",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcOpeningElement"
+    }
+   }
+  },
+  {
+   "path": "f549a0f8-6537-518c-8fda-0e30c7fb6595",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       -1.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       69.0,
+       -115.0,
+       110.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "f549a0f8-6537-518c-8fda-0e30c7fb6595",
+   "attributes": {
+    "pion::prop::aansluitingId": "a:1:1:160:1",
+    "pion::prop::diameter": 160.0,
+    "pion::prop::soort": "uitbreekpoort",
+    "pion::prop::naam": "a:1:1:160:1:opening"
+   }
+  },
+  {
+   "path": "7c72eb2c-27b2-5024-b075-efdf803e6892",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "7c72eb2c-27b2-5024-b075-efdf803e6892",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       -567.5,
+       355.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "7c72eb2c-27b2-5024-b075-efdf803e6892",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       0.0,
+       350.0
+      ],
+      [
+       -200.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "7c72eb2c-27b2-5024-b075-efdf803e6892",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "7c72eb2c-27b2-5024-b075-efdf803e6892",
+   "attributes": {
+    "pion::prop::elementId": "a:1:2:400",
+    "pion::prop::zijde": "a",
+    "pion::prop::elementIndex": 1,
+    "pion::prop::laag": 2,
+    "pion::prop::elementMaat": 400,
+    "pion::prop::positieX": 0.0,
+    "pion::prop::positieY": -567.5,
+    "pion::prop::positieZ": 355.0,
+    "pion::prop::richting": "0 -1 0",
+    "pion::prop::as": "1 0 0",
+    "pion::prop::artikelnummer": "06.94035.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 400x350"
+   }
+  },
+  {
+   "path": "52d6e4ac-a27c-539e-9cbb-d94ffa9bc09b",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "52d6e4ac-a27c-539e-9cbb-d94ffa9bc09b",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       -567.5,
+       710.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "52d6e4ac-a27c-539e-9cbb-d94ffa9bc09b",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       0.0,
+       350.0
+      ],
+      [
+       -200.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "52d6e4ac-a27c-539e-9cbb-d94ffa9bc09b",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "52d6e4ac-a27c-539e-9cbb-d94ffa9bc09b",
+   "attributes": {
+    "pion::prop::elementId": "a:1:3:400",
+    "pion::prop::zijde": "a",
+    "pion::prop::elementIndex": 1,
+    "pion::prop::laag": 3,
+    "pion::prop::elementMaat": 400,
+    "pion::prop::positieX": 0.0,
+    "pion::prop::positieY": -567.5,
+    "pion::prop::positieZ": 710.0,
+    "pion::prop::richting": "0 -1 0",
+    "pion::prop::as": "1 0 0",
+    "pion::prop::artikelnummer": "06.94035.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 400x350"
+   }
+  },
+  {
+   "path": "edeb52f0-7c36-51a9-ba74-ef14a6153eb8",
+   "children": {
+    "b:1:1:110:1:opening": "f0b2c26e-e7f1-5a07-8a6d-6946a4803de1"
+   }
+  },
+  {
+   "path": "edeb52f0-7c36-51a9-ba74-ef14a6153eb8",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "edeb52f0-7c36-51a9-ba74-ef14a6153eb8",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       200.0,
+       -367.5,
+       0.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "edeb52f0-7c36-51a9-ba74-ef14a6153eb8",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -315.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -315.0,
+       0.0,
+       0.0
+      ],
+      [
+       -315.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       0.0,
+       350.0
+      ],
+      [
+       -315.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "edeb52f0-7c36-51a9-ba74-ef14a6153eb8",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "edeb52f0-7c36-51a9-ba74-ef14a6153eb8",
+   "attributes": {
+    "pion::prop::elementId": "b:1:1:400",
+    "pion::prop::zijde": "b",
+    "pion::prop::elementIndex": 1,
+    "pion::prop::laag": 1,
+    "pion::prop::elementMaat": 400,
+    "pion::prop::positieX": 200.0,
+    "pion::prop::positieY": -367.5,
+    "pion::prop::positieZ": 0.0,
+    "pion::prop::richting": "1 0 0",
+    "pion::prop::as": "0 1 0",
+    "pion::prop::artikelnummer": "06.94035.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 400x350"
+   }
+  },
+  {
+   "path": "f0b2c26e-e7f1-5a07-8a6d-6946a4803de1",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcOpeningElement",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcOpeningElement"
+    }
+   }
+  },
+  {
+   "path": "f0b2c26e-e7f1-5a07-8a6d-6946a4803de1",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       -1.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -106.0,
+       -115.0,
+       222.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "f0b2c26e-e7f1-5a07-8a6d-6946a4803de1",
+   "attributes": {
+    "pion::prop::aansluitingId": "b:1:1:110:1",
+    "pion::prop::diameter": 110.0,
+    "pion::prop::soort": "uitbreekpoort",
+    "pion::prop::naam": "b:1:1:110:1:opening"
+   }
+  },
+  {
+   "path": "5ebd933a-84ca-5e79-9dae-73249822ac3b",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "5ebd933a-84ca-5e79-9dae-73249822ac3b",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       200.0,
+       242.5,
+       0.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "5ebd933a-84ca-5e79-9dae-73249822ac3b",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -325.0,
+       -115.0,
+       0.0
+      ],
+      [
+       440.0,
+       -115.0,
+       0.0
+      ],
+      [
+       440.0,
+       0.0,
+       0.0
+      ],
+      [
+       -325.0,
+       0.0,
+       0.0
+      ],
+      [
+       -325.0,
+       -115.0,
+       350.0
+      ],
+      [
+       440.0,
+       -115.0,
+       350.0
+      ],
+      [
+       440.0,
+       0.0,
+       350.0
+      ],
+      [
+       -325.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "5ebd933a-84ca-5e79-9dae-73249822ac3b",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "5ebd933a-84ca-5e79-9dae-73249822ac3b",
+   "attributes": {
+    "pion::prop::elementId": "b:2:1:650",
+    "pion::prop::zijde": "b",
+    "pion::prop::elementIndex": 2,
+    "pion::prop::laag": 1,
+    "pion::prop::elementMaat": 650,
+    "pion::prop::positieX": 200.0,
+    "pion::prop::positieY": 242.5,
+    "pion::prop::positieZ": 0.0,
+    "pion::prop::richting": "1 0 0",
+    "pion::prop::as": "0 1 0",
+    "pion::prop::artikelnummer": "06.96535.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 650x350"
+   }
+  },
+  {
+   "path": "a5e03907-69bb-5351-b84f-b03ab9e90241",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "a5e03907-69bb-5351-b84f-b03ab9e90241",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       200.0,
+       -367.5,
+       355.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "a5e03907-69bb-5351-b84f-b03ab9e90241",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -315.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -315.0,
+       0.0,
+       0.0
+      ],
+      [
+       -315.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       0.0,
+       350.0
+      ],
+      [
+       -315.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "a5e03907-69bb-5351-b84f-b03ab9e90241",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "a5e03907-69bb-5351-b84f-b03ab9e90241",
+   "attributes": {
+    "pion::prop::elementId": "b:1:2:400",
+    "pion::prop::zijde": "b",
+    "pion::prop::elementIndex": 1,
+    "pion::prop::laag": 2,
+    "pion::prop::elementMaat": 400,
+    "pion::prop::positieX": 200.0,
+    "pion::prop::positieY": -367.5,
+    "pion::prop::positieZ": 355.0,
+    "pion::prop::richting": "1 0 0",
+    "pion::prop::as": "0 1 0",
+    "pion::prop::artikelnummer": "06.94035.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 400x350"
+   }
+  },
+  {
+   "path": "d7649f23-7cca-5a56-b2ee-2d946056a882",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "d7649f23-7cca-5a56-b2ee-2d946056a882",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       200.0,
+       242.5,
+       355.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "d7649f23-7cca-5a56-b2ee-2d946056a882",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -325.0,
+       -115.0,
+       0.0
+      ],
+      [
+       440.0,
+       -115.0,
+       0.0
+      ],
+      [
+       440.0,
+       0.0,
+       0.0
+      ],
+      [
+       -325.0,
+       0.0,
+       0.0
+      ],
+      [
+       -325.0,
+       -115.0,
+       350.0
+      ],
+      [
+       440.0,
+       -115.0,
+       350.0
+      ],
+      [
+       440.0,
+       0.0,
+       350.0
+      ],
+      [
+       -325.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "d7649f23-7cca-5a56-b2ee-2d946056a882",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "d7649f23-7cca-5a56-b2ee-2d946056a882",
+   "attributes": {
+    "pion::prop::elementId": "b:2:2:650",
+    "pion::prop::zijde": "b",
+    "pion::prop::elementIndex": 2,
+    "pion::prop::laag": 2,
+    "pion::prop::elementMaat": 650,
+    "pion::prop::positieX": 200.0,
+    "pion::prop::positieY": 242.5,
+    "pion::prop::positieZ": 355.0,
+    "pion::prop::richting": "1 0 0",
+    "pion::prop::as": "0 1 0",
+    "pion::prop::artikelnummer": "06.96535.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 650x350"
+   }
+  },
+  {
+   "path": "8cefba53-4d89-5404-baaf-1ef5ffc0166c",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "8cefba53-4d89-5404-baaf-1ef5ffc0166c",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       200.0,
+       -367.5,
+       710.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "8cefba53-4d89-5404-baaf-1ef5ffc0166c",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -315.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -315.0,
+       0.0,
+       0.0
+      ],
+      [
+       -315.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       0.0,
+       350.0
+      ],
+      [
+       -315.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "8cefba53-4d89-5404-baaf-1ef5ffc0166c",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "8cefba53-4d89-5404-baaf-1ef5ffc0166c",
+   "attributes": {
+    "pion::prop::elementId": "b:1:3:400",
+    "pion::prop::zijde": "b",
+    "pion::prop::elementIndex": 1,
+    "pion::prop::laag": 3,
+    "pion::prop::elementMaat": 400,
+    "pion::prop::positieX": 200.0,
+    "pion::prop::positieY": -367.5,
+    "pion::prop::positieZ": 710.0,
+    "pion::prop::richting": "1 0 0",
+    "pion::prop::as": "0 1 0",
+    "pion::prop::artikelnummer": "06.94035.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 400x350"
+   }
+  },
+  {
+   "path": "e83b291f-cc06-5c17-8065-33e9cc9b1e03",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "e83b291f-cc06-5c17-8065-33e9cc9b1e03",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       200.0,
+       242.5,
+       710.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "e83b291f-cc06-5c17-8065-33e9cc9b1e03",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -325.0,
+       -115.0,
+       0.0
+      ],
+      [
+       440.0,
+       -115.0,
+       0.0
+      ],
+      [
+       440.0,
+       0.0,
+       0.0
+      ],
+      [
+       -325.0,
+       0.0,
+       0.0
+      ],
+      [
+       -325.0,
+       -115.0,
+       350.0
+      ],
+      [
+       440.0,
+       -115.0,
+       350.0
+      ],
+      [
+       440.0,
+       0.0,
+       350.0
+      ],
+      [
+       -325.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "e83b291f-cc06-5c17-8065-33e9cc9b1e03",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "e83b291f-cc06-5c17-8065-33e9cc9b1e03",
+   "attributes": {
+    "pion::prop::elementId": "b:2:3:650",
+    "pion::prop::zijde": "b",
+    "pion::prop::elementIndex": 2,
+    "pion::prop::laag": 3,
+    "pion::prop::elementMaat": 650,
+    "pion::prop::positieX": 200.0,
+    "pion::prop::positieY": 242.5,
+    "pion::prop::positieZ": 710.0,
+    "pion::prop::richting": "1 0 0",
+    "pion::prop::as": "0 1 0",
+    "pion::prop::artikelnummer": "06.96535.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 650x350"
+   }
+  },
+  {
+   "path": "b276bb3f-72e9-5389-9b88-766b9af4f459",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "b276bb3f-72e9-5389-9b88-766b9af4f459",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       567.5,
+       0.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "b276bb3f-72e9-5389-9b88-766b9af4f459",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       0.0,
+       350.0
+      ],
+      [
+       -200.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "b276bb3f-72e9-5389-9b88-766b9af4f459",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "b276bb3f-72e9-5389-9b88-766b9af4f459",
+   "attributes": {
+    "pion::prop::elementId": "c:1:1:400",
+    "pion::prop::zijde": "c",
+    "pion::prop::elementIndex": 1,
+    "pion::prop::laag": 1,
+    "pion::prop::elementMaat": 400,
+    "pion::prop::positieX": 0.0,
+    "pion::prop::positieY": 567.5,
+    "pion::prop::positieZ": 0.0,
+    "pion::prop::richting": "0 1 0",
+    "pion::prop::as": "-1 0 0",
+    "pion::prop::artikelnummer": "06.94035.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 400x350"
+   }
+  },
+  {
+   "path": "208bb2bc-a071-5d12-9583-61081e1f534c",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "208bb2bc-a071-5d12-9583-61081e1f534c",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       567.5,
+       355.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "208bb2bc-a071-5d12-9583-61081e1f534c",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       0.0,
+       350.0
+      ],
+      [
+       -200.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "208bb2bc-a071-5d12-9583-61081e1f534c",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "208bb2bc-a071-5d12-9583-61081e1f534c",
+   "attributes": {
+    "pion::prop::elementId": "c:1:2:400",
+    "pion::prop::zijde": "c",
+    "pion::prop::elementIndex": 1,
+    "pion::prop::laag": 2,
+    "pion::prop::elementMaat": 400,
+    "pion::prop::positieX": 0.0,
+    "pion::prop::positieY": 567.5,
+    "pion::prop::positieZ": 355.0,
+    "pion::prop::richting": "0 1 0",
+    "pion::prop::as": "-1 0 0",
+    "pion::prop::artikelnummer": "06.94035.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 400x350"
+   }
+  },
+  {
+   "path": "6b7ce21c-5aee-50e0-96a6-efe22f6435ce",
+   "children": {
+    "c:3:1:50:1:opening": "5bc4771d-3706-5941-9876-96fddd046d75"
+   }
+  },
+  {
+   "path": "6b7ce21c-5aee-50e0-96a6-efe22f6435ce",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "6b7ce21c-5aee-50e0-96a6-efe22f6435ce",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       567.5,
+       710.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "6b7ce21c-5aee-50e0-96a6-efe22f6435ce",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       0.0,
+       350.0
+      ],
+      [
+       -200.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "6b7ce21c-5aee-50e0-96a6-efe22f6435ce",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "6b7ce21c-5aee-50e0-96a6-efe22f6435ce",
+   "attributes": {
+    "pion::prop::elementId": "c:1:3:400",
+    "pion::prop::zijde": "c",
+    "pion::prop::elementIndex": 1,
+    "pion::prop::laag": 3,
+    "pion::prop::elementMaat": 400,
+    "pion::prop::positieX": 0.0,
+    "pion::prop::positieY": 567.5,
+    "pion::prop::positieZ": 710.0,
+    "pion::prop::richting": "0 1 0",
+    "pion::prop::as": "-1 0 0",
+    "pion::prop::artikelnummer": "06.94035.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 400x350"
+   }
+  },
+  {
+   "path": "5bc4771d-3706-5941-9876-96fddd046d75",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcOpeningElement",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcOpeningElement"
+    }
+   }
+  },
+  {
+   "path": "5bc4771d-3706-5941-9876-96fddd046d75",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       -1.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -106.0,
+       -115.0,
+       90.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "5bc4771d-3706-5941-9876-96fddd046d75",
+   "attributes": {
+    "pion::prop::aansluitingId": "c:3:1:50:1",
+    "pion::prop::diameter": 50.0,
+    "pion::prop::soort": "uitbreekpoort",
+    "pion::prop::naam": "c:3:1:50:1:opening"
+   }
+  },
+  {
+   "path": "ce69a64a-7550-579d-9ccc-8b44c7428efe",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "ce69a64a-7550-579d-9ccc-8b44c7428efe",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       -200.0,
+       367.5,
+       0.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "ce69a64a-7550-579d-9ccc-8b44c7428efe",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -315.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -315.0,
+       0.0,
+       0.0
+      ],
+      [
+       -315.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       0.0,
+       350.0
+      ],
+      [
+       -315.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "ce69a64a-7550-579d-9ccc-8b44c7428efe",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "ce69a64a-7550-579d-9ccc-8b44c7428efe",
+   "attributes": {
+    "pion::prop::elementId": "d:1:1:400",
+    "pion::prop::zijde": "d",
+    "pion::prop::elementIndex": 1,
+    "pion::prop::laag": 1,
+    "pion::prop::elementMaat": 400,
+    "pion::prop::positieX": -200.0,
+    "pion::prop::positieY": 367.5,
+    "pion::prop::positieZ": 0.0,
+    "pion::prop::richting": "-1 0 0",
+    "pion::prop::as": "0 -1 0",
+    "pion::prop::artikelnummer": "06.94035.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 400x350"
+   }
+  },
+  {
+   "path": "404c926a-4319-5f53-938c-ad5c838ac8ad",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "404c926a-4319-5f53-938c-ad5c838ac8ad",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -242.5,
+       0.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "404c926a-4319-5f53-938c-ad5c838ac8ad",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -325.0,
+       -115.0,
+       0.0
+      ],
+      [
+       440.0,
+       -115.0,
+       0.0
+      ],
+      [
+       440.0,
+       0.0,
+       0.0
+      ],
+      [
+       -325.0,
+       0.0,
+       0.0
+      ],
+      [
+       -325.0,
+       -115.0,
+       350.0
+      ],
+      [
+       440.0,
+       -115.0,
+       350.0
+      ],
+      [
+       440.0,
+       0.0,
+       350.0
+      ],
+      [
+       -325.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "404c926a-4319-5f53-938c-ad5c838ac8ad",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "404c926a-4319-5f53-938c-ad5c838ac8ad",
+   "attributes": {
+    "pion::prop::elementId": "d:2:1:650",
+    "pion::prop::zijde": "d",
+    "pion::prop::elementIndex": 2,
+    "pion::prop::laag": 1,
+    "pion::prop::elementMaat": 650,
+    "pion::prop::positieX": -200.0,
+    "pion::prop::positieY": -242.5,
+    "pion::prop::positieZ": 0.0,
+    "pion::prop::richting": "-1 0 0",
+    "pion::prop::as": "0 -1 0",
+    "pion::prop::artikelnummer": "06.96535.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 650x350"
+   }
+  },
+  {
+   "path": "28698155-258d-5fd0-bb1a-40e6f2241b7f",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "28698155-258d-5fd0-bb1a-40e6f2241b7f",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       -200.0,
+       367.5,
+       355.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "28698155-258d-5fd0-bb1a-40e6f2241b7f",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -315.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -315.0,
+       0.0,
+       0.0
+      ],
+      [
+       -315.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       0.0,
+       350.0
+      ],
+      [
+       -315.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "28698155-258d-5fd0-bb1a-40e6f2241b7f",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "28698155-258d-5fd0-bb1a-40e6f2241b7f",
+   "attributes": {
+    "pion::prop::elementId": "d:1:2:400",
+    "pion::prop::zijde": "d",
+    "pion::prop::elementIndex": 1,
+    "pion::prop::laag": 2,
+    "pion::prop::elementMaat": 400,
+    "pion::prop::positieX": -200.0,
+    "pion::prop::positieY": 367.5,
+    "pion::prop::positieZ": 355.0,
+    "pion::prop::richting": "-1 0 0",
+    "pion::prop::as": "0 -1 0",
+    "pion::prop::artikelnummer": "06.94035.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 400x350"
+   }
+  },
+  {
+   "path": "d5fb85fb-64b1-510e-9391-d7969c064ab0",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "d5fb85fb-64b1-510e-9391-d7969c064ab0",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -242.5,
+       355.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "d5fb85fb-64b1-510e-9391-d7969c064ab0",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -325.0,
+       -115.0,
+       0.0
+      ],
+      [
+       440.0,
+       -115.0,
+       0.0
+      ],
+      [
+       440.0,
+       0.0,
+       0.0
+      ],
+      [
+       -325.0,
+       0.0,
+       0.0
+      ],
+      [
+       -325.0,
+       -115.0,
+       350.0
+      ],
+      [
+       440.0,
+       -115.0,
+       350.0
+      ],
+      [
+       440.0,
+       0.0,
+       350.0
+      ],
+      [
+       -325.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "d5fb85fb-64b1-510e-9391-d7969c064ab0",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "d5fb85fb-64b1-510e-9391-d7969c064ab0",
+   "attributes": {
+    "pion::prop::elementId": "d:2:2:650",
+    "pion::prop::zijde": "d",
+    "pion::prop::elementIndex": 2,
+    "pion::prop::laag": 2,
+    "pion::prop::elementMaat": 650,
+    "pion::prop::positieX": -200.0,
+    "pion::prop::positieY": -242.5,
+    "pion::prop::positieZ": 355.0,
+    "pion::prop::richting": "-1 0 0",
+    "pion::prop::as": "0 -1 0",
+    "pion::prop::artikelnummer": "06.96535.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 650x350"
+   }
+  },
+  {
+   "path": "37dd4fd8-57df-5f3f-ad71-7879e3551686",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "37dd4fd8-57df-5f3f-ad71-7879e3551686",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       -200.0,
+       367.5,
+       710.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "37dd4fd8-57df-5f3f-ad71-7879e3551686",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -315.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       -115.0,
+       0.0
+      ],
+      [
+       200.0,
+       0.0,
+       0.0
+      ],
+      [
+       -315.0,
+       0.0,
+       0.0
+      ],
+      [
+       -315.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       -115.0,
+       350.0
+      ],
+      [
+       200.0,
+       0.0,
+       350.0
+      ],
+      [
+       -315.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "37dd4fd8-57df-5f3f-ad71-7879e3551686",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "37dd4fd8-57df-5f3f-ad71-7879e3551686",
+   "attributes": {
+    "pion::prop::elementId": "d:1:3:400",
+    "pion::prop::zijde": "d",
+    "pion::prop::elementIndex": 1,
+    "pion::prop::laag": 3,
+    "pion::prop::elementMaat": 400,
+    "pion::prop::positieX": -200.0,
+    "pion::prop::positieY": 367.5,
+    "pion::prop::positieZ": 710.0,
+    "pion::prop::richting": "-1 0 0",
+    "pion::prop::as": "0 -1 0",
+    "pion::prop::artikelnummer": "06.94035.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 400x350"
+   }
+  },
+  {
+   "path": "16299b7d-5b69-5ee8-bdd6-bac7ba8c226a",
+   "children": {
+    "d:3:2:160:1:opening": "48c7399c-714f-58c1-b30a-708f7ad56104"
+   }
+  },
+  {
+   "path": "16299b7d-5b69-5ee8-bdd6-bac7ba8c226a",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "16299b7d-5b69-5ee8-bdd6-bac7ba8c226a",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -242.5,
+       710.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "16299b7d-5b69-5ee8-bdd6-bac7ba8c226a",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -325.0,
+       -115.0,
+       0.0
+      ],
+      [
+       440.0,
+       -115.0,
+       0.0
+      ],
+      [
+       440.0,
+       0.0,
+       0.0
+      ],
+      [
+       -325.0,
+       0.0,
+       0.0
+      ],
+      [
+       -325.0,
+       -115.0,
+       350.0
+      ],
+      [
+       440.0,
+       -115.0,
+       350.0
+      ],
+      [
+       440.0,
+       0.0,
+       350.0
+      ],
+      [
+       -325.0,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "16299b7d-5b69-5ee8-bdd6-bac7ba8c226a",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "16299b7d-5b69-5ee8-bdd6-bac7ba8c226a",
+   "attributes": {
+    "pion::prop::elementId": "d:2:3:650",
+    "pion::prop::zijde": "d",
+    "pion::prop::elementIndex": 2,
+    "pion::prop::laag": 3,
+    "pion::prop::elementMaat": 650,
+    "pion::prop::positieX": -200.0,
+    "pion::prop::positieY": -242.5,
+    "pion::prop::positieZ": 710.0,
+    "pion::prop::richting": "-1 0 0",
+    "pion::prop::as": "0 -1 0",
+    "pion::prop::artikelnummer": "06.96535.3305",
+    "pion::prop::uitbreekpoorten": "3xØ50 + 1xØ110 + 1xØ160",
+    "pion::prop::naam": "Wanddeel PP 650x350"
+   }
+  },
+  {
+   "path": "48c7399c-714f-58c1-b30a-708f7ad56104",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcOpeningElement",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcOpeningElement"
+    }
+   }
+  },
+  {
+   "path": "48c7399c-714f-58c1-b30a-708f7ad56104",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       -1.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       172.0,
+       -115.0,
+       151.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "48c7399c-714f-58c1-b30a-708f7ad56104",
+   "attributes": {
+    "pion::prop::aansluitingId": "d:3:2:160:1",
+    "pion::prop::diameter": 160.0,
+    "pion::prop::soort": "uitbreekpoort",
+    "pion::prop::naam": "d:3:2:160:1:opening"
+   }
+  },
+  {
+   "path": "9c065411-494c-5f2d-9a9f-7e08fcf375e7",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "9c065411-494c-5f2d-9a9f-7e08fcf375e7",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       200.0,
+       -125.0,
+       0.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "9c065411-494c-5f2d-9a9f-7e08fcf375e7",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -42.5,
+       -115.0,
+       0.0
+      ],
+      [
+       42.5,
+       -115.0,
+       0.0
+      ],
+      [
+       42.5,
+       0.0,
+       0.0
+      ],
+      [
+       -42.5,
+       0.0,
+       0.0
+      ],
+      [
+       -42.5,
+       -115.0,
+       350.0
+      ],
+      [
+       42.5,
+       -115.0,
+       350.0
+      ],
+      [
+       42.5,
+       0.0,
+       350.0
+      ],
+      [
+       -42.5,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "9c065411-494c-5f2d-9a9f-7e08fcf375e7",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "9c065411-494c-5f2d-9a9f-7e08fcf375e7",
+   "attributes": {
+    "pion::prop::elementId": "b:1-2:1:koppel",
+    "pion::prop::zijde": "b",
+    "pion::prop::laag": 1,
+    "pion::prop::tussenElementen": "b:1:1:400 | b:2:1:650",
+    "pion::prop::breedte": 85.0,
+    "pion::prop::hoogte": 350.0,
+    "pion::prop::naam": "Koppelstuk 85",
+    "pion::prop::artikelnummer": "n.t.b. (onderdeel van de wanddeel-koppeling)"
+   }
+  },
+  {
+   "path": "5fb47a10-37a4-5cd5-b5f9-ccfcc79b7f59",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "5fb47a10-37a4-5cd5-b5f9-ccfcc79b7f59",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       200.0,
+       -125.0,
+       355.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "5fb47a10-37a4-5cd5-b5f9-ccfcc79b7f59",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -42.5,
+       -115.0,
+       0.0
+      ],
+      [
+       42.5,
+       -115.0,
+       0.0
+      ],
+      [
+       42.5,
+       0.0,
+       0.0
+      ],
+      [
+       -42.5,
+       0.0,
+       0.0
+      ],
+      [
+       -42.5,
+       -115.0,
+       350.0
+      ],
+      [
+       42.5,
+       -115.0,
+       350.0
+      ],
+      [
+       42.5,
+       0.0,
+       350.0
+      ],
+      [
+       -42.5,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "5fb47a10-37a4-5cd5-b5f9-ccfcc79b7f59",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "5fb47a10-37a4-5cd5-b5f9-ccfcc79b7f59",
+   "attributes": {
+    "pion::prop::elementId": "b:1-2:2:koppel",
+    "pion::prop::zijde": "b",
+    "pion::prop::laag": 2,
+    "pion::prop::tussenElementen": "b:1:2:400 | b:2:2:650",
+    "pion::prop::breedte": 85.0,
+    "pion::prop::hoogte": 350.0,
+    "pion::prop::naam": "Koppelstuk 85",
+    "pion::prop::artikelnummer": "n.t.b. (onderdeel van de wanddeel-koppeling)"
+   }
+  },
+  {
+   "path": "4850caee-b401-5617-9f38-b57911cc7317",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "4850caee-b401-5617-9f38-b57911cc7317",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       200.0,
+       -125.0,
+       710.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "4850caee-b401-5617-9f38-b57911cc7317",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -42.5,
+       -115.0,
+       0.0
+      ],
+      [
+       42.5,
+       -115.0,
+       0.0
+      ],
+      [
+       42.5,
+       0.0,
+       0.0
+      ],
+      [
+       -42.5,
+       0.0,
+       0.0
+      ],
+      [
+       -42.5,
+       -115.0,
+       350.0
+      ],
+      [
+       42.5,
+       -115.0,
+       350.0
+      ],
+      [
+       42.5,
+       0.0,
+       350.0
+      ],
+      [
+       -42.5,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "4850caee-b401-5617-9f38-b57911cc7317",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "4850caee-b401-5617-9f38-b57911cc7317",
+   "attributes": {
+    "pion::prop::elementId": "b:1-2:3:koppel",
+    "pion::prop::zijde": "b",
+    "pion::prop::laag": 3,
+    "pion::prop::tussenElementen": "b:1:3:400 | b:2:3:650",
+    "pion::prop::breedte": 85.0,
+    "pion::prop::hoogte": 350.0,
+    "pion::prop::naam": "Koppelstuk 85",
+    "pion::prop::artikelnummer": "n.t.b. (onderdeel van de wanddeel-koppeling)"
+   }
+  },
+  {
+   "path": "f7675d20-2d54-5c45-a7dd-f516a0fe6238",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "f7675d20-2d54-5c45-a7dd-f516a0fe6238",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       -200.0,
+       125.0,
+       0.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "f7675d20-2d54-5c45-a7dd-f516a0fe6238",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -42.5,
+       -115.0,
+       0.0
+      ],
+      [
+       42.5,
+       -115.0,
+       0.0
+      ],
+      [
+       42.5,
+       0.0,
+       0.0
+      ],
+      [
+       -42.5,
+       0.0,
+       0.0
+      ],
+      [
+       -42.5,
+       -115.0,
+       350.0
+      ],
+      [
+       42.5,
+       -115.0,
+       350.0
+      ],
+      [
+       42.5,
+       0.0,
+       350.0
+      ],
+      [
+       -42.5,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "f7675d20-2d54-5c45-a7dd-f516a0fe6238",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "f7675d20-2d54-5c45-a7dd-f516a0fe6238",
+   "attributes": {
+    "pion::prop::elementId": "d:1-2:1:koppel",
+    "pion::prop::zijde": "d",
+    "pion::prop::laag": 1,
+    "pion::prop::tussenElementen": "d:1:1:400 | d:2:1:650",
+    "pion::prop::breedte": 85.0,
+    "pion::prop::hoogte": 350.0,
+    "pion::prop::naam": "Koppelstuk 85",
+    "pion::prop::artikelnummer": "n.t.b. (onderdeel van de wanddeel-koppeling)"
+   }
+  },
+  {
+   "path": "6af3995c-f146-5cad-b052-342299f8c998",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "6af3995c-f146-5cad-b052-342299f8c998",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       -200.0,
+       125.0,
+       355.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "6af3995c-f146-5cad-b052-342299f8c998",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -42.5,
+       -115.0,
+       0.0
+      ],
+      [
+       42.5,
+       -115.0,
+       0.0
+      ],
+      [
+       42.5,
+       0.0,
+       0.0
+      ],
+      [
+       -42.5,
+       0.0,
+       0.0
+      ],
+      [
+       -42.5,
+       -115.0,
+       350.0
+      ],
+      [
+       42.5,
+       -115.0,
+       350.0
+      ],
+      [
+       42.5,
+       0.0,
+       350.0
+      ],
+      [
+       -42.5,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "6af3995c-f146-5cad-b052-342299f8c998",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "6af3995c-f146-5cad-b052-342299f8c998",
+   "attributes": {
+    "pion::prop::elementId": "d:1-2:2:koppel",
+    "pion::prop::zijde": "d",
+    "pion::prop::laag": 2,
+    "pion::prop::tussenElementen": "d:1:2:400 | d:2:2:650",
+    "pion::prop::breedte": 85.0,
+    "pion::prop::hoogte": 350.0,
+    "pion::prop::naam": "Koppelstuk 85",
+    "pion::prop::artikelnummer": "n.t.b. (onderdeel van de wanddeel-koppeling)"
+   }
+  },
+  {
+   "path": "7454b6a3-6937-58d6-8347-b833a1b9ffef",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "7454b6a3-6937-58d6-8347-b833a1b9ffef",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       -200.0,
+       125.0,
+       710.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "7454b6a3-6937-58d6-8347-b833a1b9ffef",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -42.5,
+       -115.0,
+       0.0
+      ],
+      [
+       42.5,
+       -115.0,
+       0.0
+      ],
+      [
+       42.5,
+       0.0,
+       0.0
+      ],
+      [
+       -42.5,
+       0.0,
+       0.0
+      ],
+      [
+       -42.5,
+       -115.0,
+       350.0
+      ],
+      [
+       42.5,
+       -115.0,
+       350.0
+      ],
+      [
+       42.5,
+       0.0,
+       350.0
+      ],
+      [
+       -42.5,
+       0.0,
+       350.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "7454b6a3-6937-58d6-8347-b833a1b9ffef",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.12,
+     0.12,
+     0.13
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.12,
+       0.12,
+       0.13,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.7
+     }
+    }
+   }
+  },
+  {
+   "path": "7454b6a3-6937-58d6-8347-b833a1b9ffef",
+   "attributes": {
+    "pion::prop::elementId": "d:1-2:3:koppel",
+    "pion::prop::zijde": "d",
+    "pion::prop::laag": 3,
+    "pion::prop::tussenElementen": "d:1:3:400 | d:2:3:650",
+    "pion::prop::breedte": 85.0,
+    "pion::prop::hoogte": 350.0,
+    "pion::prop::naam": "Koppelstuk 85",
+    "pion::prop::artikelnummer": "n.t.b. (onderdeel van de wanddeel-koppeling)"
+   }
+  },
+  {
+   "path": "1077bd4d-fdd7-5b8b-8442-520741974a7f",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcPlate",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcPlate"
+    }
+   }
+  },
+  {
+   "path": "1077bd4d-fdd7-5b8b-8442-520741974a7f",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       -10.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "1077bd4d-fdd7-5b8b-8442-520741974a7f",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -315.0,
+       -682.5,
+       0.0
+      ],
+      [
+       315.0,
+       -682.5,
+       0.0
+      ],
+      [
+       315.0,
+       682.5,
+       0.0
+      ],
+      [
+       -315.0,
+       682.5,
+       0.0
+      ],
+      [
+       -315.0,
+       -682.5,
+       10.0
+      ],
+      [
+       315.0,
+       -682.5,
+       10.0
+      ],
+      [
+       315.0,
+       682.5,
+       10.0
+      ],
+      [
+       -315.0,
+       682.5,
+       10.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "1077bd4d-fdd7-5b8b-8442-520741974a7f",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.25,
+     0.25,
+     0.27
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.25,
+       0.25,
+       0.27,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.8
+     }
+    }
+   }
+  },
+  {
+   "path": "1077bd4d-fdd7-5b8b-8442-520741974a7f",
+   "attributes": {
+    "pion::prop::dikte": 10.0,
+    "pion::prop::naam": "Bodemplaat PE"
+   }
+  },
+  {
+   "path": "2d03e0cd-abeb-5cb3-a009-e10cd6acc713",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcCovering",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcCovering"
+    }
+   }
+  },
+  {
+   "path": "2d03e0cd-abeb-5cb3-a009-e10cd6acc713",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1050.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "2d03e0cd-abeb-5cb3-a009-e10cd6acc713",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -315.0,
+       -682.5,
+       0.0
+      ],
+      [
+       315.0,
+       -682.5,
+       0.0
+      ],
+      [
+       315.0,
+       682.5,
+       0.0
+      ],
+      [
+       -315.0,
+       682.5,
+       0.0
+      ],
+      [
+       -315.0,
+       -682.5,
+       100.0
+      ],
+      [
+       315.0,
+       -682.5,
+       100.0
+      ],
+      [
+       315.0,
+       682.5,
+       100.0
+      ],
+      [
+       -315.0,
+       682.5,
+       100.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "2d03e0cd-abeb-5cb3-a009-e10cd6acc713",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.62,
+     0.62,
+     0.6
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.62,
+       0.62,
+       0.6,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.9
+     }
+    }
+   }
+  },
+  {
+   "path": "2d03e0cd-abeb-5cb3-a009-e10cd6acc713",
+   "attributes": {
+    "pion::prop::deksel": "betonvulling",
+    "pion::prop::belastingsklasse": "D400",
+    "pion::prop::dikte": 100.0,
+    "pion::prop::naam": "Deksel betongevuld met frame (B125 t/m D400)",
+    "pion::prop::artikelnummer": "06.50012.0192"
+   }
+  },
+  {
+   "path": "1c8ddb11-9380-5733-a745-7f3b0cf00e2d",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcMember",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMember"
+    }
+   }
+  },
+  {
+   "path": "1c8ddb11-9380-5733-a745-7f3b0cf00e2d",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       -662.5,
+       1050.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "1c8ddb11-9380-5733-a745-7f3b0cf00e2d",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -315.0,
+       -20.0,
+       0.0
+      ],
+      [
+       315.0,
+       -20.0,
+       0.0
+      ],
+      [
+       315.0,
+       20.0,
+       0.0
+      ],
+      [
+       -315.0,
+       20.0,
+       0.0
+      ],
+      [
+       -315.0,
+       -20.0,
+       100.0
+      ],
+      [
+       315.0,
+       -20.0,
+       100.0
+      ],
+      [
+       315.0,
+       20.0,
+       100.0
+      ],
+      [
+       -315.0,
+       20.0,
+       100.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "1c8ddb11-9380-5733-a745-7f3b0cf00e2d",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.72,
+     0.73,
+     0.75
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.72,
+       0.73,
+       0.75,
+       1.0
+      ],
+      "metallicFactor": 0.8,
+      "roughnessFactor": 0.4
+     }
+    }
+   }
+  },
+  {
+   "path": "1c8ddb11-9380-5733-a745-7f3b0cf00e2d",
+   "attributes": {
+    "pion::prop::naam": "Dekselframe verzinkt staal"
+   }
+  },
+  {
+   "path": "bba8f0b6-e172-5e56-b4e9-ff7b9a6ea9b5",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcMember",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMember"
+    }
+   }
+  },
+  {
+   "path": "bba8f0b6-e172-5e56-b4e9-ff7b9a6ea9b5",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       662.5,
+       1050.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "bba8f0b6-e172-5e56-b4e9-ff7b9a6ea9b5",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -315.0,
+       -20.0,
+       0.0
+      ],
+      [
+       315.0,
+       -20.0,
+       0.0
+      ],
+      [
+       315.0,
+       20.0,
+       0.0
+      ],
+      [
+       -315.0,
+       20.0,
+       0.0
+      ],
+      [
+       -315.0,
+       -20.0,
+       100.0
+      ],
+      [
+       315.0,
+       -20.0,
+       100.0
+      ],
+      [
+       315.0,
+       20.0,
+       100.0
+      ],
+      [
+       -315.0,
+       20.0,
+       100.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "bba8f0b6-e172-5e56-b4e9-ff7b9a6ea9b5",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.72,
+     0.73,
+     0.75
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.72,
+       0.73,
+       0.75,
+       1.0
+      ],
+      "metallicFactor": 0.8,
+      "roughnessFactor": 0.4
+     }
+    }
+   }
+  },
+  {
+   "path": "bba8f0b6-e172-5e56-b4e9-ff7b9a6ea9b5",
+   "attributes": {
+    "pion::prop::naam": "Dekselframe verzinkt staal"
+   }
+  },
+  {
+   "path": "cc802733-f98c-50b6-9f75-86a2d701f318",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcMember",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMember"
+    }
+   }
+  },
+  {
+   "path": "cc802733-f98c-50b6-9f75-86a2d701f318",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       295.0,
+       0.0,
+       1050.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "cc802733-f98c-50b6-9f75-86a2d701f318",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -642.5,
+       -20.0,
+       0.0
+      ],
+      [
+       642.5,
+       -20.0,
+       0.0
+      ],
+      [
+       642.5,
+       20.0,
+       0.0
+      ],
+      [
+       -642.5,
+       20.0,
+       0.0
+      ],
+      [
+       -642.5,
+       -20.0,
+       100.0
+      ],
+      [
+       642.5,
+       -20.0,
+       100.0
+      ],
+      [
+       642.5,
+       20.0,
+       100.0
+      ],
+      [
+       -642.5,
+       20.0,
+       100.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "cc802733-f98c-50b6-9f75-86a2d701f318",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.72,
+     0.73,
+     0.75
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.72,
+       0.73,
+       0.75,
+       1.0
+      ],
+      "metallicFactor": 0.8,
+      "roughnessFactor": 0.4
+     }
+    }
+   }
+  },
+  {
+   "path": "cc802733-f98c-50b6-9f75-86a2d701f318",
+   "attributes": {
+    "pion::prop::naam": "Dekselframe verzinkt staal"
+   }
+  },
+  {
+   "path": "6727535a-8711-5d59-b124-fb24826e7db0",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcMember",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMember"
+    }
+   }
+  },
+  {
+   "path": "6727535a-8711-5d59-b124-fb24826e7db0",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       -295.0,
+       0.0,
+       1050.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "6727535a-8711-5d59-b124-fb24826e7db0",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -642.5,
+       -20.0,
+       0.0
+      ],
+      [
+       642.5,
+       -20.0,
+       0.0
+      ],
+      [
+       642.5,
+       20.0,
+       0.0
+      ],
+      [
+       -642.5,
+       20.0,
+       0.0
+      ],
+      [
+       -642.5,
+       -20.0,
+       100.0
+      ],
+      [
+       642.5,
+       -20.0,
+       100.0
+      ],
+      [
+       642.5,
+       20.0,
+       100.0
+      ],
+      [
+       -642.5,
+       20.0,
+       100.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "6727535a-8711-5d59-b124-fb24826e7db0",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.72,
+     0.73,
+     0.75
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.72,
+       0.73,
+       0.75,
+       1.0
+      ],
+      "metallicFactor": 0.8,
+      "roughnessFactor": 0.4
+     }
+    }
+   }
+  },
+  {
+   "path": "6727535a-8711-5d59-b124-fb24826e7db0",
+   "attributes": {
+    "pion::prop::naam": "Dekselframe verzinkt staal"
+   }
+  },
+  {
+   "path": "fa115fbe-6530-5a37-9d2a-f42eeb3b27b5",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcDiscreteAccessory",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcDiscreteAccessory"
+    }
+   }
+  },
+  {
+   "path": "fa115fbe-6530-5a37-9d2a-f42eeb3b27b5",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       -625.0,
+       315.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "fa115fbe-6530-5a37-9d2a-f42eeb3b27b5",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -200.0,
+       -5.0,
+       0.0
+      ],
+      [
+       200.0,
+       -5.0,
+       0.0
+      ],
+      [
+       200.0,
+       5.0,
+       0.0
+      ],
+      [
+       -200.0,
+       5.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -5.0,
+       40.0
+      ],
+      [
+       200.0,
+       -5.0,
+       40.0
+      ],
+      [
+       200.0,
+       5.0,
+       40.0
+      ],
+      [
+       -200.0,
+       5.0,
+       40.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "fa115fbe-6530-5a37-9d2a-f42eeb3b27b5",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.1,
+     0.1,
+     0.1
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.1,
+       0.1,
+       0.1,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.8
+     }
+    }
+   }
+  },
+  {
+   "path": "fa115fbe-6530-5a37-9d2a-f42eeb3b27b5",
+   "attributes": {
+    "pion::prop::zijde": "a",
+    "pion::prop::laag": 1,
+    "pion::prop::lengte": 400,
+    "pion::prop::naam": "HDPE/PE afdichtstrook"
+   }
+  },
+  {
+   "path": "b194fd64-9beb-563f-ad89-70c68a355a9b",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcDiscreteAccessory",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcDiscreteAccessory"
+    }
+   }
+  },
+  {
+   "path": "b194fd64-9beb-563f-ad89-70c68a355a9b",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       -625.0,
+       670.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "b194fd64-9beb-563f-ad89-70c68a355a9b",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -200.0,
+       -5.0,
+       0.0
+      ],
+      [
+       200.0,
+       -5.0,
+       0.0
+      ],
+      [
+       200.0,
+       5.0,
+       0.0
+      ],
+      [
+       -200.0,
+       5.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -5.0,
+       40.0
+      ],
+      [
+       200.0,
+       -5.0,
+       40.0
+      ],
+      [
+       200.0,
+       5.0,
+       40.0
+      ],
+      [
+       -200.0,
+       5.0,
+       40.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "b194fd64-9beb-563f-ad89-70c68a355a9b",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.1,
+     0.1,
+     0.1
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.1,
+       0.1,
+       0.1,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.8
+     }
+    }
+   }
+  },
+  {
+   "path": "b194fd64-9beb-563f-ad89-70c68a355a9b",
+   "attributes": {
+    "pion::prop::zijde": "a",
+    "pion::prop::laag": 2,
+    "pion::prop::lengte": 400,
+    "pion::prop::naam": "HDPE/PE afdichtstrook"
+   }
+  },
+  {
+   "path": "897abd9a-353c-5dd7-8bef-4161caa675b0",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcDiscreteAccessory",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcDiscreteAccessory"
+    }
+   }
+  },
+  {
+   "path": "897abd9a-353c-5dd7-8bef-4161caa675b0",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       -625.0,
+       1025.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "897abd9a-353c-5dd7-8bef-4161caa675b0",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -200.0,
+       -5.0,
+       0.0
+      ],
+      [
+       200.0,
+       -5.0,
+       0.0
+      ],
+      [
+       200.0,
+       5.0,
+       0.0
+      ],
+      [
+       -200.0,
+       5.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -5.0,
+       40.0
+      ],
+      [
+       200.0,
+       -5.0,
+       40.0
+      ],
+      [
+       200.0,
+       5.0,
+       40.0
+      ],
+      [
+       -200.0,
+       5.0,
+       40.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "897abd9a-353c-5dd7-8bef-4161caa675b0",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.1,
+     0.1,
+     0.1
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.1,
+       0.1,
+       0.1,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.8
+     }
+    }
+   }
+  },
+  {
+   "path": "897abd9a-353c-5dd7-8bef-4161caa675b0",
+   "attributes": {
+    "pion::prop::zijde": "a",
+    "pion::prop::laag": 3,
+    "pion::prop::lengte": 400,
+    "pion::prop::naam": "HDPE/PE afdichtstrook"
+   }
+  },
+  {
+   "path": "f74d7f73-21f0-5180-bec0-c024416b5390",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcMember",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMember"
+    }
+   }
+  },
+  {
+   "path": "f74d7f73-21f0-5180-bec0-c024416b5390",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       257.5,
+       0.0,
+       315.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "f74d7f73-21f0-5180-bec0-c024416b5390",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -610.0,
+       -20.0,
+       0.0
+      ],
+      [
+       610.0,
+       -20.0,
+       0.0
+      ],
+      [
+       610.0,
+       20.0,
+       0.0
+      ],
+      [
+       -610.0,
+       20.0,
+       0.0
+      ],
+      [
+       -610.0,
+       -20.0,
+       40.0
+      ],
+      [
+       610.0,
+       -20.0,
+       40.0
+      ],
+      [
+       610.0,
+       20.0,
+       40.0
+      ],
+      [
+       -610.0,
+       20.0,
+       40.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "f74d7f73-21f0-5180-bec0-c024416b5390",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.72,
+     0.73,
+     0.75
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.72,
+       0.73,
+       0.75,
+       1.0
+      ],
+      "metallicFactor": 0.8,
+      "roughnessFactor": 0.4
+     }
+    }
+   }
+  },
+  {
+   "path": "f74d7f73-21f0-5180-bec0-c024416b5390",
+   "attributes": {
+    "pion::prop::zijde": "b",
+    "pion::prop::laag": 1,
+    "pion::prop::lengte": 1220,
+    "pion::prop::naam": "Verstevigingskoker verzinkt staal"
+   }
+  },
+  {
+   "path": "dadf727f-f791-5d9a-a270-defdc0d76875",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcMember",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMember"
+    }
+   }
+  },
+  {
+   "path": "dadf727f-f791-5d9a-a270-defdc0d76875",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       257.5,
+       0.0,
+       670.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "dadf727f-f791-5d9a-a270-defdc0d76875",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -610.0,
+       -20.0,
+       0.0
+      ],
+      [
+       610.0,
+       -20.0,
+       0.0
+      ],
+      [
+       610.0,
+       20.0,
+       0.0
+      ],
+      [
+       -610.0,
+       20.0,
+       0.0
+      ],
+      [
+       -610.0,
+       -20.0,
+       40.0
+      ],
+      [
+       610.0,
+       -20.0,
+       40.0
+      ],
+      [
+       610.0,
+       20.0,
+       40.0
+      ],
+      [
+       -610.0,
+       20.0,
+       40.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "dadf727f-f791-5d9a-a270-defdc0d76875",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.72,
+     0.73,
+     0.75
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.72,
+       0.73,
+       0.75,
+       1.0
+      ],
+      "metallicFactor": 0.8,
+      "roughnessFactor": 0.4
+     }
+    }
+   }
+  },
+  {
+   "path": "dadf727f-f791-5d9a-a270-defdc0d76875",
+   "attributes": {
+    "pion::prop::zijde": "b",
+    "pion::prop::laag": 2,
+    "pion::prop::lengte": 1220,
+    "pion::prop::naam": "Verstevigingskoker verzinkt staal"
+   }
+  },
+  {
+   "path": "b9ad37b9-c074-5405-b2d4-15e58fa40bc8",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcMember",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMember"
+    }
+   }
+  },
+  {
+   "path": "b9ad37b9-c074-5405-b2d4-15e58fa40bc8",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       257.5,
+       0.0,
+       1025.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "b9ad37b9-c074-5405-b2d4-15e58fa40bc8",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -610.0,
+       -20.0,
+       0.0
+      ],
+      [
+       610.0,
+       -20.0,
+       0.0
+      ],
+      [
+       610.0,
+       20.0,
+       0.0
+      ],
+      [
+       -610.0,
+       20.0,
+       0.0
+      ],
+      [
+       -610.0,
+       -20.0,
+       40.0
+      ],
+      [
+       610.0,
+       -20.0,
+       40.0
+      ],
+      [
+       610.0,
+       20.0,
+       40.0
+      ],
+      [
+       -610.0,
+       20.0,
+       40.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "b9ad37b9-c074-5405-b2d4-15e58fa40bc8",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.72,
+     0.73,
+     0.75
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.72,
+       0.73,
+       0.75,
+       1.0
+      ],
+      "metallicFactor": 0.8,
+      "roughnessFactor": 0.4
+     }
+    }
+   }
+  },
+  {
+   "path": "b9ad37b9-c074-5405-b2d4-15e58fa40bc8",
+   "attributes": {
+    "pion::prop::zijde": "b",
+    "pion::prop::laag": 3,
+    "pion::prop::lengte": 1220,
+    "pion::prop::naam": "Verstevigingskoker verzinkt staal"
+   }
+  },
+  {
+   "path": "04561037-4d82-5b7a-95a9-fc751f99a845",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcDiscreteAccessory",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcDiscreteAccessory"
+    }
+   }
+  },
+  {
+   "path": "04561037-4d82-5b7a-95a9-fc751f99a845",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       625.0,
+       315.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "04561037-4d82-5b7a-95a9-fc751f99a845",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -200.0,
+       -5.0,
+       0.0
+      ],
+      [
+       200.0,
+       -5.0,
+       0.0
+      ],
+      [
+       200.0,
+       5.0,
+       0.0
+      ],
+      [
+       -200.0,
+       5.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -5.0,
+       40.0
+      ],
+      [
+       200.0,
+       -5.0,
+       40.0
+      ],
+      [
+       200.0,
+       5.0,
+       40.0
+      ],
+      [
+       -200.0,
+       5.0,
+       40.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "04561037-4d82-5b7a-95a9-fc751f99a845",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.1,
+     0.1,
+     0.1
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.1,
+       0.1,
+       0.1,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.8
+     }
+    }
+   }
+  },
+  {
+   "path": "04561037-4d82-5b7a-95a9-fc751f99a845",
+   "attributes": {
+    "pion::prop::zijde": "c",
+    "pion::prop::laag": 1,
+    "pion::prop::lengte": 400,
+    "pion::prop::naam": "HDPE/PE afdichtstrook"
+   }
+  },
+  {
+   "path": "18317c39-00b3-525f-89e3-bb5851010ba8",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcDiscreteAccessory",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcDiscreteAccessory"
+    }
+   }
+  },
+  {
+   "path": "18317c39-00b3-525f-89e3-bb5851010ba8",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       625.0,
+       670.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "18317c39-00b3-525f-89e3-bb5851010ba8",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -200.0,
+       -5.0,
+       0.0
+      ],
+      [
+       200.0,
+       -5.0,
+       0.0
+      ],
+      [
+       200.0,
+       5.0,
+       0.0
+      ],
+      [
+       -200.0,
+       5.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -5.0,
+       40.0
+      ],
+      [
+       200.0,
+       -5.0,
+       40.0
+      ],
+      [
+       200.0,
+       5.0,
+       40.0
+      ],
+      [
+       -200.0,
+       5.0,
+       40.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "18317c39-00b3-525f-89e3-bb5851010ba8",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.1,
+     0.1,
+     0.1
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.1,
+       0.1,
+       0.1,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.8
+     }
+    }
+   }
+  },
+  {
+   "path": "18317c39-00b3-525f-89e3-bb5851010ba8",
+   "attributes": {
+    "pion::prop::zijde": "c",
+    "pion::prop::laag": 2,
+    "pion::prop::lengte": 400,
+    "pion::prop::naam": "HDPE/PE afdichtstrook"
+   }
+  },
+  {
+   "path": "7f30d25d-6da1-5a0a-a202-aa1045980a87",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcDiscreteAccessory",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcDiscreteAccessory"
+    }
+   }
+  },
+  {
+   "path": "7f30d25d-6da1-5a0a-a202-aa1045980a87",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       0.0,
+       625.0,
+       1025.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "7f30d25d-6da1-5a0a-a202-aa1045980a87",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -200.0,
+       -5.0,
+       0.0
+      ],
+      [
+       200.0,
+       -5.0,
+       0.0
+      ],
+      [
+       200.0,
+       5.0,
+       0.0
+      ],
+      [
+       -200.0,
+       5.0,
+       0.0
+      ],
+      [
+       -200.0,
+       -5.0,
+       40.0
+      ],
+      [
+       200.0,
+       -5.0,
+       40.0
+      ],
+      [
+       200.0,
+       5.0,
+       40.0
+      ],
+      [
+       -200.0,
+       5.0,
+       40.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "7f30d25d-6da1-5a0a-a202-aa1045980a87",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.1,
+     0.1,
+     0.1
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.1,
+       0.1,
+       0.1,
+       1.0
+      ],
+      "metallicFactor": 0.0,
+      "roughnessFactor": 0.8
+     }
+    }
+   }
+  },
+  {
+   "path": "7f30d25d-6da1-5a0a-a202-aa1045980a87",
+   "attributes": {
+    "pion::prop::zijde": "c",
+    "pion::prop::laag": 3,
+    "pion::prop::lengte": 400,
+    "pion::prop::naam": "HDPE/PE afdichtstrook"
+   }
+  },
+  {
+   "path": "b9e83b45-4ce8-5d52-a7c9-9809e39f9676",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcMember",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMember"
+    }
+   }
+  },
+  {
+   "path": "b9e83b45-4ce8-5d52-a7c9-9809e39f9676",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       -257.5,
+       0.0,
+       315.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "b9e83b45-4ce8-5d52-a7c9-9809e39f9676",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -610.0,
+       -20.0,
+       0.0
+      ],
+      [
+       610.0,
+       -20.0,
+       0.0
+      ],
+      [
+       610.0,
+       20.0,
+       0.0
+      ],
+      [
+       -610.0,
+       20.0,
+       0.0
+      ],
+      [
+       -610.0,
+       -20.0,
+       40.0
+      ],
+      [
+       610.0,
+       -20.0,
+       40.0
+      ],
+      [
+       610.0,
+       20.0,
+       40.0
+      ],
+      [
+       -610.0,
+       20.0,
+       40.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "b9e83b45-4ce8-5d52-a7c9-9809e39f9676",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.72,
+     0.73,
+     0.75
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.72,
+       0.73,
+       0.75,
+       1.0
+      ],
+      "metallicFactor": 0.8,
+      "roughnessFactor": 0.4
+     }
+    }
+   }
+  },
+  {
+   "path": "b9e83b45-4ce8-5d52-a7c9-9809e39f9676",
+   "attributes": {
+    "pion::prop::zijde": "d",
+    "pion::prop::laag": 1,
+    "pion::prop::lengte": 1220,
+    "pion::prop::naam": "Verstevigingskoker verzinkt staal"
+   }
+  },
+  {
+   "path": "45032888-ade0-512c-8193-10f1d259e68a",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcMember",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMember"
+    }
+   }
+  },
+  {
+   "path": "45032888-ade0-512c-8193-10f1d259e68a",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       -257.5,
+       0.0,
+       670.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "45032888-ade0-512c-8193-10f1d259e68a",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -610.0,
+       -20.0,
+       0.0
+      ],
+      [
+       610.0,
+       -20.0,
+       0.0
+      ],
+      [
+       610.0,
+       20.0,
+       0.0
+      ],
+      [
+       -610.0,
+       20.0,
+       0.0
+      ],
+      [
+       -610.0,
+       -20.0,
+       40.0
+      ],
+      [
+       610.0,
+       -20.0,
+       40.0
+      ],
+      [
+       610.0,
+       20.0,
+       40.0
+      ],
+      [
+       -610.0,
+       20.0,
+       40.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "45032888-ade0-512c-8193-10f1d259e68a",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.72,
+     0.73,
+     0.75
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.72,
+       0.73,
+       0.75,
+       1.0
+      ],
+      "metallicFactor": 0.8,
+      "roughnessFactor": 0.4
+     }
+    }
+   }
+  },
+  {
+   "path": "45032888-ade0-512c-8193-10f1d259e68a",
+   "attributes": {
+    "pion::prop::zijde": "d",
+    "pion::prop::laag": 2,
+    "pion::prop::lengte": 1220,
+    "pion::prop::naam": "Verstevigingskoker verzinkt staal"
+   }
+  },
+  {
+   "path": "a7802527-c926-5b77-9fc2-c7dd6bf2ef4e",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcMember",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcMember"
+    }
+   }
+  },
+  {
+   "path": "a7802527-c926-5b77-9fc2-c7dd6bf2ef4e",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       1.0,
+       0.0
+      ],
+      [
+       -257.5,
+       0.0,
+       1025.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "a7802527-c926-5b77-9fc2-c7dd6bf2ef4e",
+   "attributes": {
+    "usd::usdgeom::mesh": {
+     "points": [
+      [
+       -610.0,
+       -20.0,
+       0.0
+      ],
+      [
+       610.0,
+       -20.0,
+       0.0
+      ],
+      [
+       610.0,
+       20.0,
+       0.0
+      ],
+      [
+       -610.0,
+       20.0,
+       0.0
+      ],
+      [
+       -610.0,
+       -20.0,
+       40.0
+      ],
+      [
+       610.0,
+       -20.0,
+       40.0
+      ],
+      [
+       610.0,
+       20.0,
+       40.0
+      ],
+      [
+       -610.0,
+       20.0,
+       40.0
+      ]
+     ],
+     "faceVertexIndices": [
+      0,
+      3,
+      2,
+      0,
+      2,
+      1,
+      4,
+      5,
+      6,
+      4,
+      6,
+      7,
+      0,
+      1,
+      5,
+      0,
+      5,
+      4,
+      1,
+      2,
+      6,
+      1,
+      6,
+      5,
+      2,
+      3,
+      7,
+      2,
+      7,
+      6,
+      3,
+      0,
+      4,
+      3,
+      4,
+      7
+     ]
+    }
+   }
+  },
+  {
+   "path": "a7802527-c926-5b77-9fc2-c7dd6bf2ef4e",
+   "attributes": {
+    "bsi::ifc::presentation::diffuseColor": [
+     0.72,
+     0.73,
+     0.75
+    ],
+    "bsi::ifc::presentation::opacity": 1.0,
+    "gltf::material": {
+     "pbrMetallicRoughness": {
+      "baseColorFactor": [
+       0.72,
+       0.73,
+       0.75,
+       1.0
+      ],
+      "metallicFactor": 0.8,
+      "roughnessFactor": 0.4
+     }
+    }
+   }
+  },
+  {
+   "path": "a7802527-c926-5b77-9fc2-c7dd6bf2ef4e",
+   "attributes": {
+    "pion::prop::zijde": "d",
+    "pion::prop::laag": 3,
+    "pion::prop::lengte": 1220,
+    "pion::prop::naam": "Verstevigingskoker verzinkt staal"
+   }
+  },
+  {
+   "path": "2ecca2b3-29c5-57f6-af98-068528e628b5",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcDistributionPort",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcDistributionPort"
+    }
+   }
+  },
+  {
+   "path": "2ecca2b3-29c5-57f6-af98-068528e628b5",
+   "attributes": {
+    "bsi::ifc::system::flowdirection": "SINK"
+   }
+  },
+  {
+   "path": "2ecca2b3-29c5-57f6-af98-068528e628b5",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       -1.0,
+       0.0
+      ],
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       69.0,
+       -632.5,
+       110.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "2ecca2b3-29c5-57f6-af98-068528e628b5",
+   "attributes": {
+    "pion::prop::NominalDiameter": 160.0,
+    "pion::prop::PortNumber": 1,
+    "pion::prop::aansluitingId": "a:1:1:160:1",
+    "pion::prop::elementId": "a:1:1:400",
+    "pion::prop::aansluitIndex": 1,
+    "pion::prop::diameter": 160.0,
+    "pion::prop::poortMaat": 160.0,
+    "pion::prop::stroomrichting": "in",
+    "pion::prop::uitbreekpoort": "Ø160-1",
+    "pion::prop::insteekLengte": 50.0,
+    "pion::prop::changedataPositieX": 69.0,
+    "pion::prop::changedataPositieY": -785.0,
+    "pion::prop::changedataPositieZ": 110.0
+   }
+  },
+  {
+   "path": "676b440e-2644-51d8-b6ad-b249798a997b",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcDistributionPort",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcDistributionPort"
+    }
+   }
+  },
+  {
+   "path": "676b440e-2644-51d8-b6ad-b249798a997b",
+   "attributes": {
+    "bsi::ifc::system::flowdirection": "SINK"
+   }
+  },
+  {
+   "path": "676b440e-2644-51d8-b6ad-b249798a997b",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       -1.0,
+       0.0
+      ],
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       265.0,
+       -473.5,
+       222.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "676b440e-2644-51d8-b6ad-b249798a997b",
+   "attributes": {
+    "pion::prop::NominalDiameter": 110.0,
+    "pion::prop::PortNumber": 1,
+    "pion::prop::aansluitingId": "b:1:1:110:1",
+    "pion::prop::elementId": "b:1:1:400",
+    "pion::prop::aansluitIndex": 1,
+    "pion::prop::diameter": 110.0,
+    "pion::prop::poortMaat": 110.0,
+    "pion::prop::stroomrichting": "in",
+    "pion::prop::uitbreekpoort": "Ø110-1",
+    "pion::prop::insteekLengte": 50.0,
+    "pion::prop::changedataPositieX": 417.5,
+    "pion::prop::changedataPositieY": -473.5,
+    "pion::prop::changedataPositieZ": 222.0
+   }
+  },
+  {
+   "path": "4be0ad02-6529-5a70-952f-23a8f83c56f8",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcDistributionPort",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcDistributionPort"
+    }
+   }
+  },
+  {
+   "path": "4be0ad02-6529-5a70-952f-23a8f83c56f8",
+   "attributes": {
+    "bsi::ifc::system::flowdirection": "SINK"
+   }
+  },
+  {
+   "path": "4be0ad02-6529-5a70-952f-23a8f83c56f8",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       -1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       -1.0,
+       0.0
+      ],
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       106.0,
+       632.5,
+       800.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "4be0ad02-6529-5a70-952f-23a8f83c56f8",
+   "attributes": {
+    "pion::prop::NominalDiameter": 50.0,
+    "pion::prop::PortNumber": 1,
+    "pion::prop::aansluitingId": "c:3:1:50:1",
+    "pion::prop::elementId": "c:1:3:400",
+    "pion::prop::aansluitIndex": 1,
+    "pion::prop::diameter": 50.0,
+    "pion::prop::poortMaat": 50.0,
+    "pion::prop::stroomrichting": "in",
+    "pion::prop::uitbreekpoort": "Ø50-1",
+    "pion::prop::insteekLengte": 50.0,
+    "pion::prop::changedataPositieX": 106.0,
+    "pion::prop::changedataPositieY": 785.0,
+    "pion::prop::changedataPositieZ": 800.0
+   }
+  },
+  {
+   "path": "26991909-f4a1-5ec4-a14a-adb8e316c1e7",
+   "attributes": {
+    "bsi::ifc::class": {
+     "code": "IfcDistributionPort",
+     "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcDistributionPort"
+    }
+   }
+  },
+  {
+   "path": "26991909-f4a1-5ec4-a14a-adb8e316c1e7",
+   "attributes": {
+    "bsi::ifc::system::flowdirection": "SINK"
+   }
+  },
+  {
+   "path": "26991909-f4a1-5ec4-a14a-adb8e316c1e7",
+   "attributes": {
+    "usd::xformop": {
+     "transform": [
+      [
+       0.0,
+       -1.0,
+       0.0,
+       0.0
+      ],
+      [
+       0.0,
+       0.0,
+       -1.0,
+       0.0
+      ],
+      [
+       1.0,
+       0.0,
+       0.0,
+       0.0
+      ],
+      [
+       -265.0,
+       -414.5,
+       861.0,
+       1.0
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "path": "26991909-f4a1-5ec4-a14a-adb8e316c1e7",
+   "attributes": {
+    "pion::prop::NominalDiameter": 160.0,
+    "pion::prop::PortNumber": 1,
+    "pion::prop::aansluitingId": "d:3:2:160:1",
+    "pion::prop::elementId": "d:2:3:650",
+    "pion::prop::aansluitIndex": 1,
+    "pion::prop::diameter": 160.0,
+    "pion::prop::poortMaat": 160.0,
+    "pion::prop::stroomrichting": "in",
+    "pion::prop::uitbreekpoort": "Ø160-1",
+    "pion::prop::insteekLengte": 50.0,
+    "pion::prop::changedataPositieX": -417.5,
+    "pion::prop::changedataPositieY": -414.5,
+    "pion::prop::changedataPositieZ": 861.0
+   }
+  }
+ ]
+}
