@@ -4,7 +4,7 @@
   "ifcxVersion": "ifcx_alpha",
   "dataVersion": "1.0.0",
   "author": "leja@bimforce.com",
-  "timestamp": "2026-09-16T16:06:32Z"
+  "timestamp": "2026-09-16T16:10:50Z"
  },
  "imports": [
   {
@@ -652,9 +652,6 @@
   {
    "path": "28e67b0c-1ca5-5ef5-8a72-a660946f3f7f",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -825,9 +822,6 @@
   {
    "path": "23e3ba9c-09fb-5969-9880-927c1bd91705",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -998,9 +992,6 @@
   {
    "path": "5a75bc13-d9ba-5048-8eae-752386a8b8b9",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -1177,9 +1168,6 @@
   {
    "path": "f0c431a3-c83f-5b1c-a2bd-9b946bb32c98",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -1401,9 +1389,6 @@
   {
    "path": "a3cc073a-9b96-5f11-89b0-5cdcf01d1fd5",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -1574,9 +1559,6 @@
   {
    "path": "f1de63d3-f607-5693-ac1e-b463c877c8ee",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -1747,9 +1729,6 @@
   {
    "path": "d871cf86-1968-5014-9a51-a7c2a361717f",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -1920,9 +1899,6 @@
   {
    "path": "39729d26-8eee-5b09-a29d-876a8d3b255d",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -2099,9 +2075,6 @@
   {
    "path": "517bd0fd-1e95-5202-bdf8-4bb592d3c249",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -2323,9 +2296,6 @@
   {
    "path": "6f457466-4865-50a1-81d4-6af073915fcf",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -2502,9 +2472,6 @@
   {
    "path": "e988b9e7-0539-5ca2-a921-e86049b32ab0",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -2726,9 +2693,6 @@
   {
    "path": "1bc896dd-4de0-57e6-bdbe-e20215c31797",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -2899,9 +2863,6 @@
   {
    "path": "ae60301b-de67-5c5e-9d03-c9a76b990ff4",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -3072,9 +3033,6 @@
   {
    "path": "0c426da7-3414-53f9-9fd6-450ce1835883",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -3245,9 +3203,6 @@
   {
    "path": "1049c5ff-6c20-5cb3-ad20-2df42e1545f9",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -3418,9 +3373,6 @@
   {
    "path": "8cf47014-55df-5343-8909-946f2ef1a6ee",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -3597,9 +3549,6 @@
   {
    "path": "b97fa7a0-f4e1-50f8-b6f5-0c8f6d2079fb",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -3821,9 +3770,6 @@
   {
    "path": "f4c90389-e7be-5ce3-81ab-57fb134359a9",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -3994,9 +3940,6 @@
   {
    "path": "ffb05c96-656a-5445-82b8-e58a05115167",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -4167,9 +4110,6 @@
   {
    "path": "3cfce225-91b2-52f5-9e55-077e2f1c2417",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -4340,9 +4280,6 @@
   {
    "path": "910472d7-1660-59aa-9a1f-95775007e1d7",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -4513,9 +4450,6 @@
   {
    "path": "25d88e53-8f5c-56db-b13c-568016089e4c",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -4686,9 +4620,6 @@
   {
    "path": "649cfe72-0f23-5f8f-892d-81b66b449e22",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -4859,9 +4790,6 @@
   {
    "path": "22447e71-cbe8-5b35-b9d0-e382e1f07122",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -5032,9 +4960,6 @@
   {
    "path": "26d8db99-a8c5-58c7-8a6c-360b545f8b54",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -5205,9 +5130,6 @@
   {
    "path": "613ea170-8d16-5229-ac26-ca41fb971e92",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -5378,9 +5300,6 @@
   {
    "path": "9de14753-4a5c-5a82-8718-3bbc871a6b70",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -5551,9 +5470,6 @@
   {
    "path": "2521e989-1578-52e0-8014-101e0824b382",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -5730,9 +5646,6 @@
   {
    "path": "aebba8e9-e767-5ad9-9ad6-a419c5e0d21f",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -5954,9 +5867,6 @@
   {
    "path": "30373c65-2d97-5cd8-8eab-e491fced9ba3",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -6127,9 +6037,6 @@
   {
    "path": "79bf97bf-df3d-59e5-ab0f-7965b3884ce1",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -6300,9 +6207,6 @@
   {
    "path": "fb837edd-4833-5669-bbd2-55e32d12d964",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -6473,9 +6377,6 @@
   {
    "path": "58f33e5a-45da-5017-a8ac-fca0b2292071",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -6641,9 +6542,6 @@
   {
    "path": "951ec87a-f915-5e76-8a6f-01ee7b43406d",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -6809,9 +6707,6 @@
   {
    "path": "3da2e178-e2a7-59c1-b9cf-ad09467430e2",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -6977,9 +6872,6 @@
   {
    "path": "5c41a59b-43c9-5e1b-8e90-a99fc7b16d2b",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -7145,9 +7037,6 @@
   {
    "path": "1cbcd2d5-1d27-5073-bc50-70037157b85b",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -7313,9 +7202,6 @@
   {
    "path": "a1b22e76-4f9c-5406-972b-dd6848c18baf",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -7481,9 +7367,6 @@
   {
    "path": "5ab78ff1-41d9-5f5d-acf5-9cda651e4a72",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -7649,9 +7532,6 @@
   {
    "path": "8c294671-5a52-5ea3-b496-bbfc0866a260",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -7817,9 +7697,6 @@
   {
    "path": "ac10064b-bd88-5b39-9f5e-98d46cbfef87",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -7985,9 +7862,6 @@
   {
    "path": "4a283012-331f-5199-b25e-35b9f35b2850",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -8153,9 +8027,6 @@
   {
    "path": "512ba580-34fd-5a20-99a2-fca67635414c",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -8321,9 +8192,6 @@
   {
    "path": "31898c1b-f06b-5215-b4cd-26d81be3f799",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -8489,9 +8357,6 @@
   {
    "path": "4d0e2616-159a-5f21-84e1-1afa02425f3f",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -8657,9 +8522,6 @@
   {
    "path": "f651d40c-e8ca-557d-bf2a-6e3ca1a84817",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -8825,9 +8687,6 @@
   {
    "path": "eb5a2aa2-885e-5d44-a9fc-ca4be14ff463",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -8993,9 +8852,6 @@
   {
    "path": "35ac1d29-d32f-598e-8398-6177c99bb5bd",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PP"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.12,
      0.12,
@@ -9161,9 +9017,6 @@
   {
    "path": "2421f21a-3fff-53da-99a3-207eae296639",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "PE"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.25,
      0.25,
@@ -9323,9 +9176,6 @@
   {
    "path": "c69a9f66-c49a-56e3-a66f-1f165f75bd5c",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "Composiet"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.45,
      0.45,
@@ -9487,9 +9337,6 @@
   {
    "path": "81950067-c48b-5370-963b-3e85ba4af8dc",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "HDPE"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.1,
      0.1,
@@ -9651,9 +9498,6 @@
   {
    "path": "21381763-a587-5535-9d62-0b4692626c7f",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "HDPE"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.1,
      0.1,
@@ -9815,9 +9659,6 @@
   {
    "path": "f03fe08c-b566-5fb9-a4de-4d48a5f61550",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "HDPE"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.1,
      0.1,
@@ -9979,9 +9820,6 @@
   {
    "path": "dd47b30f-d673-5d1b-963d-8d7b37f0f4b8",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "HDPE"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.1,
      0.1,
@@ -10143,9 +9981,6 @@
   {
    "path": "c756fafa-3863-5825-a0bd-dd206f60069c",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "Verzinkt staal"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.72,
      0.73,
@@ -10307,9 +10142,6 @@
   {
    "path": "480b54bc-1b60-5bb5-a96c-2517b69dd191",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "Verzinkt staal"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.72,
      0.73,
@@ -10471,9 +10303,6 @@
   {
    "path": "c054f81f-b211-56a6-a774-07fe8c888ea3",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "Verzinkt staal"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.72,
      0.73,
@@ -10635,9 +10464,6 @@
   {
    "path": "98372c61-a2dc-5b47-bc34-6730ec36b473",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "Verzinkt staal"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.72,
      0.73,
@@ -10799,9 +10625,6 @@
   {
    "path": "c860adc1-79f8-58ec-847c-b0f555e52390",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "HDPE"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.1,
      0.1,
@@ -10963,9 +10786,6 @@
   {
    "path": "139d2ca3-1f7a-5f9a-9f7e-c29eede6f3ed",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "HDPE"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.1,
      0.1,
@@ -11127,9 +10947,6 @@
   {
    "path": "c70fc7d3-279e-5fe9-a1a3-a2b29b786528",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "HDPE"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.1,
      0.1,
@@ -11291,9 +11108,6 @@
   {
    "path": "8f5fe7e1-cc10-5c0f-b4c0-9400d3ddd883",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "HDPE"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.1,
      0.1,
@@ -11455,9 +11269,6 @@
   {
    "path": "22092405-0059-5974-8f24-0daadfa20c3f",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "Verzinkt staal"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.72,
      0.73,
@@ -11619,9 +11430,6 @@
   {
    "path": "6a047f5d-4dc6-5e97-b1fc-cd9f065213d0",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "Verzinkt staal"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.72,
      0.73,
@@ -11783,9 +11591,6 @@
   {
    "path": "12f4f016-c4bd-5a3e-a077-2440e7f5a2bd",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "Verzinkt staal"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.72,
      0.73,
@@ -11947,9 +11752,6 @@
   {
    "path": "fc116664-52e8-5558-bdfd-93e2f8fdd520",
    "attributes": {
-    "bsi::ifc::material": {
-     "code": "Verzinkt staal"
-    },
     "bsi::ifc::presentation::diffuseColor": [
      0.72,
      0.73,
